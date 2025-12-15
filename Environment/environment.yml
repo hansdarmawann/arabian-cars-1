@@ -1,6 +1,7 @@
-name: arabian-cars-1-1
+name: base2
 channels:
   - defaults
+  - conda-forge
 dependencies:
   - _py-xgboost-mutex=2.0=cpu_2
   - anaconda-anon-usage=0.7.4=pyhb46e38b_100
@@ -125,6 +126,7 @@ dependencies:
   - matplotlib-inline=0.2.1=py313haa95532_0
   - mdurl=0.1.2=py313haa95532_0
   - menuinst=2.4.1=py313h885b0b7_1
+  - missingno=0.5.2=pyhd8ed1ab_1
   - mistune=3.1.2=py313haa95532_0
   - mkl=2025.0.0=h5da7b33_930
   - mkl-service=2.5.2=py313h0b37514_0
@@ -146,7 +148,7 @@ dependencies:
   - numpy=2.3.5=py313h050da96_0
   - numpy-base=2.3.5=py313h1e017a8_0
   - openjpeg=2.5.2=hae555c5_0
-  - openssl=3.0.18=h543e019_0
+  - openssl=3.6.0=h725018a_0
   - packaging=25.0=py313haa95532_1
   - pandas=2.3.3=py313h42c1672_1
   - pandoc=3.8=haa95532_0
@@ -259,3 +261,4 @@ dependencies:
   - zlib=1.3.1=h02ab6af_0
   - zstandard=0.24.0=py313he335c29_0
   - zstd=1.5.7=h56299aa_0
+prefix: E:\Users\hadarmawan\AppData\Local\miniconda3\envs\base2
