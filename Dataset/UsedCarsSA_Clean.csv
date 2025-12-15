@@ -10,8 +10,6 @@ Toyota,Yaris,2018,Saudi,White,Standard,1.5,Gas,Automatic,131000.0,Jeddah,32000.0
 Toyota,Camry,2017,Gulf Arabic,White,Standard,2.5,Gas,Automatic,107000.0,Dammam,50000.0
 Nissan,Patrol,2014,Saudi,White,Full,5.6,Gas,Automatic,106000.0,Dammam,135000.0
 Chevrolet,Tahoe,2018,Other,Grey,Semi Full,5.3,Gas,Automatic,176140.0,Riyadh,153000.0
-Mercedes,CLA,2020,Other,White,Standard,3.5,Gas,Automatic,20000.0,Riyadh,235000.0
-Mercedes,E,2017,Saudi,Grey,Full,2.0,Gas,Automatic,20600.0,Dammam,210000.0
 Hyundai,Accent,2019,Saudi,White,Standard,1.4,Gas,Automatic,83000.0,Jeddah,37000.0
 Toyota,Corolla,2018,Saudi,White,Standard,1.6,Gas,Automatic,7702.0,Dammam,45000.0
 MINI,Copper,2016,Gulf Arabic,Grey,Full,2.0,Gas,Automatic,110000.0,Dammam,83000.0
@@ -22,7 +20,6 @@ Hyundai,Elantra,2018,Other,White,Standard,1.6,Diesel,Automatic,83000.0,Riyadh,50
 Honda,Civic,2017,Saudi,Black,Standard,1.5,Gas,Automatic,200000.0,Jeddah,38000.0
 Toyota,Furniture,2021,Saudi,White,Semi Full,2.4,Diesel,Automatic,29000.0,Qassim,145000.0
 Lexus,RX,2019,Saudi,Bronze,Full,3.5,Gas,Automatic,129000.0,Jeddah,178000.0
-Land Rover,Range Rover,2014,Saudi,Black,Full,3.0,Gas,Automatic,80000.0,Makkah,230000.0
 GMC,Yukon,2017,Saudi,Silver,Standard,5.3,Gas,Automatic,137317.0,Dammam,130000.0
 Nissan,Bus Urvan,2020,Saudi,White,Standard,3.5,Gas,Manual,27000.0,Riyadh,68000.0
 Toyota,Aurion,2015,Saudi,White,Semi Full,2.6,Gas,Automatic,300.0,Jazan,50000.0
@@ -67,7 +64,6 @@ Cadillac,CT-S,2010,Saudi,Another Color,Full,3.6,Gas,Automatic,240000.0,Riyadh,32
 Toyota,Prado,2013,Saudi,Another Color,Full,3.8,Gas,Automatic,108000.0,Riyadh,87000.0
 Geely,EC7,2014,Saudi,Golden,Full,1.4,Gas,Manual,161300.0,Riyadh,12000.0
 MG,ZS,2019,Saudi,Black,Semi Full,1.5,Gas,Automatic,23000.0,Riyadh,47000.0
-Lexus,ES,2019,Saudi,Another Color,Full,2.5,Gas,Automatic,26000.0,Jeddah,207000.0
 Hyundai,Kona,2019,Saudi,Blue,Standard,2.0,Gas,Automatic,19000.0,Riyadh,59000.0
 Jeep,Grand Cherokee,2014,Saudi,Black,Full,5.7,Gas,Automatic,120000.0,Riyadh,85000.0
 GMC,Yukon,2016,Gulf Arabic,White,Semi Full,5.3,Gas,Automatic,63000.0,Riyadh,140000.0
@@ -75,7 +71,6 @@ Honda,Accord,2015,Gulf Arabic,Grey,Standard,2.4,Gas,Automatic,221000.0,Riyadh,48
 Mercedes,S,2006,Other,White,Semi Full,4.3,Gas,Automatic,235115.0,Riyadh,15000.0
 INFINITI,M,2007,Saudi,Black,Full,4.5,Gas,Automatic,303000.0,Riyadh,10000.0
 Dodge,Charger,2018,Saudi,Another Color,Full,5.7,Gas,Automatic,85000.0,Aseer,130000.0
-Mercedes,S,2018,Saudi,Grey,Full,3.5,Gas,Automatic,73000.0,Riyadh,345000.0
 Ford,Taurus,2018,Saudi,White,Standard,2.0,Gas,Automatic,82000.0,Riyadh,77000.0
 Mercedes,E,2014,Gulf Arabic,White,Standard,2.0,Gas,Automatic,49000.0,Dammam,75000.0
 Nissan,Sunny,2019,Saudi,Silver,Standard,1.5,Gas,Automatic,105739.0,Riyadh,26800.0
@@ -85,8 +80,6 @@ Nissan,Sunny,2019,Saudi,Silver,Standard,1.5,Gas,Automatic,95623.0,Riyadh,27500.0
 Hyundai,Elantra,2019,Saudi,Grey,Semi Full,1.6,Gas,Automatic,86000.0,Dammam,54000.0
 Toyota,Yaris,2018,Saudi,White,Standard,1.5,Gas,Automatic,128000.0,Jeddah,32000.0
 Nissan,Patrol,1992,Saudi,White,Standard,4.6,Gas,Manual,357000.0,Dammam,27000.0
-Ferrari,GTB 599 Fiorano,2008,Saudi,Red,Full,6.0,Gas,Automatic,59000.0,Dammam,280000.0
-Mercedes,E,2017,Gulf Arabic,White,Full,2.0,Gas,Automatic,98000.0,Dammam,210000.0
 Hyundai,Accent,2019,Saudi,White,Standard,1.4,Gas,Automatic,101000.0,Jeddah,37000.0
 Mazda,CX9,2017,Other,Grey,Full,2.5,Gas,Automatic,93000.0,Dammam,111000.0
 Genesis,Royal,2015,Saudi,Red,Full,3.8,Gas,Automatic,194000.0,Riyadh,85000.0
@@ -155,7 +148,6 @@ Hyundai,Elantra,2019,Saudi,Grey,Standard,2.0,Gas,Automatic,95000.0,Riyadh,52000.
 Hyundai,Accent,2017,Saudi,Grey,Semi Full,1.4,Gas,Automatic,147000.0,Riyadh,29000.0
 Genesis,Royal,2016,Saudi,White,Full,3.8,Gas,Automatic,140000.0,Riyadh,88000.0
 GMC,Yukon,2016,Saudi,Bronze,Full,6.2,Gas,Automatic,152000.0,Riyadh,122000.0
-Toyota,Land Cruiser,2018,Gulf Arabic,Black,Full,5.7,Gas,Automatic,61312.0,Riyadh,270000.0
 Nissan,Sunny,2017,Saudi,Grey,Standard,1.5,Gas,Automatic,152973.0,Riyadh,24500.0
 Renault,Symbol,2020,Saudi,White,Standard,1.6,Gas,Automatic,46505.0,Riyadh,26000.0
 Renault,Fluence,2015,Saudi,Grey,Semi Full,1.6,Gas,Automatic,116633.0,Riyadh,25500.0
@@ -222,13 +214,10 @@ Genesis,G70,2019,Saudi,Grey,Semi Full,2.0,Gas,Automatic,11000.0,Riyadh,109000.0
 Ford,Flex,2012,Saudi,Silver,Semi Full,3.5,Gas,Automatic,277000.0,Dammam,30000.0
 GMC,Yukon,2015,Saudi,White,Full,5.3,Gas,Automatic,200000.0,Dammam,150000.0
 GMC,Yukon,2016,Other,White,Full,6.2,Gas,Automatic,126000.0,Riyadh,176000.0
-Mercedes,E,2021,Other,White,Standard,2.0,Gas,Automatic,4000.0,Riyadh,259000.0
 Lexus,UX,2019,Gulf Arabic,Blue,Full,2.0,Gas,Automatic,7000.0,Dammam,165000.0
 Toyota,Camry,2016,Saudi,White,Semi Full,2.5,Gas,Automatic,238000.0,Jeddah,48500.0
 Mercedes,C,2016,Other,White,Full,2.0,Gas,Automatic,84000.0,Dammam,129000.0
-Land Rover,Range Rover,2019,Other,Black,Unknown,3.0,Gas,Automatic,1800.0,Riyadh,350000.0
 Toyota,Yaris,2015,Saudi,White,Standard,1.4,Gas,Automatic,193000.0,Dammam,25000.0
-Mercedes,S,2015,Other,Navy,Full,3.0,Gas,Automatic,46000.0,Dammam,210000.0
 Toyota,Dyna,1987,Saudi,White,Standard,3.5,Gas,Manual,1100000.0,Aseer,6000.0
 Kia,Picanto,2015,Saudi,Another Color,Standard,1.0,Gas,Automatic,136000.0,Al-Medina,18500.0
 GMC,Yukon,2008,Saudi,White,Full,5.3,Gas,Automatic,200000.0,Jeddah,38000.0
@@ -251,10 +240,7 @@ Mazda,6,2014,Other,Black,Full,2.5,Gas,Manual,201000.0,Riyadh,42000.0
 Toyota,Prado,2018,Gulf Arabic,White,Semi Full,4.0,Gas,Automatic,39000.0,Riyadh,131500.0
 Nissan,Sylvian Bus,2018,Saudi,White,Full,3.0,Gas,Manual,3000.0,Riyadh,107000.0
 Toyota,Prado,2018,Gulf Arabic,White,Semi Full,4.0,Gas,Automatic,86000.0,Riyadh,127000.0
-Lexus,LX,2018,Saudi,White,Full,1.0,Gas,Automatic,105000.0,Riyadh,355000.0
-Land Rover,Range Rover,2014,Saudi,White,Full,3.0,Gas,Automatic,131000.0,Riyadh,230000.0
 Hyundai,H1,2015,Saudi,Black,Semi Full,2.7,Gas,Automatic,131000.0,Al-Medina,42000.0
-Mercedes,S,2015,Other,Black,Full,3.0,Gas,Automatic,109000.0,Riyadh,199000.0
 Toyota,Camry,2019,Saudi,Black,Full,2.5,Gas,Automatic,13000.0,Riyadh,94000.0
 Toyota,Camry,2020,Saudi,Brown,Standard,2.5,Gas,Automatic,37000.0,Riyadh,80000.0
 Toyota,Hilux,2014,Saudi,White,Standard,2.5,Gas,Manual,125000.0,Riyadh,40000.0
@@ -268,7 +254,6 @@ Chevrolet,Tahoe,2015,Saudi,Silver,Standard,5.3,Gas,Automatic,233000.0,Riyadh,980
 Toyota,Land Cruiser Pickup,2018,Saudi,Another Color,Standard,4.0,Gas,Manual,98000.0,Riyadh,105000.0
 Genesis,G80,2019,Saudi,Another Color,Semi Full,3.3,Gas,Automatic,50000.0,Riyadh,125000.0
 Toyota,Cressida,1996,Saudi,White,Semi Full,1.5,Gas,Manual,8000.0,Aseer,13000.0
-Lexus,LX,2018,Gulf Arabic,Golden,Full,7.5,Gas,Automatic,122000.0,Taef,340000.0
 Renault,Duster,2017,Saudi,White,Standard,2.0,Gas,Automatic,49597.0,Riyadh,27500.0
 Changan,Seven,2020,Saudi,Silver,Standard,1.5,Gas,Automatic,37644.0,Riyadh,27500.0
 Changan,Seven,2020,Saudi,White,Standard,1.5,Gas,Automatic,55531.0,Riyadh,27500.0
@@ -305,13 +290,9 @@ Hyundai,Accent,2018,Saudi,White,Standard,1.4,Gas,Automatic,71000.0,Riyadh,38000.
 Hyundai,Sonata,2018,Other,White,Full,2.0,Gas,Automatic,65239.0,Qassim,67000.0
 Toyota,Yaris,2018,Saudi,Silver,Standard,1.5,Gas,Automatic,131000.0,Jeddah,35000.0
 Ford,Expedition,2008,Saudi,Blue,Semi Full,5.4,Gas,Automatic,346000.0,Dammam,27000.0
-Rolls-Royce,Ghost,2010,Saudi,Blue,Full,6.0,Gas,Automatic,175000.0,Dammam,310000.0
 Genesis,G80,2016,Other,White,Full,3.8,Gas,Automatic,124000.0,Riyadh,86000.0
-Mercedes,E,2019,Other,Black,Standard,2.0,Gas,Automatic,38000.0,Riyadh,216000.0
-Porsche,911,2013,Saudi,Grey,Full,3.5,Gas,Automatic,26000.0,Dammam,280000.0
 Toyota,Corolla,2018,Saudi,Grey,Standard,1.6,Gas,Automatic,121000.0,Jeddah,48000.0
 Genesis,Royal,2015,Saudi,Black,Full,5.0,Gas,Automatic,98000.0,Riyadh,111000.0
-BMW,The 7,2020,Gulf Arabic,Black,Full,2.0,Gas,Automatic,14000.0,Riyadh,349000.0
 Kia,Carnival,2009,Saudi,Another Color,Standard,3.5,Gas,Automatic,126000.0,Dammam,20000.0
 Lexus,ES,2019,Other,Black,Full,3.5,Gas,Automatic,40000.0,Dammam,185000.0
 Mitsubishi,Attrage,2018,Saudi,White,Standard,1.2,Gas,Automatic,68000.0,Al-Medina,26500.0
@@ -319,7 +300,6 @@ Ford,Focus,2014,Saudi,Black,Standard,1.5,Gas,Automatic,75000.0,Riyadh,21000.0
 Chevrolet,Caprice,2013,Saudi,Silver,Standard,6.0,Gas,Automatic,106000.0,Dammam,79000.0
 Chevrolet,Impala,2016,Saudi,White,Standard,3.5,Gas,Automatic,91000.0,Dammam,55000.0
 Toyota,Furniture,2014,Saudi,White,Standard,2.7,Gas,Automatic,127000.0,Jeddah,57000.0
-Toyota,Land Cruiser,2020,Saudi,White,Full,4.6,Gas,Automatic,21000.0,Jazan,275000.0
 Nissan,Sunny,2018,Saudi,White,Standard,1.5,Gas,Automatic,79968.0,Riyadh,29000.0
 Toyota,Yaris,2015,Saudi,Black,Full,1.5,Gas,Automatic,203429.0,Riyadh,29000.0
 Hyundai,Accent,2018,Saudi,Grey,Standard,1.4,Gas,Automatic,93788.0,Riyadh,29000.0
@@ -329,13 +309,10 @@ Chevrolet,Tahoe,2019,Saudi,Black,Standard,5.3,Gas,Automatic,34000.0,Riyadh,15800
 Kia,Rio,2017,Saudi,White,Standard,1.4,Gas,Automatic,170000.0,Jeddah,26000.0
 Ford,Explorer,2015,Saudi,Black,Semi Full,3.5,Gas,Automatic,160000.0,Al-Ahsa,65000.0
 Nissan,X-Trail,2006,Saudi,White,Standard,2.5,Gas,Automatic,238000.0,Dammam,13000.0
-Toyota,Land Cruiser,2020,Gulf Arabic,White,Semi Full,5.7,Gas,Automatic,124000.0,Jeddah,250000.0
 Toyota,Land Cruiser,2015,Saudi,Black,Full,5.7,Gas,Automatic,119000.0,Dammam,180000.0
 Chevrolet,Tahoe,2015,Other,Black,Full,5.7,Gas,Automatic,168000.0,Dammam,110000.0
 Honda,Accord,2019,Gulf Arabic,White,Full,2.0,Gas,Automatic,45000.0,Riyadh,102000.0
-Mercedes,C,2017,Other,Grey,Full,3.0,Gas,Automatic,210000.0,Riyadh,210000.0
 Nissan,Land Cruiser Pickup,2016,Saudi,White,Full,4.0,Gas,Automatic,44000.0,Riyadh,95000.0
-Toyota,Land Cruiser,2019,Saudi,White,Full,4.6,Gas,Automatic,60000.0,Riyadh,240000.0
 Ford,F150,2017,Other,Grey,Full,8.0,Gas,Automatic,140000.0,Riyadh,145000.0
 Toyota,Hilux,2016,Gulf Arabic,White,Full,2.7,Gas,Manual,388000.0,Riyadh,55000.0
 Subaru,Forester,2010,Saudi,White,Standard,2.4,Gas,Automatic,113000.0,Dammam,18500.0
@@ -345,25 +322,20 @@ Renault,Duster,2018,Saudi,Oily,Standard,2.0,Gas,Automatic,53811.0,Riyadh,29500.0
 Nissan,Sunny,2019,Saudi,Grey,Standard,1.5,Gas,Automatic,93049.0,Riyadh,29500.0
 Nissan,Sunny,2019,Saudi,Grey,Standard,1.5,Gas,Automatic,87042.0,Riyadh,29500.0
 Nissan,Sunny,2019,Saudi,Grey,Standard,1.5,Gas,Automatic,85093.0,Riyadh,29500.0
-Land Rover,Range Rover,2015,Gulf Arabic,White,Full,3.0,Gas,Automatic,140000.0,Riyadh,260000.0
 BMW,The 4,2015,Gulf Arabic,Blue,Full,2.0,Gas,Automatic,122000.0,Riyadh,110000.0
 Lexus,GS,2017,Gulf Arabic,Black,Full,1.0,Gas,Automatic,78000.0,Riyadh,170000.0
 Mitsubishi,Pajero,2018,Gulf Arabic,Silver,Full,3.5,Gas,Automatic,56525.0,Riyadh,78000.0
 Hyundai,Sonata,2016,Gulf Arabic,Blue,Full,2.4,Gas,Automatic,76000.0,Riyadh,68000.0
 Mercedes,C,2016,Gulf Arabic,Grey,Full,2.0,Gas,Automatic,119000.0,Riyadh,130000.0
 Chrysler,C300,2018,Gulf Arabic,Black,Full,5.7,Gas,Automatic,49000.0,Riyadh,135000.0
-Land Rover,Range Rover,2016,Gulf Arabic,White,Full,5.0,Gas,Automatic,110000.0,Riyadh,255000.0
-Land Rover,Range Rover,2016,Gulf Arabic,White,Full,5.0,Gas,Automatic,132000.0,Riyadh,235000.0
 MINI,Copper,2016,Gulf Arabic,Black,Full,2.0,Gas,Automatic,42000.0,Riyadh,95000.0
 Chevrolet,Impala,2019,Gulf Arabic,White,Semi Full,3.6,Gas,Automatic,84000.0,Riyadh,77000.0
 Toyota,Avalon,2017,Gulf Arabic,White,Full,3.5,Gas,Automatic,53000.0,Riyadh,118000.0
-Nissan,Patrol,2019,Saudi,White,Full,4.0,Gas,Automatic,43000.0,Riyadh,225000.0
 GMC,Acadia,2016,Saudi,White,Semi Full,3.5,Gas,Automatic,106000.0,Riyadh,75000.0
 GMC,Sierra,2020,Gulf Arabic,Grey,Full,5.3,Gas,Automatic,32000.0,Riyadh,158000.0
 Lexus,ES,2017,Gulf Arabic,White,Full,3.5,Gas,Automatic,95000.0,Riyadh,141000.0
 Lexus,ES,2017,Gulf Arabic,Black,Full,3.5,Gas,Automatic,39000.0,Riyadh,160000.0
 Honda,City,2016,Saudi,Black,Full,4.0,Gas,Automatic,51000.0,Riyadh,41000.0
-Lexus,LX,2018,Other,White,Full,5.7,Gas,Automatic,107000.0,Riyadh,365000.0
 Mitsubishi,Pajero,2018,Gulf Arabic,Golden,Full,3.5,Gas,Automatic,56000.0,Riyadh,76000.0
 Chevrolet,Tahoe,2017,Gulf Arabic,White,Full,5.3,Gas,Automatic,73000.0,Riyadh,142000.0
 Toyota,Prado,2017,Gulf Arabic,White,Full,4.0,Gas,Automatic,39000.0,Riyadh,151000.0
@@ -381,14 +353,12 @@ Land Rover,Range Rover,2018,Saudi,White,Full,3.8,Gas,Automatic,26000.0,Riyadh,17
 BMW,The 5,2016,Gulf Arabic,White,Full,2.0,Gas,Automatic,105000.0,Riyadh,85000.0
 Toyota,Camry,2016,Gulf Arabic,Black,Semi Full,2.5,Gas,Automatic,83000.0,Riyadh,72000.0
 Hyundai,Sonata,2019,Gulf Arabic,White,Standard,2.4,Gas,Automatic,35000.0,Riyadh,64000.0
-Land Rover,Range Rover,2016,Gulf Arabic,White,Full,5.0,Gas,Automatic,125000.0,Riyadh,245000.0
 Chevrolet,Silverado,2017,Gulf Arabic,Silver,Full,5.3,Gas,Automatic,110000.0,Riyadh,107000.0
 Audi,A5,2016,Gulf Arabic,Blue,Full,2.0,Gas,Automatic,90000.0,Riyadh,115000.0
 Hyundai,Senta fe,2016,Gulf Arabic,White,Semi Full,3.3,Gas,Automatic,12000.0,Riyadh,79000.0
 Chevrolet,Tahoe,2016,Saudi,White,Semi Full,5.3,Gas,Automatic,197000.0,Riyadh,92000.0
 Jeep,Cherokee,2016,Gulf Arabic,Grey,Full,2.4,Gas,Automatic,81000.0,Riyadh,88000.0
 Toyota,Camry,2018,Gulf Arabic,White,Full,2.5,Gas,Automatic,42000.0,Riyadh,95000.0
-Land Rover,Range Rover,2016,Gulf Arabic,Black,Full,5.0,Gas,Automatic,120000.0,Riyadh,235000.0
 Nissan,Altima,2018,Gulf Arabic,White,Semi Full,2.5,Gas,Automatic,48000.0,Riyadh,68000.0
 BMW,X,2016,Gulf Arabic,White,Full,4.4,Gas,Automatic,130000.0,Riyadh,160000.0
 Nissan,Patrol,2015,Saudi,Grey,Semi Full,4.8,Gas,Automatic,134000.0,Riyadh,135000.0
@@ -408,14 +378,10 @@ Chevrolet,Impala,2019,Gulf Arabic,Black,Semi Full,3.6,Gas,Automatic,85000.0,Riya
 Honda,Odyssey,2016,Gulf Arabic,Black,Full,3.5,Gas,Automatic,80000.0,Riyadh,72000.0
 Nissan,Altima,2019,Gulf Arabic,White,Full,2.5,Gas,Automatic,1000.0,Riyadh,115000.0
 Genesis,G80,2017,Gulf Arabic,Black,Full,3.8,Gas,Automatic,66000.0,Riyadh,119000.0
-Mercedes,S,2015,Gulf Arabic,Grey,Full,3.0,Gas,Automatic,53000.0,Riyadh,260000.0
 Mercedes,C,2017,Gulf Arabic,White,Full,2.0,Gas,Automatic,120000.0,Riyadh,143000.0
 Mercedes,E,2016,Gulf Arabic,White,Full,3.0,Gas,Automatic,120000.0,Riyadh,135000.0
-Land Rover,Range Rover,2016,Gulf Arabic,Grey,Full,5.0,Gas,Automatic,58000.0,Riyadh,250000.0
-Lexus,RX,2017,Gulf Arabic,Black,Full,3.5,Gas,Automatic,59000.0,Riyadh,188000.0
 Hyundai,Sonata,2019,Gulf Arabic,White,Semi Full,2.4,Gas,Automatic,28000.0,Riyadh,68000.0
 Hyundai,Senta fe,2015,Gulf Arabic,Silver,Full,3.3,Gas,Automatic,350000.0,Riyadh,52000.0
-Lexus,LX,2015,Saudi,White,Full,5.7,Gas,Automatic,94000.0,Riyadh,238000.0
 Chevrolet,Tahoe,2010,Saudi,Bronze,Full,5.3,Gas,Automatic,292000.0,Riyadh,55000.0
 Chevrolet,Suburban,2018,Gulf Arabic,Black,Semi Full,3.5,Gas,Automatic,58000.0,Riyadh,170000.0
 Kia,Optima,2018,Gulf Arabic,White,Standard,2.0,Gas,Automatic,48000.0,Riyadh,67000.0
@@ -425,7 +391,6 @@ GMC,Yukon,2016,Gulf Arabic,Bronze,Standard,5.3,Gas,Automatic,88000.0,Riyadh,1410
 Ford,Expedition,2016,Gulf Arabic,White,Full,3.5,Gas,Automatic,81000.0,Riyadh,88000.0
 Hyundai,Sonata,2016,Gulf Arabic,White,Full,2.4,Gas,Automatic,38000.0,Riyadh,63000.0
 Lexus,ES,2015,Gulf Arabic,Black,Semi Full,3.5,Gas,Automatic,104000.0,Riyadh,105000.0
-Mercedes,G,2015,Saudi,White,Full,8.8,Gas,Automatic,213000.0,Riyadh,240000.0
 Chevrolet,Impala,2014,Saudi,Black,Semi Full,3.6,Gas,Automatic,189000.0,Dammam,40000.0
 Hyundai,Accent,2017,Saudi,White,Semi Full,1.6,Gas,Automatic,173700.0,Riyadh,30000.0
 Hyundai,Accent,2017,Saudi,White,Semi Full,1.6,Gas,Automatic,207135.0,Riyadh,30000.0
@@ -447,11 +412,9 @@ Lexus,ES,2016,Gulf Arabic,Grey,Semi Full,3.5,Gas,Automatic,92000.0,Riyadh,115000
 Toyota,Land Cruiser,2016,Gulf Arabic,White,Full,5.7,Gas,Automatic,42000.0,Riyadh,138000.0
 Mercedes,C,2015,Gulf Arabic,White,Full,2.0,Gas,Automatic,54000.0,Riyadh,120000.0
 Chevrolet,Tahoe,2016,Saudi,White,Full,5.3,Gas,Automatic,146000.0,Riyadh,118000.0
-Land Rover,Range Rover,2016,Gulf Arabic,Black,Full,5.0,Gas,Automatic,102000.0,Riyadh,252000.0
 Toyota,Camry,2007,Other,Silver,Full,1.1,Gas,Manual,450000.0,Riyadh,11000.0
 Nissan,Navara,2015,Saudi,White,Full,2.5,Gas,Manual,83000.0,Jeddah,45000.0
 Toyota,Furniture,2013,Saudi,Golden,Standard,2.7,Gas,Automatic,350000.0,Riyadh,50000.0
-Lexus,LX,2018,Saudi,Navy,Full,5.7,Gas,Automatic,94800.0,Riyadh,370000.0
 Daihatsu,Gran Max,2014,Saudi,White,Standard,1.5,Gas,Manual,254000.0,Riyadh,25000.0
 Toyota,Corolla,2020,Saudi,Another Color,Standard,1.6,Gas,Automatic,16479.0,Riyadh,56000.0
 Toyota,Avalon,2013,Saudi,Red,Full,3.5,Gas,Automatic,169000.0,Aseer,75000.0
@@ -550,7 +513,6 @@ Chevrolet,Tahoe,2007,Other,White,Semi Full,5.3,Gas,Automatic,228400.0,Jazan,3900
 Toyota,FJ,2017,Saudi,White,Full,7.5,Gas,Automatic,138000.0,Aseer,118000.0
 Ford,Expedition,2018,Saudi,Grey,Standard,3.5,Gas,Automatic,55000.0,Jeddah,143000.0
 Chevrolet,Tahoe,2019,Saudi,Navy,Semi Full,5.3,Gas,Automatic,33000.0,Riyadh,163000.0
-Mercedes,GLC,2020,Gulf Arabic,Black,Full,2.8,Gas,Automatic,13000.0,Jeddah,289000.0
 Toyota,Corolla,2015,Other,White,Full,2.0,Gas,Automatic,80000.0,Riyadh,39000.0
 Hyundai,Accent,2019,Saudi,Red,Standard,1.4,Gas,Automatic,89685.0,Riyadh,34500.0
 Hyundai,Accent,2018,Saudi,White,Standard,1.4,Gas,Automatic,102109.0,Riyadh,35000.0
@@ -626,11 +588,9 @@ GMC,Yukon,2016,Saudi,Brown,Semi Full,5.7,Gas,Automatic,48000.0,Riyadh,150000.0
 Chevrolet,Caprice,2013,Saudi,Grey,Standard,6.0,Gas,Automatic,130000.0,Riyadh,75000.0
 Chevrolet,Caprice,2016,Saudi,White,Standard,6.0,Gas,Automatic,230000.0,Riyadh,75000.0
 Toyota,Land Cruiser,2005,Saudi,Blue,Semi Full,4.0,Gas,Automatic,446.0,Riyadh,50000.0
-Lexus,RX,2019,Gulf Arabic,White,Full,3.5,Gas,Automatic,56000.0,Jeddah,203000.0
 Jeep,Wrangler,2010,Other,Black,Full,3.8,Gas,Manual,188.0,Riyadh,47000.0
 Chevrolet,Tahoe,2020,Saudi,Oily,Standard,5.3,Gas,Automatic,30800.0,Makkah,166000.0
 Nissan,Pathfinder,2008,Saudi,Another Color,Full,2.6,Gas,Automatic,3150000.0,Riyadh,20000.0
-Chevrolet,Tahoe,2021,Saudi,White,Full,5.3,Gas,Automatic,800.0,Dammam,310000.0
 Toyota,Yaris,2018,Saudi,Silver,Standard,1.5,Gas,Automatic,134946.0,Jeddah,37500.0
 Hyundai,Accent,2019,Saudi,Another Color,Standard,1.4,Gas,Automatic,102650.0,Riyadh,37500.0
 Hyundai,Accent,2019,Saudi,White,Standard,1.4,Gas,Automatic,30302.0,Riyadh,38000.0
@@ -639,7 +599,6 @@ Ford,Focus,2013,Saudi,Silver,Standard,1.6,Gas,Automatic,145000.0,Riyadh,14000.0
 Mercedes,C,2019,Other,Black,Semi Full,2.0,Gas,Automatic,22000.0,Dammam,180000.0
 BMW,X,2017,Gulf Arabic,White,Semi Full,3.0,Gas,Automatic,71000.0,Dammam,170000.0
 Kia,Seltos,2020,Saudi,Blue,Semi Full,1.6,Gas,Automatic,4800.0,Riyadh,73000.0
-Mercedes,C,2019,Saudi,Grey,Full,2.0,Gas,Automatic,40000.0,Dammam,210000.0
 GMC,Acadia,2014,Saudi,Red,Full,3.6,Gas,Automatic,250000.0,Khobar,50000.0
 Mercedes,C,2017,Other,Silver,Full,2.0,Gas,Automatic,96000.0,Dammam,170000.0
 Ford,Flex,2015,Saudi,White,Standard,3.5,Gas,Automatic,93000.0,Riyadh,45000.0
@@ -729,10 +688,8 @@ Kia,Rio,2016,Saudi,Grey,Semi Full,1.4,Gas,Automatic,138000.0,Jeddah,30000.0
 BMW,The 6,2014,Saudi,Grey,Full,3.0,Gas,Automatic,206000.0,Khobar,98000.0
 Ford,Marquis,2011,Other,Bronze,Semi Full,4.0,Gas,Automatic,300000.0,Riyadh,22000.0
 Toyota,FJ,2016,Saudi,White,Semi Full,4.6,Gas,Automatic,272.0,Hail,85000.0
-Mercedes,SL,2017,Saudi,Grey,Full,4.7,Gas,Automatic,29000.0,Dammam,280000.0
 Mercedes,E,2016,Other,Silver,Full,2.0,Gas,Automatic,93000.0,Makkah,117000.0
 Chevrolet,Impala,2015,Saudi,Navy,Full,3.5,Gas,Automatic,200007.0,Jeddah,45000.0
-Land Rover,Range Rover,2019,Saudi,Another Color,Full,3.5,Gas,Automatic,38000.0,Dammam,375000.0
 Hyundai,Accent,2019,Saudi,Silver,Standard,1.4,Gas,Automatic,93239.0,Riyadh,40500.0
 Hyundai,Accent,2019,Saudi,White,Standard,1.4,Gas,Automatic,33487.0,Riyadh,40500.0
 Kia,Rio,2019,Saudi,Silver,Standard,1.4,Gas,Automatic,66148.0,Jeddah,40500.0
@@ -746,6 +703,7 @@ Nissan,Pathfinder,2006,Saudi,Blue,Semi Full,4.0,Gas,Automatic,300000.0,Riyadh,13
 HAVAL,H2,2020,Saudi,Blue,Full,1.5,Gas,Automatic,15000.0,Qassim,49000.0
 Ford,Focus,2014,Gulf Arabic,Blue,Standard,1.5,Gas,Automatic,98000.0,Khobar,23000.0
 Nissan,Patrol,2016,Saudi,White,Semi Full,5.6,Gas,Automatic,145000.0,Qassim,128000.0
+Hyundai,Elantra,2020,Saudi,Silver,Semi Full,2.0,Gas,Automatic,47000.0,Riyadh,1221.0
 Toyota,Ciocca,2013,Saudi,White,Semi Full,5.7,Gas,Automatic,235000.0,Al-Ahsa,85000.0
 Nissan,Sunny,2000,Gulf Arabic,Oily,Standard,1.3,Gas,Manual,120000.0,Qassim,7000.0
 Ford,Taurus,2019,Saudi,Silver,Standard,2.0,Gas,Automatic,34000.0,Qassim,85000.0
@@ -756,13 +714,16 @@ Hyundai,Elantra,2018,Saudi,White,Standard,1.6,Gas,Automatic,120377.0,Riyadh,4200
 Hyundai,Accent,2020,Saudi,Silver,Standard,1.4,Gas,Automatic,19717.0,Riyadh,41500.0
 Renault,Talisman,2017,Saudi,Grey,Standard,2.0,Gas,Automatic,80151.0,Riyadh,41500.0
 Toyota,Hilux,2017,Gulf Arabic,White,Semi Full,2.7,Gas,Manual,83000.0,Jubail,76000.0
+Hyundai,Sonata,2018,Saudi,Bronze,Standard,2.4,Gas,Automatic,200000.0,Aseer,1342.0
 Kia,Sportage,2014,Saudi,Grey,Full,2.4,Gas,Automatic,140000.0,Dammam,45000.0
 Mitsubishi,Pajero,2016,Gulf Arabic,Grey,Full,3.8,Gas,Automatic,205000.0,Riyadh,60000.0
 Hyundai,Elantra,2017,Gulf Arabic,Black,Semi Full,2.0,Gas,Automatic,51000.0,Jeddah,42000.0
+Hyundai,Sonata,2018,Saudi,Brown,Standard,2.4,Gas,Automatic,152000.0,Al-Medina,1312.0
 Ford,Victoria,2002,Saudi,Oily,Standard,4.6,Gas,Automatic,368000.0,Aseer,10000.0
 Toyota,Hilux,2014,Saudi,White,Standard,1.0,Gas,Manual,160.0,Jazan,50000.0
 Toyota,Innova,2014,Saudi,Blue,Standard,2.7,Gas,Automatic,123000.0,Dammam,33000.0
 Chevrolet,Suburban,2017,Other,Grey,Full,5.3,Gas,Automatic,153000.0,Riyadh,162000.0
+Hyundai,Senta fe,2016,Saudi,White,Standard,3.3,Gas,Automatic,199.0,Riyadh,1576.0
 Hyundai,H1,2012,Saudi,Grey,Full,1.6,Gas,Automatic,240.0,Al-Jouf,25000.0
 Ford,Mustang,2016,Other,Red,Semi Full,3.7,Gas,Automatic,79000.0,Riyadh,98000.0
 Toyota,FJ,2020,Gulf Arabic,White,Full,4.0,Gas,Automatic,22300.0,Riyadh,132000.0
@@ -781,15 +742,9 @@ Mitsubishi,Pajero,2012,Saudi,Silver,Standard,3.5,Gas,Automatic,65173.0,Riyadh,41
 Jeep,Grand Cherokee,2013,Other,Another Color,Full,6.4,Gas,Automatic,118000.0,Riyadh,90000.0
 Ford,Expedition,2010,Saudi,White,Semi Full,5.4,Gas,Automatic,2930000.0,Riyadh,30000.0
 Toyota,Land Cruiser Pickup,2015,Gulf Arabic,Another Color,Semi Full,4.0,Gas,Manual,232.0,Qassim,65000.0
-GMC,Sierra,2021,Saudi,Black,Full,5.3,Gas,Automatic,2000.0,Khobar,190000.0
 GMC,Sierra,2021,Saudi,Another Color,Full,8.0,Gas,Automatic,2800.0,Khobar,180000.0
 Nissan,Pathfinder,1998,Saudi,Golden,Standard,3.5,Gas,Automatic,3180003.0,Riyadh,10500.0
-Mercedes,GLC,2020,Other,Black,Standard,2.0,Gas,Automatic,15391.0,Riyadh,265000.0
-BMW,X,2020,Other,Black,Standard,2.0,Gas,Automatic,15900.0,Riyadh,270000.0
-BMW,X,2020,Other,White,Standard,2.0,Gas,Automatic,11578.0,Riyadh,262000.0
 Chevrolet,Suburban,2000,Other,Grey,Full,1.5,Gas,Automatic,2964.0,Tabouk,18000.0
-BMW,X,2020,Other,Black,Standard,2.0,Gas,Automatic,55000.0,Riyadh,266000.0
-BMW,X,2020,Other,White,Standard,2.0,Gas,Automatic,20000.0,Riyadh,257000.0
 Mercedes,A,2020,Other,Black,Standard,2.0,Gas,Automatic,3710.0,Riyadh,173000.0
 Mitsubishi,Pajero,2016,Saudi,Grey,Full,3.8,Gas,Automatic,91000.0,Jeddah,67000.0
 Mercedes,A,2020,Other,White,Standard,2.0,Gas,Automatic,10100.0,Riyadh,182000.0
@@ -809,14 +764,12 @@ Kia,Optima,2015,Saudi,Another Color,Semi Full,2.4,Gas,Automatic,173000.0,Riyadh,
 Chevrolet,Malibu,2019,Saudi,Black,Standard,1.5,Gas,Automatic,127000.0,Riyadh,57000.0
 Renault,Safrane,2012,Saudi,White,Full,2.6,Gas,Automatic,144000.0,Jeddah,20000.0
 Toyota,Camry,2017,Saudi,Black,Standard,2.5,Gas,Automatic,120.0,Tabouk,55000.0
-Nissan,Patrol,2021,Saudi,Black,Full,4.0,Gas,Automatic,4900.0,Riyadh,258000.0
 INFINITI,QX,2014,Saudi,Brown,Full,3.7,Gas,Automatic,32000.0,Jeddah,65000.0
 Toyota,Land Cruiser,2013,Gulf Arabic,White,Full,4.6,Gas,Automatic,300000.0,Dammam,115000.0
 Honda,Pilot,2012,Gulf Arabic,Black,Full,3.5,Gas,Automatic,225000.0,Jeddah,40000.0
 Hyundai,Accent,2020,Saudi,Silver,Standard,1.4,Gas,Automatic,22550.0,Riyadh,41500.0
 Nissan,Navara,2016,Saudi,White,Standard,2.5,Gas,Manual,132714.0,Riyadh,41500.0
 Chery,Tiggo,2021,Saudi,Grey,Standard,1.5,Gas,Automatic,4175.0,Riyadh,42500.0
-Mercedes,S,2016,Saudi,White,Full,3.0,Gas,Automatic,67000.0,Riyadh,235000.0
 Kia,Sportage,2016,Saudi,Grey,Semi Full,2.0,Gas,Automatic,163000.0,Riyadh,43000.0
 Ford,Explorer,2010,Saudi,Black,Standard,6.0,Gas,Automatic,35000.0,Riyadh,160000.0
 Mercedes,C,2017,Saudi,Blue,Full,2.5,Gas,Automatic,118000.0,Al-Medina,119000.0
@@ -839,7 +792,6 @@ Lincoln,MKS,2018,Gulf Arabic,White,Semi Full,2.0,Gas,Automatic,14000.0,Jeddah,11
 Jeep,Wrangler,2018,Gulf Arabic,Grey,Semi Full,4.4,Gas,Automatic,43000.0,Jeddah,135000.0
 Jeep,Wrangler,2018,Gulf Arabic,Black,Semi Full,4.0,Gas,Automatic,32000.0,Jeddah,129000.0
 Mercedes,E,2015,Saudi,White,Full,2.7,Gas,Automatic,23000.0,Jeddah,129000.0
-Lexus,LS,2019,Saudi,Brown,Full,4.6,Gas,Automatic,600.0,Jeddah,329000.0
 Cadillac,CT5,2021,Gulf Arabic,Black,Semi Full,4.5,Gas,Automatic,100.0,Jeddah,179000.0
 BMW,X,2011,Other,Black,Full,6.0,Gas,Automatic,160000.0,Riyadh,45000.0
 Ford,Taurus,2011,Saudi,Black,Standard,1.6,Gas,Automatic,268000.0,Riyadh,28000.0
@@ -869,7 +821,6 @@ Jeep,Grand Cherokee,2014,Saudi,White,Standard,5.7,Gas,Automatic,233000.0,Abha,50
 Isuzu,D-MAX,2016,Saudi,White,Standard,2.5,Diesel,Manual,275000.0,Riyadh,55500.0
 Mercedes,S,1995,Other,Silver,Full,3.5,Gas,Automatic,200000.0,Al-Namas,15000.0
 Dodge,Charger,2013,Saudi,Black,Semi Full,3.6,Gas,Automatic,205000.0,Riyadh,29000.0
-Land Rover,Range Rover,2016,Saudi,Black,Full,5.0,Gas,Automatic,70000.0,Riyadh,288000.0
 Chevrolet,Tahoe,2010,Saudi,Black,Full,5.3,Gas,Automatic,250000.0,Jeddah,55000.0
 Kia,Optima,2015,Gulf Arabic,White,Semi Full,2.4,Gas,Automatic,68245.0,Riyadh,45000.0
 Nissan,X-Trail,2017,Saudi,White,Standard,2.5,Gas,Automatic,331612.0,Riyadh,46000.0
@@ -905,8 +856,6 @@ Hyundai,Genesis,2016,Saudi,White,Standard,3.8,Gas,Automatic,237000.0,Riyadh,7700
 Toyota,Camry,2018,Saudi,Brown,Standard,2.5,Gas,Automatic,85000.0,Riyadh,75000.0
 Hyundai,Azera,2018,Saudi,Brown,Full,3.5,Gas,Automatic,44000.0,Riyadh,96000.0
 Mercedes,S,2006,Saudi,Oily,Full,5.0,Gas,Automatic,220.0,Aseer,49000.0
-Nissan,Patrol,2020,Saudi,Silver,Full,4.0,Gas,Automatic,29000.0,Jeddah,238000.0
-Lexus,ES,2021,Saudi,Grey,Semi Full,3.5,Gas,Automatic,500.0,Jeddah,235000.0
 Honda,Odyssey,2020,Saudi,Navy,Semi Full,3.5,Gas,Automatic,1300.0,Jeddah,165000.0
 Toyota,Furniture,2019,Saudi,White,Semi Full,4.0,Gas,Automatic,47000.0,Jeddah,120000.0
 Toyota,Furniture,2019,Saudi,Black,Semi Full,2.7,Gas,Automatic,20000.0,Jeddah,102000.0
@@ -920,7 +869,6 @@ Hyundai,Elantra,2019,Saudi,White,Standard,1.6,Gas,Automatic,61374.0,Riyadh,46500
 Hyundai,H1,2017,Saudi,White,Standard,2.4,Gas,Automatic,209677.0,Riyadh,47500.0
 Hyundai,Sonata,2015,Saudi,Grey,Semi Full,2.4,Gas,Automatic,235575.0,Riyadh,47500.0
 Toyota,Corolla,2016,Saudi,White,Semi Full,1.6,Gas,Automatic,138661.0,Riyadh,47500.0
-Mercedes,S,2018,Saudi,Another Color,Full,3.5,Gas,Automatic,53700.0,Qassim,320000.0
 Mercedes,C,2015,Gulf Arabic,Black,Standard,2.4,Gas,Automatic,127000.0,Riyadh,102000.0
 Ford,Taurus,2017,Gulf Arabic,Black,Full,3.5,Gas,Automatic,27000.0,Riyadh,83000.0
 GMC,Yukon,2016,Gulf Arabic,Black,Semi Full,5.2,Gas,Automatic,104000.0,Riyadh,124000.0
@@ -931,7 +879,6 @@ Mercedes,CLA,2015,Gulf Arabic,White,Full,2.0,Gas,Automatic,123000.0,Riyadh,78000
 Toyota,Avalon,2016,Gulf Arabic,Silver,Semi Full,3.5,Gas,Automatic,93000.0,Riyadh,75000.0
 Mercedes,E,2016,Gulf Arabic,White,Full,3.0,Gas,Automatic,117000.0,Riyadh,110000.0
 Chrysler,300,2016,Gulf Arabic,Black,Full,3.5,Gas,Automatic,18000.0,Riyadh,86000.0
-Audi,A6,2021,Other,White,Full,2.0,Gas,Automatic,1800.0,Dammam,245000.0
 Chevrolet,Suburban,2016,Gulf Arabic,Golden,Standard,5.2,Gas,Automatic,96000.0,Riyadh,126000.0
 Toyota,Camry,2016,Gulf Arabic,White,Full,2.4,Gas,Automatic,75000.0,Riyadh,68000.0
 Hyundai,Sonata,2015,Gulf Arabic,Red,Standard,2.4,Gas,Automatic,80000.0,Riyadh,45000.0
@@ -967,9 +914,9 @@ Ford,Expedition,2017,Saudi,Another Color,Standard,3.5,Gas,Automatic,123000.0,Riy
 Mercedes,C,2019,Other,White,Semi Full,2.0,Gas,Automatic,35000.0,Dammam,145000.0
 Hyundai,Tucson,2017,Saudi,Blue,Standard,1.6,Gas,Automatic,17005.0,Jeddah,70000.0
 Chevrolet,Impala,2016,Gulf Arabic,Black,Standard,3.0,Diesel,Manual,88000.0,Qassim,61000.0
-Mercedes,S,2019,Saudi,Black,Full,4.0,Gas,Automatic,30000.0,Makkah,320000.0
 Kia,Sportage,2021,Saudi,Grey,Standard,1.6,Gas,Automatic,4000.0,Dammam,75000.0
 Ford,Other,1982,Other,Bronze,Full,5.0,Gas,Automatic,34000.0,Dammam,180000.0
+MG,RX5,2019,Gulf Arabic,Blue,Full,1.5,Gas,Automatic,42000.0,Taef,1310.0
 Lexus,RX,2017,Other,White,Full,3.5,Gas,Automatic,94051.0,Riyadh,173000.0
 Lexus,ES,2017,Other,Golden,Full,3.5,Gas,Automatic,34593.0,Riyadh,148000.0
 Toyota,Corolla,2018,Saudi,Brown,Standard,1.6,Gas,Automatic,55398.0,Riyadh,49000.0
@@ -986,7 +933,6 @@ Ford,Taurus,2011,Saudi,Red,Semi Full,3.5,Gas,Automatic,281000.0,Khobar,29500.0
 Chevrolet,Suburban,2011,Saudi,Golden,Semi Full,4.0,Gas,Automatic,270.0,Makkah,37000.0
 Ford,Mustang,2016,Other,Red,Full,2.3,Gas,Automatic,84000.0,Dammam,99000.0
 Hyundai,Sonata,2016,Saudi,Red,Standard,2.4,Gas,Automatic,220000.0,Riyadh,43000.0
-Mercedes,E,2019,Other,Grey,Full,2.0,Gas,Automatic,28000.0,Dammam,230000.0
 Hyundai,Accent,2018,Saudi,White,Standard,1.4,Gas,Automatic,128000.0,Dammam,28000.0
 Nissan,Sentra,2016,Saudi,White,Standard,1.6,Gas,Automatic,81000.0,Riyadh,38000.0
 Nissan,Altima,2017,Saudi,White,Full,2.5,Gas,Automatic,135988.0,Riyadh,49500.0
@@ -997,7 +943,6 @@ Nissan,Sunny,2016,Saudi,White,Standard,1.5,Gas,Automatic,211000.0,Riyadh,20000.0
 Toyota,Hilux,2020,Saudi,White,Full,2.4,Diesel,Manual,29000.0,Dammam,142000.0
 Toyota,Land Cruiser,2017,Gulf Arabic,White,Full,4.6,Gas,Automatic,200000.0,Dammam,180000.0
 Toyota,Avalon,2016,Other,Silver,Semi Full,3.5,Gas,Automatic,110000.0,Qassim,73000.0
-Audi,A6,2021,Saudi,Black,Semi Full,2.0,Gas,Automatic,5000.0,Makkah,230000.0
 Lexus,LX,2013,Saudi,White,Full,5.7,Gas,Automatic,252000.0,Aseer,145000.0
 Toyota,Camry,2016,Saudi,Another Color,Standard,2.5,Gas,Automatic,86000.0,Riyadh,60000.0
 Kia,Seltos,2021,Saudi,White,Standard,1.6,Gas,Automatic,1700.0,Al-Medina,70000.0
@@ -1020,7 +965,6 @@ Hyundai,Elantra,2017,Saudi,White,Semi Full,2.0,Gas,Automatic,150000.0,Riyadh,400
 Toyota,Land Cruiser,2011,Saudi,White,Full,4.6,Gas,Automatic,211000.0,Dammam,115000.0
 Hyundai,Elantra,2016,Saudi,White,Standard,1.6,Gas,Automatic,172600.0,Dammam,35000.0
 Toyota,Camry,2016,Other,White,Standard,2.5,Gas,Automatic,148254.0,Qassim,59000.0
-Chevrolet,Tahoe,2021,Saudi,Bronze,Semi Full,5.3,Gas,Automatic,700.0,Dammam,229000.0
 Toyota,Land Cruiser,2003,Other,Golden,Full,4.5,Gas,Automatic,225.0,Tabouk,35000.0
 Chevrolet,Tahoe,2013,Saudi,Red,Semi Full,5.3,Gas,Automatic,211257.0,Jeddah,60000.0
 Kia,Optima,2006,Other,White,Standard,1.3,Gas,Manual,290000.0,Taef,6000.0
@@ -1031,7 +975,6 @@ Mitsubishi,Pajero,2015,Saudi,White,Standard,3.5,Gas,Automatic,135063.0,Jeddah,52
 Kia,Optima,2016,Saudi,Grey,Semi Full,2.4,Gas,Automatic,233124.0,Riyadh,51500.0
 Changan,Eado,2020,Saudi,Blue,Full,1.6,Gas,Automatic,36748.0,Riyadh,51500.0
 Changan,CS75,2019,Saudi,Grey,Full,1.8,Gas,Automatic,83425.0,Riyadh,51500.0
-Bentley,Flying Spur,2015,Saudi,Black,Full,6.0,Gas,Automatic,47000.0,Dammam,310000.0
 Chevrolet,Impala,2019,Gulf Arabic,White,Standard,3.6,Gas,Automatic,144000.0,Dammam,77000.0
 Mitsubishi,Outlander,2017,Saudi,White,Semi Full,2.4,Gas,Automatic,102000.0,Al-Medina,42000.0
 Toyota,Furniture,2013,Saudi,White,Standard,4.0,Gas,Automatic,248500.0,Riyadh,58000.0
@@ -1048,7 +991,6 @@ Toyota,Camry,2017,Saudi,White,Standard,2.5,Gas,Automatic,175000.0,Aseer,45000.0
 Hyundai,Elantra,2019,Saudi,White,Standard,1.6,Gas,Automatic,76014.0,Jeddah,48000.0
 Nissan,Sunny,2019,Saudi,White,Standard,1.5,Gas,Automatic,147008.0,Jeddah,28000.0
 Hyundai,Tucson,2017,Saudi,Brown,Semi Full,2.0,Gas,Automatic,105237.0,Jeddah,58000.0
-Toyota,Land Cruiser,2018,Saudi,White,Full,5.7,Gas,Automatic,125000.0,Jeddah,245000.0
 Lexus,ES,2016,Other,Grey,Full,3.5,Gas,Automatic,50000.0,Dammam,126000.0
 Toyota,Corolla,2018,Saudi,White,Standard,1.6,Gas,Automatic,88288.0,Riyadh,51500.0
 Hyundai,Elantra,2019,Saudi,Silver,Standard,2.0,Gas,Automatic,70568.0,Riyadh,51500.0
@@ -1069,7 +1011,6 @@ Toyota,Camry,2017,Saudi,Silver,Full,2.5,Gas,Automatic,253641.0,Qassim,62000.0
 Chrysler,C300,2015,Other,White,Semi Full,3.6,Gas,Automatic,109000.0,Al-Ahsa,70000.0
 Hyundai,Sonata,2019,Saudi,Grey,Semi Full,2.4,Gas,Automatic,100000.0,Riyadh,50000.0
 Chevrolet,Tahoe,2019,Saudi,Black,Semi Full,5.3,Gas,Automatic,10000.0,Riyadh,140000.0
-Toyota,Land Cruiser,2019,Gulf Arabic,White,Full,4.6,Gas,Automatic,6000.0,Dammam,267000.0
 Mitsubishi,Attrage,2020,Saudi,Silver,Standard,3.5,Gas,Automatic,15000.0,Riyadh,25000.0
 Toyota,Rav4,2018,Saudi,Black,Full,1.8,Gas,Automatic,63000.0,Makkah,90000.0
 Hyundai,Sonata,2016,Saudi,White,Standard,2.4,Gas,Automatic,159000.0,Riyadh,38000.0
@@ -1089,7 +1030,6 @@ BMW,The 7,2016,Saudi,Bronze,Full,2.0,Gas,Automatic,134000.0,Dammam,150000.0
 Nissan,Bus Urvan,2016,Saudi,White,Standard,2.5,Gas,Automatic,89000.0,Dammam,57000.0
 Mercedes,E,2017,Other,White,Full,2.0,Gas,Automatic,65000.0,Dammam,163000.0
 Hyundai,Elantra,2014,Saudi,Black,Full,2.0,Gas,Automatic,288051.0,Riyadh,28000.0
-Mercedes,C,2019,Gulf Arabic,Black,Full,2.0,Gas,Automatic,14000.0,Dammam,195000.0
 Nissan,Sunny,2019,Saudi,Silver,Standard,1.5,Gas,Automatic,98000.0,Al-Medina,27500.0
 Hyundai,Accent,2018,Saudi,Silver,Standard,1.4,Gas,Automatic,69000.0,Riyadh,35000.0
 Toyota,Hilux,2014,Saudi,White,Full,2.7,Gas,Manual,221000.0,Riyadh,70000.0
@@ -1109,7 +1049,7 @@ Toyota,Innova,2018,Saudi,Grey,Semi Full,2.0,Gas,Automatic,99000.0,Jeddah,64000.0
 Kia,Cerato,2018,Saudi,Silver,Semi Full,1.6,Gas,Automatic,161000.0,Riyadh,33000.0
 Toyota,Camry,2008,Saudi,White,Standard,2.4,Gas,Manual,388000.0,Al-Baha,17000.0
 Hyundai,Elantra,2015,Saudi,Blue,Standard,1.6,Gas,Automatic,227000.0,Taef,28000.0
-Aston Martin,Vantage,2008,Saudi,White,Full,3.5,Gas,Automatic,18000.0,Riyadh,190000.0
+Kia,K5,2021,Saudi,Silver,Standard,2.0,Gas,Automatic,61804.0,Jubail,1630.0
 Honda,HRV,2021,Saudi,Black,Standard,1.8,Gas,Automatic,6000.0,Riyadh,60000.0
 Toyota,Hilux,2016,Saudi,White,Standard,2.7,Gas,Manual,155000.0,Riyadh,61000.0
 Toyota,Hilux,2018,Saudi,White,Full,2.7,Gas,Manual,175000.0,Riyadh,63000.0
@@ -1130,14 +1070,11 @@ Hyundai,Sonata,2018,Saudi,Grey,Standard,2.4,Gas,Automatic,161796.0,Riyadh,54500.
 Hyundai,Creta,2020,Saudi,White,Standard,1.6,Gas,Automatic,65357.0,Riyadh,55000.0
 GMC,Sierra,2015,Saudi,Another Color,Standard,5.3,Gas,Automatic,259000.0,Dammam,75000.0
 Toyota,Corolla,2013,Saudi,White,Standard,1.6,Gas,Automatic,290000.0,Dammam,30000.0
-Mercedes,CLA,2020,Other,White,Standard,3.5,Gas,Automatic,14000.0,Riyadh,217000.0
 Ford,Mustang,2016,Other,Red,Semi Full,3.7,Gas,Automatic,103000.0,Dammam,94000.0
 Mazda,3,2016,Saudi,Silver,Semi Full,2.0,Gas,Automatic,104800.0,Riyadh,39000.0
 Audi,Q5,2018,Saudi,Grey,Full,2.0,Gas,Automatic,60000.0,Dammam,155000.0
 Renault,Fluence,2016,Saudi,Silver,Semi Full,1.8,Gas,Automatic,67000.0,Riyadh,22000.0
-Lexus,LX,2013,Other,White,Full,5.7,Gas,Automatic,98000.0,Dammam,200000.0
 Changan,CS75,2020,Saudi,Red,Standard,1.6,Gas,Automatic,8000.0,Jeddah,62000.0
-Toyota,Land Cruiser,2019,Gulf Arabic,White,Full,5.7,Gas,Automatic,101000.0,Dammam,220000.0
 Honda,Accord,2018,Gulf Arabic,Grey,Full,1.5,Gas,Automatic,40804.0,Qassim,95000.0
 Chevrolet,Silverado,2018,Saudi,Silver,Semi Full,5.3,Gas,Automatic,112000.0,Jubail,77000.0
 Ford,Explorer,2017,Other,Black,Standard,1.4,Gas,Automatic,187000.0,Al-Ahsa,73500.0
@@ -1204,7 +1141,6 @@ Toyota,Corolla,2019,Saudi,Silver,Standard,1.6,Gas,Automatic,52443.0,Riyadh,56500
 Hyundai,Azera,2018,Saudi,Blue,Standard,3.5,Gas,Automatic,98530.0,Riyadh,56500.0
 Hyundai,Senta fe,2014,Saudi,Black,Full,3.3,Gas,Automatic,201421.0,Riyadh,57500.0
 Toyota,Corolla,2020,Saudi,White,Standard,1.6,Gas,Automatic,109885.0,Jeddah,57000.0
-Toyota,Land Cruiser,2019,Saudi,White,Full,3.2,Gas,Automatic,43000.0,Riyadh,236000.0
 MG,ZS,2020,Saudi,Red,Full,1.5,Gas,Automatic,33000.0,Riyadh,55000.0
 Mitsubishi,Pajero,2016,Saudi,White,Full,3.5,Gas,Automatic,132000.0,Riyadh,56000.0
 Ford,Expedition,2012,Saudi,White,Full,5.4,Gas,Automatic,289000.0,Al-Ahsa,57000.0
@@ -1242,7 +1178,6 @@ Toyota,Hilux,2018,Saudi,White,Full,2.7,Gas,Manual,122000.0,Najran,65000.0
 BMW,X,2015,Gulf Arabic,White,Full,1.6,Gas,Automatic,72000.0,Riyadh,170000.0
 Toyota,Land Cruiser Pickup,2015,Saudi,Brown,Semi Full,4.0,Gas,Manual,96000.0,Tabouk,95000.0
 Ford,Explorer,2010,Saudi,Silver,Full,6.0,Gas,Automatic,250000.0,Jeddah,21000.0
-Lexus,LX,2017,Saudi,Bronze,Full,5.7,Gas,Automatic,51000.0,Dammam,340000.0
 Honda,Other,2009,Saudi,Orange,Full,1.0,Gas,Manual,32743.0,Jeddah,27500.0
 Hyundai,Elantra,2020,Saudi,Grey,Standard,1.6,Gas,Automatic,24348.0,Riyadh,57500.0
 Hyundai,Elantra,2020,Saudi,White,Standard,1.6,Gas,Automatic,16925.0,Riyadh,57500.0
@@ -1252,10 +1187,6 @@ BMW,X,2012,Other,Grey,Full,3.0,Gas,Automatic,294000.0,Jeddah,45000.0
 Audi,S5,2018,Saudi,White,Full,3.0,Gas,Automatic,79800.0,Dammam,160000.0
 Ford,F150,2012,Saudi,Black,Standard,3.6,Gas,Automatic,235000.0,Al-Medina,55000.0
 Audi,A6,2016,Saudi,Another Color,Full,5.0,Gas,Automatic,77000.0,Jeddah,90000.0
-Mercedes,S,2014,Other,Grey,Full,4.0,Gas,Automatic,29000.0,Dammam,260000.0
-Mercedes,S,2015,Gulf Arabic,White,Full,3.0,Gas,Automatic,96500.0,Dammam,220000.0
-Mercedes,GLC,2019,Saudi,Grey,Full,2.0,Gas,Automatic,56000.0,Dammam,223000.0
-Land Rover,Range Rover,2014,Saudi,White,Full,5.0,Gas,Automatic,97500.0,Jeddah,195000.0
 Nissan,Sunny,2008,Saudi,White,Standard,1.5,Gas,Manual,275000.0,Riyadh,10000.0
 Toyota,Camry,2001,Saudi,White,Full,1.4,Gas,Manual,399000.0,Jubail,10000.0
 Toyota,Yaris,2017,Saudi,White,Standard,1.3,Gas,Automatic,100000.0,Makkah,27000.0
@@ -1266,6 +1197,7 @@ Hyundai,Accent,2016,Saudi,White,Standard,1.4,Gas,Automatic,111.0,Riyadh,22000.0
 Hyundai,H1,2013,Saudi,White,Semi Full,2.4,Gas,Automatic,318000.0,Riyadh,26000.0
 Chevrolet,Caprice,2013,Saudi,Blue,Full,5.5,Gas,Automatic,184000.0,Riyadh,36000.0
 Jeep,Grand Cherokee,2020,Saudi,White,Full,3.6,Gas,Automatic,27150.0,Aseer,165000.0
+Nissan,Sentra,2017,Saudi,Grey,Semi Full,1.6,Gas,Automatic,55005.0,Jeddah,1139.0
 Hyundai,H1,2018,Saudi,Silver,Standard,2.4,Gas,Automatic,106336.0,Riyadh,58500.0
 Geely,X7,2019,Saudi,Red,Full,2.4,Gas,Automatic,27817.0,Riyadh,58500.0
 Geely,GS,2020,Saudi,Golden,Semi Full,1.8,Gas,Automatic,8400.0,Riyadh,58500.0
@@ -1290,7 +1222,6 @@ Hyundai,Creta,2020,Saudi,White,Standard,1.6,Gas,Automatic,13736.0,Riyadh,60000.0
 Toyota,Corolla,2018,Saudi,White,Standard,1.6,Gas,Automatic,28449.0,Riyadh,59500.0
 Nissan,VTC,2009,Saudi,White,Semi Full,4.8,Gas,Manual,251000.0,Riyadh,60000.0
 Toyota,Furniture,2021,Saudi,White,Standard,2.7,Gas,Automatic,11000.0,Aseer,100000.0
-Toyota,Land Cruiser,2021,Saudi,White,Semi Full,4.5,Diesel,Automatic,20000.0,Riyadh,265000.0
 Dodge,Durango,2013,Saudi,Grey,Full,5.7,Gas,Automatic,213000.0,Riyadh,40000.0
 Nissan,Datsun,1998,Other,White,Full,2.4,Gas,Manual,650000.0,Riyadh,12000.0
 Toyota,Furniture,2013,Saudi,Silver,Semi Full,4.1,Gas,Automatic,285000.0,Aseer,55000.0
@@ -1309,7 +1240,6 @@ Hyundai,Sonata,2019,Saudi,Grey,Standard,2.4,Gas,Automatic,70676.0,Riyadh,59500.0
 Changan,CS35 Plus,2020,Saudi,Silver,Full,1.4,Gas,Automatic,67095.0,Riyadh,60000.0
 MG,3,2013,Saudi,White,Standard,1.3,Gas,Manual,41000.0,Riyadh,15000.0
 Toyota,Hilux,2013,Saudi,White,Semi Full,2.7,Gas,Manual,290.0,Tabouk,55000.0
-BMW,X,2019,Gulf Arabic,Black,Full,3.5,Gas,Automatic,14000.0,Riyadh,220000.0
 Ford,Marquis,2009,Saudi,Black,Semi Full,4.6,Gas,Automatic,140000.0,Riyadh,22000.0
 Mercedes,SE,2006,Other,Another Color,Full,3.5,Gas,Automatic,286000.0,Makkah,55000.0
 Ford,F150,2016,Saudi,White,Semi Full,5.0,Gas,Automatic,138.0,Riyadh,90000.0
@@ -1330,7 +1260,6 @@ Mazda,6,2017,Saudi,Red,Standard,2.5,Gas,Automatic,91170.0,Riyadh,60500.0
 GMC,Suburban,2006,Saudi,Black,Standard,2.0,Gas,Automatic,230000.0,Makkah,29000.0
 Lexus,ES,2020,Saudi,Grey,Standard,2.5,Gas,Automatic,30000.0,Riyadh,142500.0
 Chevrolet,Tahoe,2003,Other,Another Color,Full,3.5,Gas,Automatic,488000.0,Jeddah,13000.0
-Cadillac,Escalade,2018,Saudi,Grey,Full,6.2,Gas,Automatic,22200.0,Riyadh,230000.0
 Toyota,Echo,2001,Saudi,Another Color,Standard,1.5,Gas,Manual,480000.0,Jeddah,10000.0
 Ford,Taurus,2017,Saudi,Grey,Standard,6.0,Gas,Automatic,75000.0,Dammam,65000.0
 Lexus,ES,2017,Other,White,Semi Full,3.5,Gas,Automatic,96906.0,Riyadh,116000.0
@@ -1349,12 +1278,9 @@ Mazda,6,2018,Saudi,Brown,Standard,2.5,Gas,Automatic,198.0,Jeddah,55000.0
 Toyota,Yaris,2016,Saudi,Blue,Semi Full,1.5,Gas,Automatic,130000.0,Al-Jouf,30000.0
 Lexus,IS,2016,Gulf Arabic,Grey,Full,3.5,Gas,Automatic,166.0,Al-Ahsa,90000.0
 Toyota,Innova,2015,Gulf Arabic,White,Standard,2.7,Gas,Automatic,749000.0,Riyadh,46000.0
-Mercedes,C,2020,Other,White,Full,2.0,Gas,Automatic,24000.0,Riyadh,267000.0
 Chevrolet,Cruze,2014,Saudi,Grey,Semi Full,3.5,Gas,Automatic,135020.0,Riyadh,24000.0
-Porsche,Cayenne,2017,Gulf Arabic,Black,Full,3.0,Gas,Automatic,93000.0,Dammam,210000.0
 Chevrolet,Malibu,2017,Saudi,White,Semi Full,2.5,Gas,Automatic,175000.0,Dammam,49000.0
 Renault,Symbol,2020,Saudi,White,Standard,1.6,Gas,Automatic,27000.0,Jeddah,25000.0
-Lexus,LX,2017,Gulf Arabic,Bronze,Full,5.7,Gas,Automatic,68000.0,Dammam,342000.0
 Land Rover,Range Rover,2015,Saudi,White,Semi Full,3.0,Gas,Automatic,125000.0,Riyadh,165000.0
 BMW,The 7,2008,Saudi,Black,Semi Full,3.5,Gas,Automatic,176000.0,Al-Medina,26000.0
 Hyundai,Sonata,2018,Saudi,Grey,Semi Full,2.4,Gas,Automatic,66000.0,Riyadh,1670.0
@@ -1372,10 +1298,8 @@ Chevrolet,Tahoe,2016,Saudi,White,Standard,5.3,Gas,Automatic,139000.0,Riyadh,1100
 Kia,Rio,2019,Saudi,Silver,Standard,1.4,Gas,Automatic,55000.0,Makkah,36000.0
 Lexus,LS,2010,Other,White,Semi Full,1.8,Gas,Automatic,120000.0,Taef,77000.0
 Lexus,LS,2012,Saudi,Grey,Full,1.8,Gas,Automatic,150000.0,Taef,95000.0
-Mercedes,S,2015,Gulf Arabic,White,Full,1.8,Gas,Automatic,113.0,Taef,240000.0
 Chrysler,C300,2005,Saudi,Black,Full,5.7,Gas,Automatic,300000.0,Jeddah,20000.0
 Chevrolet,Silverado,2014,Saudi,Red,Semi Full,4.3,Gas,Automatic,213000.0,Dammam,70000.0
-Mercedes,GLB,2020,Other,White,Standard,3.5,Gas,Automatic,10998.0,Riyadh,255000.0
 Mercedes,C,2016,Other,White,Full,2.0,Gas,Automatic,99000.0,Dammam,129000.0
 Kia,Rio,2020,Saudi,White,Full,1.4,Gas,Automatic,300.0,Dammam,57000.0
 Daihatsu,Terios Ground,2015,Saudi,Red,Full,1.5,Gas,Automatic,98000.0,Dammam,35000.0
@@ -1393,16 +1317,14 @@ Hyundai,H1,2018,Saudi,Silver,Standard,2.4,Gas,Automatic,90706.0,Riyadh,61500.0
 Mitsubishi,Pajero,2016,Saudi,White,Semi Full,3.5,Gas,Automatic,153042.0,Riyadh,61500.0
 Hyundai,Sonata,2018,Saudi,Grey,Standard,2.4,Gas,Automatic,84655.0,Riyadh,61500.0
 Chevrolet,Traverse,2016,Saudi,White,Unknown,3.4,Gas,Automatic,56500.0,Tabouk,65000.0
-Mercedes,GLB,2020,Other,Black,Standard,3.5,Gas,Automatic,10362.0,Riyadh,219000.0
 INFINITI,QX,2017,Gulf Arabic,Black,Standard,2.0,Gas,Automatic,54000.0,Dammam,70000.0
 GMC,Yukon,2016,Saudi,Black,Full,5.3,Gas,Automatic,48000.0,Dammam,145000.0
-Toyota,Land Cruiser,2016,Saudi,White,Full,5.7,Gas,Automatic,1900.0,Jeddah,255000.0
 GMC,Sierra,2018,Saudi,Another Color,Standard,5.3,Gas,Automatic,61000.0,Dammam,145000.0
 Lexus,ES,2017,Other,White,Full,3.5,Gas,Automatic,62000.0,Riyadh,136000.0
-Ford,Expedition,2018,Other,Another Color,Full,3.5,Gas,Automatic,103458.0,Riyadh,186000.0
 Dodge,Charger,2016,Other,Grey,Full,5.7,Gas,Automatic,123000.0,Riyadh,109000.0
 Pontiac,Bonneville,1978,Unknown,White,Unknown,3.5,Gas,Automatic,240000.0,Qurayyat,25000.0
 Toyota,Prado,2016,Saudi,Grey,Full,4.0,Gas,Automatic,174000.0,Al-Medina,120000.0
+MG,5,2020,Saudi,White,Standard,1.5,Gas,Automatic,41000.0,Al-Ahsa,988.0
 Lexus,IS,2016,Other,White,Full,2.0,Gas,Automatic,96000.0,Dammam,108000.0
 Kia,Rio,2008,Saudi,Blue,Standard,1.0,Gas,Manual,323880.0,Jeddah,9000.0
 Ford,Victoria,1997,Saudi,Green,Full,4.8,Gas,Automatic,377.0,Dammam,12000.0
@@ -1418,8 +1340,6 @@ Hyundai,Sonata,2019,Saudi,Grey,Standard,2.4,Gas,Automatic,113057.0,Riyadh,62500.
 Chrysler,300,2017,Other,White,Semi Full,3.6,Gas,Automatic,108828.0,Riyadh,94000.0
 Chevrolet,Camaro,2016,Other,Blue,Full,3.6,Gas,Automatic,118993.0,Riyadh,107000.0
 Mercedes,C,2015,Other,White,Full,2.0,Gas,Automatic,51201.0,Riyadh,119000.0
-Mercedes,C,2017,Other,Grey,Full,2.0,Gas,Automatic,62000.0,Riyadh,186000.0
-Land Rover,Range Rover,2016,Other,White,Full,5.0,Gas,Automatic,101839.0,Riyadh,220000.0
 Mercedes,E,2017,Other,Grey,Full,3.4,Gas,Automatic,72000.0,Riyadh,178000.0
 Ford,Explorer,2013,Other,White,Full,3.5,Gas,Automatic,111251.0,Riyadh,74000.0
 Toyota,Innova,2013,Saudi,Silver,Unknown,2.7,Gas,Automatic,286000.0,Al-Medina,38000.0
@@ -1432,25 +1352,20 @@ Toyota,Hilux,2015,Saudi,White,Full,2.7,Gas,Manual,234000.0,Jazan,56000.0
 Ford,Victoria,2001,Saudi,Oily,Full,4.6,Gas,Automatic,399249.0,Riyadh,3000.0
 GMC,Yukon,2014,Saudi,Bronze,Semi Full,5.3,Gas,Automatic,235000.0,Dammam,72000.0
 Toyota,Rav4,2017,Saudi,White,Semi Full,2.5,Gas,Automatic,162000.0,Jeddah,60000.0
-Mercedes,CLA,2020,Other,White,Standard,3.5,Gas,Automatic,10000.0,Riyadh,195000.0
 Chrysler,C300,2016,Other,White,Full,3.5,Gas,Automatic,83000.0,Dammam,86000.0
 Toyota,Hilux,2016,Saudi,White,Semi Full,2.7,Gas,Manual,156495.0,Riyadh,62500.0
 Toyota,Innova,2017,Saudi,White,Standard,2.7,Gas,Automatic,203312.0,Riyadh,62500.0
 Kia,Sportage,2018,Saudi,Red,Standard,2.4,Gas,Automatic,57073.0,Riyadh,63500.0
 Nissan,Maxima,2016,Saudi,Blue,Semi Full,3.5,Gas,Automatic,100943.0,Riyadh,63500.0
 Chrysler,S300,2018,Other,Silver,Full,3.5,Gas,Automatic,105000.0,Dammam,112000.0
-Toyota,Land Cruiser,2018,Unknown,White,Full,5.7,Gas,Automatic,59000.0,Riyadh,275000.0
 Lexus,ES,2021,Saudi,Grey,Semi Full,2.5,Gas,Automatic,3000.0,Makkah,177000.0
 Volkswagen,Touareg,2015,Saudi,Brown,Semi Full,4.0,Gas,Automatic,183000.0,Qassim,69000.0
 GMC,Yukon,2019,Saudi,Red,Semi Full,5.3,Gas,Automatic,60000.0,Makkah,175000.0
 Toyota,Camry,2020,Saudi,Bronze,Full,2.5,Gas,Automatic,1700.0,Makkah,115000.0
 Mercedes,C,2019,Gulf Arabic,Black,Full,2.0,Gas,Automatic,15000.0,Makkah,175000.0
 Chevrolet,Cruze,2013,Saudi,White,Standard,1.6,Gas,Automatic,120000.0,Taef,18000.0
-Mercedes,E,2020,Saudi,Grey,Full,2.0,Gas,Automatic,10000.0,Makkah,285000.0
 Lexus,NX,2018,Saudi,White,Standard,2.0,Gas,Automatic,1800.0,Jeddah,161000.0
 Toyota,Land Cruiser Pickup,2019,Saudi,Brown,Full,4.0,Gas,Manual,67000.0,Jeddah,95000.0
-Toyota,Land Cruiser,2019,Gulf Arabic,White,Full,4.5,Diesel,Automatic,95000.0,Jeddah,233000.0
-Lexus,ES,2019,Saudi,White,Full,2.5,Gas,Automatic,16000.0,Jeddah,191000.0
 Toyota,Rav4,2017,Saudi,Silver,Full,2.5,Gas,Automatic,174000.0,Jeddah,77000.0
 Hyundai,Sonata,2016,Gulf Arabic,Blue,Full,1.5,Gas,Automatic,73000.0,Tabouk,63000.0
 Hyundai,H1,2008,Saudi,White,Full,3.5,Gas,Manual,1000.0,Tabouk,17000.0
@@ -1460,12 +1375,6 @@ Renault,Koleos,2017,Saudi,Black,Full,2.5,Gas,Automatic,103503.0,Riyadh,64000.0
 Ford,Flex,2013,Saudi,Black,Full,3.5,Gas,Automatic,71927.0,Riyadh,64000.0
 Toyota,Hilux,2018,Saudi,White,Semi Full,2.7,Gas,Manual,111362.0,Riyadh,64500.0
 Toyota,Camry,2017,Saudi,Blue,Full,2.5,Gas,Automatic,215735.0,Riyadh,64500.0
-Mercedes,S,2019,Gulf Arabic,Black,Semi Full,3.5,Gas,Automatic,80000.0,Riyadh,355000.0
-Toyota,Land Cruiser,2018,Saudi,White,Full,5.7,Gas,Automatic,126000.0,Jeddah,260000.0
-Toyota,Land Cruiser,2019,Saudi,White,Full,4.6,Gas,Automatic,101000.0,Jeddah,260000.0
-Toyota,Land Cruiser,2019,Saudi,White,Full,4.6,Gas,Automatic,38000.0,Jeddah,248000.0
-Toyota,Land Cruiser,2019,Saudi,White,Full,4.6,Gas,Automatic,52000.0,Jeddah,248000.0
-Toyota,Land Cruiser,2020,Saudi,White,Full,4.6,Gas,Automatic,59000.0,Jeddah,248000.0
 Toyota,Land Cruiser Pickup,2016,Saudi,Another Color,Full,4.0,Gas,Manual,26000.0,Jeddah,115000.0
 Hyundai,Tucson,2018,Saudi,Grey,Semi Full,2.0,Gas,Automatic,60000.0,Jeddah,70000.0
 Hyundai,Sonata,2018,Saudi,Grey,Standard,2.4,Gas,Automatic,125000.0,Jeddah,57000.0
@@ -1479,7 +1388,6 @@ Hyundai,Accent,2018,Saudi,White,Standard,1.4,Gas,Automatic,120000.0,Jeddah,32000
 Hyundai,Sonata,2019,Saudi,White,Standard,2.4,Gas,Automatic,94000.0,Riyadh,58500.0
 Lexus,UX,2020,Gulf Arabic,White,Full,2.0,Gas,Automatic,10000.0,Dammam,176000.0
 Mercedes,C,2017,Other,White,Full,2.0,Gas,Automatic,54000.0,Dammam,153000.0
-Toyota,Land Cruiser,2019,Saudi,White,Full,5.7,Gas,Automatic,6000.0,Dammam,298000.0
 Hyundai,Elantra,2018,Other,White,Standard,1.6,Diesel,Automatic,45000.0,Riyadh,54000.0
 Toyota,Camry,2019,Saudi,White,Standard,2.5,Gas,Automatic,124004.0,Riyadh,65000.0
 Mazda,CX3,2020,Saudi,Blue,Standard,2.0,Gas,Automatic,14501.0,Riyadh,66000.0
@@ -1494,7 +1402,6 @@ Lexus,ES,2016,Other,White,Full,3.5,Gas,Automatic,103000.0,Jeddah,102000.0
 Hyundai,Senta fe,2015,Saudi,White,Full,3.3,Gas,Automatic,246000.0,Khobar,60000.0
 Honda,MR-V,2003,Saudi,White,Semi Full,3.5,Gas,Automatic,480000.0,Riyadh,17500.0
 Toyota,Ciocca,2013,Other,Black,Full,5.7,Gas,Automatic,53000.0,Riyadh,90000.0
-Toyota,Land Cruiser,2020,Saudi,White,Semi Full,4.0,Gas,Automatic,10000.0,Jazan,200000.0
 MG,RX5,2020,Saudi,Silver,Full,2.0,Gas,Automatic,7855.0,Riyadh,65500.0
 Jeep,Compass,2019,Saudi,Brown,Semi Full,2.4,Gas,Automatic,43834.0,Riyadh,66000.0
 Ford,Edge,2016,Saudi,Black,Standard,3.5,Gas,Automatic,105344.0,Riyadh,66500.0
@@ -1541,13 +1448,11 @@ Toyota,Furniture,2015,Saudi,Black,Standard,2.7,Gas,Automatic,164277.0,Riyadh,665
 Ford,Expedition,2013,Saudi,Grey,Full,5.4,Gas,Manual,225299.0,Riyadh,66587.0
 Hyundai,Sonata,2019,Saudi,White,Standard,2.4,Gas,Automatic,49515.0,Riyadh,68000.0
 Nissan,Bus Urvan,2010,Gulf Arabic,White,Full,2.7,Gas,Manual,2012.0,Dammam,14500.0
-Chevrolet,Suburban,2016,Saudi,Golden,Full,6.2,Gas,Automatic,156000.0,Dammam,290000.0
 Ford,Expedition,2013,Other,Grey,Standard,5.4,Gas,Automatic,121000.0,Riyadh,40000.0
 Mitsubishi,Pajero,2016,Gulf Arabic,Another Color,Full,3.8,Gas,Automatic,132000.0,Aseer,63000.0
 Chevrolet,Malibu,2013,Saudi,White,Full,3.6,Gas,Automatic,177000.0,Dammam,30000.0
 Hyundai,Elantra,2019,Saudi,White,Standard,1.6,Gas,Automatic,102000.0,Dammam,48000.0
 Chevrolet,Impala,2018,Saudi,Black,Standard,3.6,Gas,Automatic,52000.0,Riyadh,75000.0
-Mercedes,S,2018,Saudi,White,Full,4.5,Gas,Automatic,83000.0,Jeddah,315000.0
 Chevrolet,Camaro,2017,Other,Red,Full,6.2,Gas,Automatic,116000.0,Dammam,129000.0
 Ford,Taurus,2018,Saudi,Another Color,Standard,3.5,Gas,Automatic,63000.0,Jeddah,80000.0
 Toyota,Ciocca,2016,Saudi,White,Semi Full,5.7,Gas,Automatic,92000.0,Dammam,108000.0
@@ -1574,7 +1479,6 @@ Mazda,CX9,2015,Saudi,Silver,Full,3.7,Gas,Automatic,260000.0,Dammam,63000.0
 Toyota,Hiace,2016,Saudi,White,Standard,2.4,Gas,Manual,307000.0,Riyadh,60000.0
 Toyota,Camry,2018,Saudi,Silver,Standard,2.5,Gas,Automatic,109000.0,Qassim,80000.0
 Hyundai,Senta fe,2014,Saudi,Black,Full,1.4,Gas,Automatic,265000.0,Qassim,52000.0
-Nissan,Patrol,2020,Saudi,Grey,Full,4.0,Gas,Automatic,26000.0,Riyadh,235000.0
 Lexus,ES,2007,Saudi,Another Color,Full,3.5,Gas,Automatic,250000.0,Al-Namas,25000.0
 Hyundai,Accent,2015,Saudi,White,Standard,1.4,Gas,Automatic,500000.0,Jeddah,22000.0
 Volkswagen,Passat,2014,Saudi,Brown,Standard,2.5,Gas,Automatic,88673.0,Jeddah,50000.0
@@ -1584,13 +1488,11 @@ Kia,Sorento,2016,Saudi,White,Full,3.5,Gas,Automatic,93914.0,Riyadh,68500.0
 Toyota,Hiace,2017,Saudi,White,Standard,2.7,Gas,Manual,192692.0,Riyadh,68500.0
 Chevrolet,Tahoe,2007,Saudi,Bronze,Semi Full,5.5,Gas,Automatic,450.0,Jeddah,27500.0
 Ford,Explorer,2014,Saudi,Black,Standard,3.6,Gas,Automatic,158000.0,Riyadh,55000.0
-Lexus,LX,2015,Saudi,White,Full,5.7,Gas,Automatic,105000.0,Jeddah,213000.0
 Kia,Cadenza,2016,Other,Another Color,Full,3.0,Gas,Automatic,33212.0,Qassim,66000.0
 Lexus,ES,2017,Other,White,Full,3.5,Gas,Automatic,69000.0,Dammam,142000.0
 Lexus,GS,2017,Saudi,Bronze,Full,3.5,Gas,Automatic,80000.0,Dammam,175000.0
 Isuzu,D-MAX,2014,Saudi,White,Standard,2.5,Diesel,Manual,288000.0,Dammam,42000.0
 Chevrolet,Suburban,2019,Saudi,Grey,Standard,5.3,Gas,Automatic,37000.0,Riyadh,148000.0
-Lexus,LX,2018,Saudi,Navy,Full,5.7,Gas,Automatic,95000.0,Jeddah,355000.0
 Toyota,Yaris,2019,Saudi,Silver,Semi Full,1.5,Gas,Automatic,42628.0,Dammam,38500.0
 Mercedes,CLS,2016,Gulf Arabic,Black,Full,3.0,Gas,Automatic,45000.0,Dammam,168000.0
 Chevrolet,Camaro,2018,Other,Blue,Full,3.6,Gas,Automatic,79000.0,Dammam,113000.0
@@ -1603,7 +1505,6 @@ Mitsubishi,Pajero,2018,Gulf Arabic,Golden,Semi Full,3.5,Gas,Automatic,108000.0,R
 Audi,A8,2013,Other,Black,Full,4.0,Gas,Automatic,100000.0,Riyadh,108000.0
 Toyota,Camry,2016,Saudi,Grey,Semi Full,2.4,Gas,Automatic,77000.0,Riyadh,63000.0
 Hyundai,Accent,2017,Saudi,White,Standard,1.4,Gas,Automatic,69000.0,Riyadh,34000.0
-Toyota,Land Cruiser,2020,Saudi,White,Semi Full,4.0,Gas,Automatic,35000.0,Riyadh,210000.0
 Toyota,Hiace,2017,Saudi,White,Standard,2.7,Gas,Manual,143594.0,Riyadh,69000.0
 Mazda,6,2019,Saudi,Grey,Standard,2.5,Gas,Automatic,64970.0,Riyadh,69500.0
 Isuzu,D-MAX,2018,Saudi,White,Standard,2.5,Diesel,Manual,52849.0,Riyadh,69500.0
@@ -1641,9 +1542,7 @@ GMC,Yukon,2015,Saudi,Silver,Standard,5.3,Gas,Automatic,170000.0,Arar,102000.0
 Hyundai,Sonata,2017,Other,Black,Semi Full,1.7,Diesel,Automatic,82190.0,Qassim,63000.0
 Kia,Cores,2015,Saudi,Another Color,Full,3.5,Gas,Automatic,75000.0,Dammam,75000.0
 Isuzu,D-MAX,2010,Saudi,White,Standard,2.5,Diesel,Manual,380000.0,Dammam,29000.0
-Lexus,IS,2018,Saudi,Another Color,Full,3.5,Gas,Automatic,54000.0,Jeddah,275000.0
 Geely,Emgrand,2014,Saudi,Silver,Full,1.6,Gas,Automatic,108800.0,Dammam,12000.0
-Audi,S8,2016,Gulf Arabic,White,Full,4.0,Gas,Automatic,42000.0,Dammam,229000.0
 Hyundai,Azera,2016,Other,White,Full,3.0,Gas,Automatic,111000.0,Dammam,86000.0
 GMC,Yukon,2007,Saudi,Black,Full,5.3,Gas,Automatic,235000.0,Dammam,65000.0
 Hyundai,Elantra,2016,Other,White,Standard,1.6,Diesel,Automatic,55000.0,Riyadh,48000.0
@@ -1658,18 +1557,15 @@ Hyundai,Kona,2020,Saudi,Grey,Semi Full,2.0,Gas,Automatic,30271.0,Riyadh,70000.0
 Hyundai,H1,2016,Saudi,White,Standard,2.4,Gas,Automatic,154000.0,Al-Ahsa,54000.0
 Chevrolet,Tahoe,2016,Saudi,Silver,Semi Full,5.3,Gas,Automatic,104000.0,Al-Ahsa,112000.0
 Ford,Edge,2017,Saudi,Black,Semi Full,3.5,Gas,Automatic,92000.0,Riyadh,81000.0
-Toyota,Land Cruiser,2018,Saudi,White,Full,5.7,Gas,Automatic,142000.0,Jeddah,245000.0
 Hyundai,Elantra,2016,Other,White,Full,1.6,Diesel,Automatic,101715.0,Qassim,52000.0
 Nissan,Bus Urvan,2009,Saudi,White,Standard,2.5,Gas,Manual,173000.0,Dammam,25000.0
 Chevrolet,Caprice,2013,Saudi,Black,Full,5.7,Gas,Automatic,148316.0,Dammam,65000.0
 MG,RX8,2020,Saudi,Grey,Semi Full,2.0,Gas,Automatic,19000.0,Jeddah,88000.0
 Ford,Expedition,2013,Saudi,Black,Standard,5.4,Gas,Automatic,145000.0,Riyadh,38000.0
-Audi,A8,2018,Gulf Arabic,Red,Full,3.0,Gas,Automatic,44500.0,Dammam,310000.0
 GMC,Yukon,2019,Saudi,Another Color,Standard,5.3,Gas,Automatic,83000.0,Jeddah,165000.0
 Toyota,Hilux,2016,Saudi,White,Full,2.7,Gas,Automatic,2500.0,Dammam,105000.0
 Chevrolet,Tahoe,2012,Saudi,White,Standard,5.3,Gas,Automatic,61000.0,Jeddah,80000.0
 Jaguar,XJR,2013,Saudi,Black,Full,3.5,Gas,Automatic,130000.0,Al-Medina,85000.0
-Toyota,Land Cruiser,2020,Saudi,Black,Full,4.0,Gas,Automatic,18000.0,Riyadh,285000.0
 GMC,Savana,2007,Saudi,Blue,Standard,3.5,Gas,Automatic,63000.0,Al-Medina,75000.0
 Toyota,Hilux,1995,Saudi,White,Full,2.4,Gas,Manual,900000.0,Jeddah,14000.0
 Toyota,Yaris,2016,Saudi,White,Standard,1.5,Gas,Automatic,119000.0,Dammam,32000.0
@@ -1720,7 +1616,6 @@ Toyota,Land Cruiser 70,2019,Saudi,White,Full,1.7,Gas,Manual,89000.0,Riyadh,90000
 Chevrolet,Blazer,2015,Saudi,Silver,Standard,3.5,Gas,Automatic,180000.0,Jubail,40000.0
 Mitsubishi,Pajero,2016,Saudi,Brown,Semi Full,3.5,Gas,Automatic,122000.0,Riyadh,50000.0
 Mercedes,S,2003,Gulf Arabic,White,Full,3.5,Gas,Automatic,440000.0,Tabouk,16000.0
-Lexus,LX,2015,Saudi,Grey,Full,5.7,Gas,Automatic,97000.0,Taef,192000.0
 Kia,Cadenza,2018,Saudi,Navy,Full,3.3,Gas,Automatic,148884.0,Riyadh,65000.0
 Kia,Cadenza,2018,Saudi,White,Standard,3.3,Gas,Automatic,155652.0,Riyadh,72500.0
 Chevrolet,Impala,2018,Saudi,Silver,Standard,3.6,Gas,Automatic,63118.0,Riyadh,73500.0
@@ -1743,7 +1638,6 @@ Ford,Taurus,2018,Saudi,Blue,Standard,3.5,Gas,Automatic,91355.0,Riyadh,74500.0
 Chevrolet,Caprice,2013,Saudi,Silver,Standard,6.0,Gas,Automatic,79159.0,Riyadh,75000.0
 Chevrolet,Caprice,2013,Saudi,Silver,Standard,6.0,Gas,Automatic,124628.0,Riyadh,75000.0
 Nissan,Datsun,2013,Saudi,White,Standard,1.6,Gas,Manual,340.0,Qassim,26000.0
-Mercedes,C,2020,Other,White,Full,3.0,Gas,Automatic,33000.0,Jeddah,235000.0
 GMC,Yukon,2012,Saudi,Another Color,Semi Full,1.5,Gas,Automatic,65000.0,Makkah,80000.0
 Hyundai,Elantra,2016,Saudi,Grey,Full,2.0,Gas,Automatic,97000.0,Al-Medina,42000.0
 Nissan,Sunny,2007,Other,Grey,Semi Full,2.8,Gas,Manual,300020.0,Abha,15000.0
@@ -1758,7 +1652,6 @@ Jeep,Grand Cherokee,2014,Saudi,Silver,Semi Full,3.6,Gas,Automatic,245000.0,Al-Na
 GMC,Terrain,2013,Saudi,Grey,Semi Full,2.4,Gas,Automatic,240000.0,Jeddah,30000.0
 Mercedes,E,2014,Saudi,Grey,Semi Full,3.5,Gas,Automatic,95000.0,Dammam,98000.0
 Kia,Mohave,2014,Saudi,White,Full,3.8,Gas,Automatic,200350.0,Al-Ahsa,40000.0
-Lexus,LX,2014,Gulf Arabic,White,Full,5.7,Gas,Automatic,88000.0,Qassim,207000.0
 Chevrolet,Colorado,2013,Saudi,Brown,Standard,1.4,Gas,Manual,202000.0,Al-Medina,23000.0
 Kia,Rio,2015,Saudi,White,Standard,1.6,Gas,Automatic,182000.0,Riyadh,21000.0
 GMC,Savana,1999,Other,Red,Full,1.5,Gas,Automatic,200000.0,Jeddah,11500.0
@@ -1777,20 +1670,16 @@ Toyota,Yaris,2019,Saudi,Brown,Semi Full,1.6,Gas,Automatic,50000.0,Dammam,40000.0
 Lexus,IS,2018,Saudi,Black,Semi Full,3.5,Gas,Automatic,131000.0,Riyadh,166000.0
 Ford,Taurus,2016,Other,Grey,Full,3.5,Gas,Automatic,115000.0,Dammam,71000.0
 Hyundai,Elantra,2015,Saudi,Grey,Full,2.0,Gas,Automatic,169.0,Aseer,30000.0
-Genesis,G80,2019,Saudi,Silver,Semi Full,3.8,Gas,Automatic,35000.0,Riyadh,220000.0
-Mercedes,C,2019,Gulf Arabic,Silver,Semi Full,3.0,Gas,Automatic,5000.0,Riyadh,187000.0
+Hyundai,Elantra,2020,Saudi,Silver,Semi Full,2.0,Gas,Automatic,27000.0,Abha,1010.0
 Honda,Accord,2008,Saudi,Golden,Standard,2.4,Gas,Automatic,197000.0,Abha,20000.0
 GMC,Suburban,2004,Other,Oily,Standard,1.1,Gas,Automatic,212.0,Riyadh,14000.0
 Mercedes,S,2006,Saudi,Black,Full,3.5,Gas,Automatic,228000.0,Taef,45000.0
-Porsche,Macan,2018,Saudi,Another Color,Semi Full,2.0,Gas,Automatic,36000.0,Jeddah,210000.0
 Chevrolet,Silverado,2018,Saudi,Silver,Standard,5.3,Gas,Automatic,88000.0,Dammam,85000.0
-Mercedes,C,2017,Saudi,Grey,Full,4.0,Gas,Automatic,80000.0,Dammam,270000.0
 Mercedes,CL,2011,Saudi,Navy,Full,4.0,Gas,Automatic,60000.0,Dammam,170000.0
 Ford,Taurus,2017,Saudi,Blue,Standard,3.5,Gas,Automatic,128439.0,Riyadh,76500.0
 Dodge,Durango,2017,Saudi,White,Standard,3.6,Gas,Automatic,102608.0,Riyadh,76500.0
 Toyota,Innova,2017,Saudi,White,Full,2.7,Gas,Automatic,175559.0,Riyadh,76500.0
 Hyundai,Azera,2019,Saudi,White,Standard,3.0,Gas,Automatic,61294.0,Riyadh,76500.0
-Mercedes,G,2017,Saudi,White,Full,4.0,Gas,Automatic,113000.0,Dammam,330000.0
 Jeep,Cherokee,2010,Saudi,Golden,Standard,3.4,Gas,Automatic,400.0,Riyadh,15000.0
 Lexus,LS,2008,Saudi,Navy,Full,4.6,Gas,Automatic,299000.0,Dammam,38000.0
 Hyundai,Senta fe,2014,Saudi,Another Color,Semi Full,3.3,Gas,Automatic,215000.0,Jeddah,41000.0
@@ -1820,7 +1709,7 @@ Mazda,3,2018,Saudi,Black,Standard,1.6,Gas,Automatic,105000.0,Jeddah,38000.0
 Lexus,ES,2016,Gulf Arabic,White,Full,3.5,Gas,Automatic,86000.0,Jeddah,125000.0
 Hyundai,Accent,2017,Saudi,White,Standard,1.4,Gas,Automatic,150000.0,Riyadh,31000.0
 Kia,Rio,2016,Saudi,Another Color,Standard,1.4,Gas,Automatic,270000.0,Riyadh,25000.0
-Lexus,LS,2016,Saudi,White,Full,4.6,Gas,Automatic,90000.0,Jeddah,200000.0
+Mitsubishi,Attrage,2019,Saudi,Grey,Standard,1.2,Gas,Automatic,41000.0,Jeddah,877.0
 Lexus,ES,2021,Saudi,White,Standard,2.5,Gas,Automatic,700.0,Jeddah,183000.0
 Toyota,Avalon,2020,Saudi,White,Full,3.5,Gas,Automatic,33000.0,Jeddah,164000.0
 Mercedes,E,2018,Saudi,White,Semi Full,2.0,Gas,Automatic,102000.0,Jeddah,155000.0
@@ -2045,7 +1934,6 @@ Nissan,Sunny,2018,Other,White,Semi Full,1.5,Gas,Automatic,75000.0,Al-Medina,2900
 Cadillac,CT-S,2012,Saudi,Blue,Semi Full,3.0,Gas,Automatic,70000.0,Riyadh,50000.0
 Chevrolet,Impala,2019,Gulf Arabic,White,Standard,3.5,Gas,Automatic,53000.0,Qassim,80000.0
 Toyota,FJ,2017,Gulf Arabic,White,Full,4.0,Gas,Automatic,114000.0,Qassim,115000.0
-Land Rover,Range Rover,2015,Gulf Arabic,Black,Semi Full,3.0,Gas,Automatic,103000.0,Qassim,225000.0
 Chrysler,C300,2008,Saudi,White,Semi Full,6.0,Gas,Automatic,212.0,Dammam,12500.0
 Toyota,Hilux,2016,Gulf Arabic,White,Full,2.7,Gas,Manual,161000.0,Arar,68000.0
 Mitsubishi,Pajero,2016,Saudi,White,Full,3.8,Gas,Automatic,75000.0,Jeddah,70000.0
@@ -2060,7 +1948,6 @@ Ford,Taurus,2018,Saudi,White,Standard,3.5,Gas,Automatic,65000.0,Dammam,76000.0
 Hyundai,Sonata,2017,Gulf Arabic,Grey,Semi Full,2.0,Gas,Automatic,130.0,Makkah,40000.0
 Ford,Taurus,2014,Saudi,White,Full,3.5,Gas,Automatic,269177.0,Jazan,60000.0
 GMC,Yukon,2013,Saudi,Brown,Standard,3.5,Gas,Automatic,157000.0,Al-Baha,72000.0
-Land Rover,Range Rover,2020,Saudi,White,Full,2.0,Gas,Automatic,4200.0,Qassim,290000.0
 Nissan,VTC,2016,Saudi,White,Semi Full,4.8,Gas,Manual,307801.0,Riyadh,99000.0
 Toyota,Camry,2019,Saudi,Black,Full,2.5,Gas,Automatic,13136.0,Riyadh,99500.0
 GMC,Sierra,2016,Saudi,Red,Standard,5.3,Gas,Automatic,205544.0,Riyadh,99500.0
@@ -2088,7 +1975,6 @@ Toyota,Avalon,2017,Saudi,Grey,Full,3.5,Gas,Automatic,104159.0,Riyadh,106500.0
 Chevrolet,Tahoe,2017,Saudi,Grey,Standard,5.3,Gas,Automatic,136517.0,Jeddah,107000.0
 Ford,Expedition,2014,Saudi,Navy,Standard,5.4,Gas,Automatic,75000.0,Riyadh,60000.0
 Toyota,Hilux,2021,Saudi,White,Full,2.7,Gas,Manual,37000.0,Riyadh,1723.0
-Mercedes,S,2016,Saudi,White,Standard,3.0,Gas,Automatic,60000.0,Dammam,210000.0
 Ford,Edge,2013,Saudi,White,Standard,3.6,Gas,Automatic,240000.0,Riyadh,35000.0
 Mazda,CX9,2015,Saudi,White,Full,2.5,Gas,Automatic,314000.0,Riyadh,59000.0
 Toyota,Camry,2017,Saudi,White,Full,2.5,Gas,Automatic,135000.0,Dammam,73000.0
@@ -2115,15 +2001,14 @@ Jeep,Compass,2014,Saudi,Brown,Full,2.4,Gas,Automatic,217000.0,Jeddah,25000.0
 Toyota,Ciocca,2016,Saudi,White,Semi Full,5.7,Gas,Automatic,390.0,Al-Medina,90000.0
 Nissan,Patrol,2014,Saudi,Golden,Full,5.6,Gas,Automatic,158000.0,Riyadh,110000.0
 Mercedes,A,2020,Other,White,Full,1.3,Gas,Automatic,4700.0,Dammam,165000.0
-Mercedes,S,2017,Other,Navy,Full,3.0,Gas,Automatic,53000.0,Riyadh,260000.0
 Ford,Expedition,2013,Saudi,White,Full,5.0,Gas,Automatic,195000.0,Jeddah,70000.0
 Ford,Edge,2013,Saudi,White,Full,3.5,Gas,Automatic,317125.0,Makkah,32000.0
+Hyundai,Elantra,2018,Gulf Arabic,White,Semi Full,2.0,Gas,Automatic,83000.0,Al-Jouf,1324.0
 Land Rover,Range Rover,2016,Gulf Arabic,Red,Full,3.5,Gas,Automatic,122000.0,Jeddah,176000.0
 Hyundai,Senta fe,2017,Saudi,Another Color,Semi Full,3.3,Gas,Automatic,147.0,Makkah,65000.0
 Renault,Fluence,2015,Saudi,White,Semi Full,1.6,Gas,Automatic,93470.0,Riyadh,23000.0
 Peugeot,Boxer,2016,Saudi,White,Standard,2.8,Diesel,Manual,287000.0,Riyadh,59000.0
 Toyota,Land Cruiser,2007,Saudi,White,Full,4.5,Gas,Automatic,315000.0,Dammam,63000.0
-Lexus,LX,2017,Saudi,Navy,Full,5.7,Gas,Automatic,161000.0,Dammam,290000.0
 Nissan,Sunny,2018,Saudi,Silver,Standard,1.5,Gas,Automatic,97000.0,Dammam,28000.0
 Honda,Accord,2017,Gulf Arabic,White,Full,3.5,Gas,Automatic,46179.0,Riyadh,111500.0
 Ford,Explorer,2016,Gulf Arabic,Grey,Full,3.5,Gas,Automatic,76677.0,Riyadh,111500.0
@@ -2131,7 +2016,6 @@ Chevrolet,Suburban,2015,Saudi,Golden,Standard,5.3,Gas,Automatic,198506.0,Riyadh,
 Nissan,Patrol,2015,Saudi,White,Semi Full,5.6,Gas,Automatic,219175.0,Riyadh,113500.0
 Volkswagen,Passat,2018,Saudi,White,Semi Full,2.5,Gas,Automatic,59000.0,Hail,2402.0
 Dodge,Charger,2013,Saudi,Grey,Full,5.7,Gas,Automatic,198000.0,Al-Medina,42000.0
-Porsche,911,2005,Saudi,Another Color,Full,3.5,Gas,Automatic,37000.0,Dammam,350000.0
 Honda,Odyssey,2009,Other,Black,Standard,3.5,Gas,Automatic,200000.0,Dammam,38000.0
 Honda,Odyssey,2012,Saudi,Brown,Standard,2.4,Gas,Automatic,178000.0,Riyadh,32000.0
 Ford,Taurus,2015,Other,Brown,Full,3.5,Gas,Automatic,104000.0,Dammam,72000.0
@@ -2139,7 +2023,6 @@ Kia,Picanto,2017,Saudi,White,Standard,1.0,Gas,Automatic,141000.0,Al-Medina,22500
 Hyundai,Accent,2018,Saudi,White,Standard,1.4,Gas,Automatic,199000.0,Dammam,31000.0
 Cadillac,ATS,2018,Saudi,Black,Standard,2.0,Gas,Automatic,78000.0,Riyadh,85000.0
 Toyota,Rav4,2017,Saudi,White,Full,2.4,Gas,Automatic,148000.0,Jeddah,80000.0
-Toyota,Land Cruiser,2019,Saudi,White,Full,4.5,Diesel,Automatic,82808.0,Qassim,230000.0
 Mazda,6,2019,Saudi,Silver,Semi Full,2.5,Gas,Automatic,108000.0,Qassim,75000.0
 Hyundai,Accent,2017,Saudi,Grey,Standard,1.4,Gas,Automatic,200000.0,Dammam,30000.0
 Chevrolet,Tahoe,2016,Saudi,Silver,Standard,5.2,Gas,Automatic,144000.0,Al-Ahsa,112000.0
@@ -2190,6 +2073,7 @@ Chevrolet,Tahoe,2016,Saudi,Brown,Standard,5.3,Gas,Automatic,194000.0,Dammam,1080
 Hyundai,Tucson,2016,Other,Grey,Full,2.0,Gas,Automatic,230.0,Riyadh,50000.0
 Toyota,Yaris,2015,Saudi,Grey,Standard,1.5,Gas,Automatic,185000.0,Jeddah,15000.0
 Mercedes,C,2015,Other,Grey,Semi Full,2.0,Gas,Automatic,187000.0,Riyadh,94000.0
+Hyundai,Accent,2020,Saudi,Grey,Full,1.6,Gas,Automatic,35000.0,Jeddah,1066.0
 Lexus,LX,2012,Other,White,Full,5.7,Gas,Automatic,394.0,Riyadh,136000.0
 Toyota,FJ,2016,Saudi,White,Full,4.0,Gas,Automatic,208000.0,Dammam,100000.0
 Toyota,FJ,2016,Saudi,White,Standard,4.0,Gas,Automatic,130.0,Jeddah,100000.0
@@ -2207,7 +2091,6 @@ Toyota,Land Cruiser,1993,Other,Another Color,Semi Full,3.5,Gas,Manual,196671.0,A
 Changan,CS35,2021,Saudi,Grey,Full,1.6,Gas,Automatic,5000.0,Riyadh,44000.0
 BMW,The 5,2015,Saudi,Brown,Semi Full,2.0,Gas,Automatic,89000.0,Jeddah,80000.0
 Ford,Taurus,2011,Saudi,Silver,Standard,3.5,Gas,Automatic,22000.0,Taef,50000.0
-Lexus,LX,2018,Saudi,Silver,Full,5.7,Gas,Automatic,90000.0,Jeddah,350000.0
 Toyota,Tundra,2015,Gulf Arabic,White,Full,3.5,Gas,Automatic,330000.0,Qassim,107000.0
 Toyota,Land Cruiser,2007,Saudi,White,Full,4.5,Gas,Automatic,564000.0,Qassim,43000.0
 Ford,F150,2019,Gulf Arabic,White,Standard,5.0,Gas,Automatic,22000.0,Qassim,110000.0
@@ -2223,7 +2106,6 @@ Ford,Explorer,2017,Saudi,Navy,Standard,3.6,Gas,Automatic,150000.0,Dammam,73000.0
 Honda,Accord,2009,Saudi,Another Color,Semi Full,2.4,Gas,Automatic,235000.0,Riyadh,25000.0
 Kia,K5,2021,Saudi,Grey,Semi Full,2.5,Gas,Automatic,12000.0,Al-Ahsa,94000.0
 MG,5,2020,Saudi,Golden,Full,1.5,Gas,Automatic,15000.0,Yanbu,41000.0
-Cadillac,Escalade,2020,Saudi,Grey,Full,3.5,Gas,Automatic,5000.0,Riyadh,280000.0
 Chevrolet,Tahoe,2012,Saudi,Golden,Semi Full,5.3,Gas,Automatic,326000.0,Jubail,47000.0
 Ford,Marquis,2005,Saudi,Silver,Semi Full,5.1,Gas,Automatic,270000.0,Jeddah,15000.0
 Kia,Cerato,2014,Saudi,Silver,Semi Full,1.6,Gas,Automatic,175000.0,Dammam,25000.0
@@ -2297,7 +2179,6 @@ Chevrolet,Suburban,2015,Saudi,Another Color,Standard,5.3,Gas,Automatic,201000.0,
 Honda,Other,2011,Saudi,Black,Standard,1.0,Gas,Manual,4200.0,Jeddah,6500.0
 Chevrolet,Suburban,2013,Saudi,Silver,Full,5.3,Gas,Automatic,283000.0,Dammam,69000.0
 Ford,Fusion,2015,Saudi,Another Color,Semi Full,2.5,Gas,Automatic,98000.0,Dammam,45000.0
-GMC,Yukon,2021,Saudi,Black,Full,5.3,Gas,Automatic,3700.0,Aseer,310000.0
 Audi,A5,2011,Saudi,White,Full,2.1,Gas,Automatic,218000.0,Al-Medina,40000.0
 Toyota,Camry,2014,Saudi,Blue,Full,2.5,Gas,Automatic,225000.0,Jeddah,48000.0
 Chevrolet,Traverse,2020,Saudi,Silver,Standard,3.6,Gas,Automatic,22800.0,Al-Medina,100000.0
@@ -2313,7 +2194,6 @@ Hyundai,Sonata,2019,Saudi,Silver,Standard,2.4,Gas,Automatic,110900.0,Riyadh,5700
 Nissan,Sentra,2016,Saudi,Silver,Standard,1.6,Gas,Automatic,96000.0,Riyadh,31000.0
 Hyundai,Accent,2020,Saudi,White,Standard,1.4,Gas,Automatic,21000.0,Hail,47000.0
 Hyundai,Accent,2016,Saudi,White,Standard,1.6,Gas,Automatic,147000.0,Dammam,24000.0
-Lexus,LX,2014,Saudi,Bronze,Full,5.7,Gas,Automatic,160000.0,Dammam,188000.0
 Hyundai,Sonata,2018,Saudi,Brown,Semi Full,2.4,Gas,Automatic,90000.0,Riyadh,57000.0
 Kia,Sportage,2018,Saudi,Silver,Standard,2.4,Gas,Automatic,93000.0,Riyadh,54000.0
 Hyundai,Accent,2017,Saudi,White,Standard,1.4,Gas,Automatic,102000.0,Dammam,27500.0
@@ -2321,7 +2201,6 @@ Ford,Taurus,2017,Saudi,Another Color,Semi Full,3.5,Gas,Automatic,72000.0,Dammam,
 Ford,Taurus,2013,Saudi,Silver,Full,3.5,Gas,Automatic,128000.0,Dammam,45000.0
 Chevrolet,Tahoe,2015,Gulf Arabic,White,Full,5.3,Gas,Automatic,189000.0,Dammam,130000.0
 Toyota,FJ,2017,Saudi,White,Full,4.0,Gas,Automatic,265000.0,Dammam,110000.0
-Toyota,Land Cruiser,2020,Saudi,White,Full,5.7,Gas,Automatic,30000.0,Dammam,305000.0
 Toyota,Corolla,2018,Saudi,White,Semi Full,1.6,Gas,Automatic,124000.0,Khobar,40000.0
 Hyundai,Sonata,2018,Saudi,White,Semi Full,2.4,Gas,Automatic,63000.0,Tabouk,60000.0
 Chevrolet,Tahoe,2016,Saudi,Blue,Semi Full,5.3,Gas,Automatic,230.0,Riyadh,97000.0
@@ -2329,7 +2208,6 @@ Nissan,VTC,2014,Saudi,White,Standard,4.0,Gas,Manual,207000.0,Dammam,65000.0
 GMC,Yukon,2018,Saudi,Silver,Standard,5.3,Gas,Automatic,82469.0,Riyadh,146500.0
 Maserati,Gamble,2016,Gulf Arabic,Blue,Full,3.0,Gas,Automatic,102133.0,Jeddah,146500.0
 GMC,Yukon,2018,Saudi,Grey,Standard,5.3,Gas,Automatic,92736.0,Riyadh,146500.0
-Bentley,Flying Spur,2014,Saudi,Black,Full,6.0,Gas,Automatic,41000.0,Dammam,330000.0
 Toyota,Yaris,2014,Saudi,Another Color,Standard,1.4,Gas,Automatic,201000.0,Riyadh,23000.0
 Toyota,Furniture,2011,Saudi,Another Color,Standard,2.7,Gas,Automatic,325.0,Riyadh,32000.0
 Chevrolet,Silverado,2019,Gulf Arabic,Black,Full,5.3,Gas,Automatic,77000.0,Khobar,185000.0
@@ -2385,19 +2263,15 @@ Toyota,Land Cruiser,2015,Gulf Arabic,White,Full,5.7,Gas,Automatic,143203.0,Riyad
 Kia,Picanto,2017,Saudi,Red,Semi Full,1.4,Gas,Automatic,148000.0,Jeddah,20000.0
 Dodge,Challenger,2013,Saudi,Grey,Semi Full,3.6,Gas,Automatic,278000.0,Al-Ahsa,45000.0
 Lexus,LX,2012,Saudi,Silver,Full,5.7,Gas,Automatic,309.0,Makkah,150000.0
-BMW,The 7,2018,Gulf Arabic,Bronze,Full,2.0,Gas,Automatic,12500.0,Jubail,250000.0
 Subaru,Forester,2009,Saudi,Black,Full,2.5,Gas,Automatic,220000.0,Jeddah,25000.0
 Toyota,Land Cruiser,2019,Saudi,White,Standard,4.0,Gas,Automatic,20000.0,Riyadh,181000.0
 Toyota,Hiace,2018,Saudi,White,Standard,2.7,Gas,Manual,108000.0,Riyadh,110000.0
 Toyota,Prado,2016,Gulf Arabic,White,Full,4.0,Gas,Automatic,168000.0,Riyadh,109000.0
 Chevrolet,Malibu,2017,Gulf Arabic,White,Standard,2.4,Gas,Automatic,117000.0,Riyadh,45000.0
-Toyota,Land Cruiser,2019,Gulf Arabic,White,Full,4.0,Gas,Automatic,50000.0,Riyadh,188500.0
 Mazda,CX5,2020,Gulf Arabic,Red,Standard,2.5,Gas,Automatic,4000.0,Riyadh,83500.0
 Ford,Explorer,2011,Other,Grey,Standard,3.6,Gas,Automatic,226185.0,Riyadh,31000.0
 Chevrolet,Suburban,2016,Saudi,White,Standard,5.3,Gas,Automatic,174000.0,Dammam,103000.0
-Toyota,Land Cruiser,2016,Gulf Arabic,Black,Full,5.7,Gas,Automatic,122000.0,Dammam,200000.0
 Nissan,Sentra,2016,Saudi,Grey,Semi Full,1.6,Gas,Automatic,113000.0,Riyadh,31000.0
-Toyota,Land Cruiser,2019,Gulf Arabic,White,Full,4.0,Gas,Automatic,30000.0,Riyadh,194500.0
 Mercedes,E,2019,Saudi,White,Full,2.0,Gas,Automatic,109007.0,Jeddah,160000.0
 BMW,X,2016,Gulf Arabic,White,Full,4.4,Gas,Automatic,130341.0,Riyadh,161500.0
 Nissan,Patrol,2017,Saudi,White,Full,4.6,Gas,Automatic,31538.0,Riyadh,161500.0
@@ -2417,24 +2291,17 @@ Ford,Taurus,2015,Other,White,Full,3.2,Gas,Automatic,135000.0,Dammam,74000.0
 Chevrolet,Tahoe,2016,Other,White,Full,5.3,Gas,Automatic,110000.0,Dammam,144000.0
 Isuzu,D-MAX,2018,Saudi,White,Standard,2.5,Diesel,Manual,39000.0,Riyadh,72000.0
 Mercedes,E,2017,Other,White,Full,2.0,Gas,Automatic,58000.0,Dammam,177000.0
-Lexus,LS,2020,Saudi,Grey,Standard,3.5,Gas,Automatic,2900.0,Riyadh,325000.0
-Toyota,Land Cruiser,2019,Saudi,White,Full,4.6,Gas,Automatic,71000.0,Riyadh,200000.0
 Ford,Echo Sport,2021,Gulf Arabic,Silver,Semi Full,1.5,Gas,Automatic,1900.0,Riyadh,55000.0
 Ford,Echo Sport,2021,Saudi,Black,Semi Full,1.5,Gas,Automatic,4600.0,Riyadh,55000.0
-Toyota,Land Cruiser,2021,Gulf Arabic,White,Semi Full,4.0,Gas,Automatic,4000.0,Riyadh,225000.0
 Ford,Echo Sport,2020,Gulf Arabic,Black,Semi Full,2.0,Gas,Automatic,2400.0,Riyadh,55000.0
-Toyota,Land Cruiser,2017,Gulf Arabic,White,Semi Full,5.7,Gas,Automatic,100000.0,Riyadh,210000.0
 Mercedes,C,2017,Saudi,White,Semi Full,2.0,Gas,Automatic,81597.0,Riyadh,169500.0
 Toyota,Land Cruiser,2017,Saudi,White,Semi Full,4.6,Gas,Automatic,125188.0,Riyadh,171500.0
 Toyota,Land Cruiser,2015,Saudi,White,Full,5.7,Gas,Automatic,153281.0,Riyadh,171500.0
 Ford,Echo Sport,2020,Gulf Arabic,Silver,Semi Full,2.0,Gas,Automatic,3000.0,Riyadh,55000.0
 Hyundai,Accent,2019,Saudi,Grey,Standard,1.4,Gas,Automatic,78000.0,Dammam,40000.0
-Other,Other,2019,Other,White,Full,8.0,Diesel,Manual,24643.0,Qassim,330000.0
 Toyota,Hiace,2016,Saudi,White,Standard,2.7,Gas,Manual,264000.0,Dammam,65000.0
 Lexus,GX,2018,Saudi,White,Full,4.6,Gas,Automatic,53189.0,Riyadh,179000.0
 Lexus,RX,2016,Saudi,Grey,Full,3.5,Gas,Automatic,69070.0,Jeddah,180000.0
-GMC,Yukon,2020,Saudi,Black,Standard,5.3,Gas,Automatic,19348.0,Riyadh,186500.0
-Lexus,RX,2017,Gulf Arabic,Black,Full,3.5,Gas,Automatic,59073.0,Riyadh,186500.0
 Lexus,ES,2014,Saudi,Another Color,Semi Full,3.5,Gas,Automatic,121000.0,Dammam,90000.0
 MG,360,2018,Saudi,Golden,Standard,1.5,Gas,Automatic,50000.0,Riyadh,26500.0
 Chevrolet,Blazer,2017,Gulf Arabic,White,Semi Full,3.6,Gas,Automatic,115000.0,Khobar,63000.0
@@ -2447,11 +2314,10 @@ Ford,Flex,2016,Other,Silver,Standard,3.5,Gas,Automatic,183000.0,Al-Ahsa,60000.0
 Suzuki,Jimny,2010,Saudi,White,Standard,1.3,Gas,Manual,93000.0,Riyadh,14000.0
 Suzuki,Jimny,2013,Saudi,White,Standard,1.3,Gas,Manual,35700.0,Riyadh,16000.0
 Lexus,ES,2013,Saudi,White,Semi Full,2.5,Gas,Automatic,239.0,Makkah,65000.0
+GMC,Yukon,2021,Saudi,Another Color,Standard,5.3,Gas,Automatic,4000.0,Jeddah,1000.0
 Ford,Taurus,2015,Other,Grey,Full,3.5,Gas,Automatic,112000.0,Dammam,81000.0
 Ford,Mustang,2016,Saudi,Silver,Standard,5.0,Gas,Automatic,184000.0,Jubail,3049.0
 Dodge,Charger,2020,Unknown,Grey,Unknown,3.6,Gas,Automatic,9120.0,Riyadh,115000.0
-Toyota,Land Cruiser,2020,Saudi,White,Standard,4.0,Gas,Automatic,560.0,Riyadh,191500.0
-BMW,The 7,2019,Saudi,White,Semi Full,2.0,Gas,Automatic,49000.0,Jeddah,194000.0
 Land Rover,Range Rover,2015,Saudi,White,Standard,2.0,Gas,Automatic,94000.0,Dammam,96000.0
 BMW,The 7,1989,Other,Navy,Full,5.0,Gas,Automatic,67000.0,Dammam,48000.0
 BMW,The 7,1989,Other,Silver,Full,5.0,Gas,Automatic,176000.0,Dammam,33000.0
@@ -2466,12 +2332,7 @@ Hyundai,Sonata,2018,Saudi,Silver,Standard,2.4,Gas,Automatic,134000.0,Riyadh,4800
 Mercedes,C,2016,Other,Grey,Full,2.0,Gas,Automatic,120000.0,Riyadh,114000.0
 Lexus,ES,2007,Other,Black,Full,6.1,Gas,Automatic,240000.0,Khobar,24000.0
 Toyota,Hilux,2016,Saudi,White,Full,2.7,Gas,Manual,320000.0,Riyadh,65000.0
-Toyota,Land Cruiser,2019,Gulf Arabic,White,Full,4.0,Gas,Automatic,106665.0,Jeddah,205000.0
-Toyota,Land Cruiser,2018,Saudi,White,Full,4.6,Gas,Automatic,124226.0,Riyadh,206500.0
-Lexus,LX,2015,Saudi,White,Full,5.7,Gas,Automatic,108478.0,Riyadh,211500.0
-Lexus,LS,2020,Saudi,White,Full,3.6,Hybrid,Automatic,27000.0,Riyadh,360000.0
 Nissan,Patrol,2014,Saudi,White,Full,5.6,Gas,Automatic,25000.0,Riyadh,115000.0
-Toyota,Land Cruiser,2021,Gulf Arabic,White,Full,4.6,Gas,Automatic,3000.0,Al-Jouf,260000.0
 Toyota,Yaris,2017,Saudi,Grey,Standard,1.3,Gas,Automatic,137200.0,Jeddah,32000.0
 Mitsubishi,Attrage,2021,Saudi,Grey,Standard,3.5,Gas,Automatic,900.0,Riyadh,37000.0
 GMC,Yukon,2008,Saudi,Black,Standard,5.3,Gas,Automatic,440000.0,Dammam,28000.0
@@ -2483,10 +2344,6 @@ Nissan,Datsun,2015,Saudi,White,Full,2.4,Gas,Manual,205000.0,Dammam,30000.0
 Chevrolet,Tahoe,2013,Saudi,Silver,Standard,5.3,Gas,Automatic,300000.0,Jeddah,48000.0
 Lifan,LF X60,2016,Saudi,Red,Full,1.6,Gas,Automatic,128000.0,Jeddah,25000.0
 Toyota,Corolla,2014,Saudi,White,Standard,1.6,Gas,Automatic,275000.0,Jeddah,25000.0
-Toyota,Land Cruiser,2021,Saudi,Black,Semi Full,4.0,Gas,Automatic,5352.0,Riyadh,216500.0
-Toyota,Land Cruiser,2016,Saudi,White,Semi Full,5.7,Gas,Automatic,68534.0,Riyadh,224500.0
-Toyota,Land Cruiser,2021,Gulf Arabic,White,Semi Full,4.0,Gas,Automatic,4780.0,Riyadh,226500.0
-Mercedes,S,2016,Other,White,Full,4.7,Gas,Automatic,95061.0,Riyadh,236500.0
 Toyota,Innova,2016,Saudi,Silver,Semi Full,2.7,Gas,Automatic,179600.0,Dammam,51000.0
 Mitsubishi,Pajero,2016,Saudi,White,Standard,3.8,Gas,Automatic,144624.0,Riyadh,47000.0
 Kia,Rio,2017,Other,Black,Standard,1.4,Gas,Automatic,147000.0,Jeddah,26000.0
@@ -2497,16 +2354,13 @@ Toyota,Land Cruiser,2011,Saudi,White,Full,4.0,Gas,Automatic,349266.0,Riyadh,1000
 Lexus,LX,2006,Gulf Arabic,Bronze,Full,4.7,Gas,Automatic,390000.0,Riyadh,74000.0
 Toyota,Land Cruiser,2015,Saudi,White,Full,4.6,Gas,Automatic,215000.0,Riyadh,146000.0
 Chrysler,C300,2005,Other,Silver,Full,5.7,Gas,Automatic,331000.0,Dammam,15000.0
+Toyota,Rav4,2018,Saudi,White,Full,2.5,Gas,Automatic,90000.0,Tabouk,1300.0
 Mercedes,E,2014,Saudi,Black,Full,4.0,Gas,Automatic,161000.0,Dammam,95000.0
 Nissan,Maxima,2006,Other,Another Color,Standard,3.0,Gas,Manual,400000.0,Jeddah,10000.0
 Mazda,CX9,2019,Saudi,Red,Full,2.5,Gas,Automatic,48000.0,Makkah,120000.0
 BMW,The 7,2010,Saudi,Bronze,Full,3.5,Gas,Automatic,205.0,Riyadh,45000.0
 Toyota,Furniture,2009,Saudi,Silver,Standard,2.7,Gas,Manual,530500.0,Taef,33000.0
 Nissan,Pathfinder,2013,Saudi,Golden,Semi Full,3.5,Gas,Automatic,260000.0,Abha,45000.0
-Nissan,Patrol,2020,Saudi,White,Full,4.0,Gas,Automatic,42835.0,Riyadh,241500.0
-Land Rover,Range Rover,2016,Gulf Arabic,White,Full,5.0,Gas,Automatic,132501.0,Riyadh,245000.0
-Toyota,Land Cruiser,2016,Saudi,White,Full,5.7,Gas,Automatic,1918.0,Jeddah,251500.0
-Land Rover,Range Rover,2016,Gulf Arabic,Black,Full,5.0,Gas,Automatic,120346.0,Riyadh,257000.0
 Chevrolet,Lumina,2004,Other,White,Semi Full,3.8,Gas,Automatic,280.0,Riyadh,12500.0
 Toyota,Hiace,2007,Saudi,White,Standard,3.5,Gas,Manual,230.0,Jeddah,25000.0
 Hyundai,Accent,2016,Saudi,White,Standard,1.2,Gas,Automatic,74000.0,Dammam,30000.0
@@ -2514,6 +2368,7 @@ Lexus,LS,1997,Saudi,Green,Full,4.0,Gas,Automatic,361000.0,Riyadh,12000.0
 Chevrolet,Caprice,2013,Saudi,Silver,Standard,6.0,Gas,Automatic,313000.0,Riyadh,35000.0
 Ford,Expedition,2013,Saudi,Red,Standard,5.4,Gas,Automatic,21700.0,Dammam,35000.0
 Dodge,Durango,2013,Other,Black,Full,5.7,Gas,Automatic,275000.0,Tabouk,40000.0
+Kia,K5,2021,Saudi,Silver,Standard,2.5,Gas,Automatic,30000.0,Aseer,1414.0
 Ford,Expedition,2016,Saudi,Silver,Standard,3.6,Gas,Automatic,127500.0,Jeddah,79000.0
 Toyota,Innova,2013,Saudi,White,Full,2.7,Gas,Automatic,201000.0,Riyadh,36000.0
 Ford,Other,2013,Gulf Arabic,Blue,Semi Full,3.0,Gas,Automatic,318000.0,Riyadh,40000.0
@@ -2521,12 +2376,7 @@ Nissan,Navara,2015,Saudi,White,Semi Full,2.5,Gas,Manual,119000.0,Al-Namas,45000.
 Toyota,Previa,2015,Gulf Arabic,Black,Standard,2.4,Gas,Automatic,218000.0,Riyadh,45000.0
 Jeep,Wrangler,2014,Saudi,Grey,Full,3.6,Gas,Automatic,88000.0,Makkah,89000.0
 MG,5,2020,Saudi,Golden,Standard,1.5,Gas,Automatic,7000.0,Tabouk,34000.0
-Cadillac,Escalade,2019,Saudi,Grey,Full,6.2,Gas,Automatic,58678.0,Riyadh,261500.0
-Land Rover,Range Rover,2016,Gulf Arabic,Black,Full,5.0,Gas,Automatic,102522.0,Riyadh,267000.0
-Toyota,Land Cruiser,2021,Saudi,White,Full,4.6,Gas,Automatic,3549.0,Riyadh,286500.0
-Toyota,Land Cruiser,2020,Gulf Arabic,White,Semi Full,5.7,Gas,Automatic,14598.0,Riyadh,289500.0
 Chevrolet,Tahoe,2014,Saudi,Black,Full,5.7,Gas,Automatic,205000.0,Dammam,70000.0
-Toyota,Land Cruiser,2018,Saudi,White,Full,5.7,Gas,Automatic,141197.0,Riyadh,195000.0
 HAVAL,H6,2019,Other,White,Full,2.0,Gas,Automatic,62000.0,Riyadh,55000.0
 Hyundai,Sonata,2018,Saudi,White,Semi Full,2.5,Gas,Automatic,90000.0,Jeddah,55000.0
 Chevrolet,Malibu,2020,Saudi,Black,Standard,1.5,Gas,Automatic,62000.0,Abha,57000.0
@@ -2541,22 +2391,14 @@ Jeep,Patriot,2012,Other,Oily,Semi Full,2.4,Gas,Automatic,187000.0,Riyadh,28500.0
 Chevrolet,Tahoe,2013,Saudi,Brown,Standard,5.3,Gas,Automatic,362000.0,Jeddah,58000.0
 Toyota,Camry,2013,Saudi,White,Semi Full,2.5,Gas,Automatic,300000.0,Riyadh,35000.0
 Toyota,Hilux,2018,Gulf Arabic,White,Standard,2.4,Gas,Manual,130000.0,Dammam,80000.0
-Ford,F150,2019,Saudi,Blue,Semi Full,3.5,Gas,Automatic,13339.0,Riyadh,291500.0
-Lexus,LX,2019,Saudi,White,Full,5.7,Gas,Automatic,41142.0,Riyadh,381000.0
 Nissan,Patrol,2016,Saudi,White,Semi Full,5.6,Gas,Automatic,50000.0,Dammam,150000.0
 Honda,Accord,2016,Saudi,White,Semi Full,3.5,Gas,Automatic,15000.0,Qassim,65000.0
 Ford,F150,2013,Saudi,White,Standard,5.0,Gas,Automatic,299000.0,Dammam,36000.0
 Toyota,Land Cruiser Pickup,2015,Saudi,White,Semi Full,4.0,Gas,Manual,157000.0,Dammam,90000.0
-Mercedes,S,2016,Saudi,Black,Semi Full,3.0,Gas,Automatic,70000.0,Dammam,290000.0
 GMC,Sierra,2011,Saudi,White,Full,6.2,Gas,Automatic,165000.0,Dammam,65000.0
 Mercedes,GL,2014,Saudi,Black,Full,4.6,Gas,Automatic,159000.0,Dammam,140000.0
-Mercedes,S,2015,Saudi,Navy,Full,5.0,Gas,Automatic,99000.0,Dammam,255000.0
-Mercedes,S,2014,Saudi,Oily,Semi Full,4.0,Gas,Automatic,138000.0,Dammam,260000.0
 Hyundai,Elantra,2016,Saudi,Grey,Standard,1.6,Gas,Automatic,141000.0,Dammam,36000.0
-Porsche,Panamera,2018,Saudi,Red,Standard,3.5,Gas,Automatic,26000.0,Dammam,330000.0
-Land Rover,Range Rover,2015,Saudi,Blue,Full,3.0,Gas,Automatic,105000.0,Dammam,190000.0
 Nissan,Sunny,2018,Saudi,White,Standard,1.5,Gas,Automatic,94000.0,Dammam,28500.0
-Land Rover,Range Rover,2015,Saudi,White,Full,5.0,Gas,Automatic,140000.0,Dammam,245000.0
 BMW,The M,2018,Gulf Arabic,Black,Standard,2.0,Gas,Automatic,1600.0,Dammam,135000.0
 Hyundai,Accent,2017,Saudi,White,Standard,1.4,Gas,Automatic,32000.0,Dammam,33000.0
 Hyundai,Elantra,2016,Saudi,White,Semi Full,2.0,Gas,Automatic,100000.0,Dammam,40000.0
@@ -2564,16 +2406,12 @@ Toyota,Rav4,2011,Saudi,Silver,Standard,2.5,Gas,Automatic,485000.0,Dammam,32000.0
 Toyota,Land Cruiser,2015,Saudi,Grey,Full,4.0,Gas,Automatic,180000.0,Dammam,135000.0
 Chevrolet,Suburban,2016,Saudi,Black,Standard,5.3,Gas,Automatic,170000.0,Dammam,100000.0
 Bentley,Flying Spur,2010,Saudi,Another Color,Full,5.0,Gas,Automatic,58000.0,Dammam,175000.0
-Mercedes,S,2016,Saudi,Silver,Full,4.0,Gas,Automatic,64000.0,Dammam,330000.0
-Mercedes,G,2015,Saudi,Black,Full,4.0,Gas,Automatic,188000.0,Dammam,270000.0
 Chevrolet,Impala,2016,Saudi,Black,Standard,3.5,Gas,Automatic,192000.0,Dammam,65000.0
 Porsche,Cayenne S,2014,Saudi,Brown,Full,3.0,Gas,Automatic,118000.0,Dammam,145000.0
-Lexus,LX,2017,Saudi,Silver,Full,5.7,Gas,Automatic,8000.0,Al-Ahsa,325000.0
 Toyota,Hilux,2012,Saudi,Silver,Full,2.7,Gas,Automatic,127000.0,Riyadh,65000.0
 Jaguar,XJ,2014,Saudi,Another Color,Full,3.0,Gas,Automatic,112000.0,Dammam,95000.0
 Mitsubishi,ASX,2021,Saudi,Grey,Full,2.0,Gas,Automatic,2300.0,Riyadh,75000.0
 Toyota,Corolla,2018,Saudi,White,Standard,1.6,Gas,Automatic,57000.0,Dammam,45000.0
-Jaguar,F Type,2016,Gulf Arabic,Red,Full,3.0,Gas,Automatic,42000.0,Dammam,190000.0
 Toyota,Yaris,2018,Saudi,Brown,Standard,1.5,Gas,Automatic,122000.0,Dammam,37000.0
 Mercedes,S,2011,Saudi,Grey,Full,3.8,Gas,Automatic,189.0,Al-Medina,100000.0
 Toyota,Yaris,2016,Saudi,White,Standard,1.5,Gas,Automatic,190000.0,Dammam,26000.0
@@ -2613,16 +2451,14 @@ Nissan,Sunny,2011,Saudi,White,Standard,1.4,Gas,Automatic,182000.0,Jubail,15000.0
 Jeep,Wrangler,2020,Other,Black,Full,3.6,Gas,Automatic,17000.0,Riyadh,185000.0
 Hyundai,Azera,2020,Saudi,Another Color,Standard,3.5,Gas,Automatic,39000.0,Jeddah,99000.0
 Changan,CS75,2021,Saudi,Red,Standard,1.6,Gas,Automatic,8000.0,Jeddah,62000.0
-Jaguar,F Type,2018,Saudi,Black,Full,3.0,Gas,Automatic,40000.0,Dammam,235000.0
 Mazda,CX9,2020,Saudi,White,Full,2.5,Gas,Automatic,30877.0,Jeddah,135000.0
 Kia,Sportage,2018,Gulf Arabic,White,Semi Full,2.4,Gas,Automatic,77000.0,Riyadh,58000.0
 Hyundai,Tucson,2016,Saudi,White,Standard,2.0,Gas,Automatic,155000.0,Dammam,45000.0
+Mitsubishi,Outlander,2020,Saudi,White,Semi Full,3.5,Gas,Automatic,43000.0,Qassim,1625.0
 Kia,Cerato,2016,Other,Black,Full,2.0,Gas,Automatic,89000.0,Jeddah,40000.0
 Mazda,6,2018,Gulf Arabic,Grey,Standard,2.0,Gas,Automatic,71000.0,Qassim,65000.0
-Land Rover,Range Rover,2014,Saudi,Bronze,Full,5.0,Gas,Automatic,106000.0,Dammam,250000.0
 Mazda,6,2018,Other,Another Color,Standard,2.0,Gas,Automatic,71000.0,Qassim,62000.0
 Lexus,UX,2019,Saudi,White,Standard,2.0,Gas,Automatic,45000.0,Jeddah,130000.0
-Land Rover,Range Rover,2016,Saudi,Red,Semi Full,4.0,Gas,Automatic,72000.0,Makkah,280000.0
 Mazda,6,2016,Gulf Arabic,White,Standard,2.0,Gas,Automatic,196000.0,Qassim,50000.0
 Nissan,Sentra,2016,Gulf Arabic,Silver,Standard,1.6,Gas,Automatic,93000.0,Qassim,33000.0
 Isuzu,Dyna,2014,Gulf Arabic,White,Full,6.0,Diesel,Manual,460000.0,Qassim,120000.0
@@ -2634,7 +2470,6 @@ Hyundai,Coupe S,2010,Saudi,Grey,Full,3.8,Gas,Automatic,240.0,Najran,25000.0
 Mercedes,E,2008,Other,Navy,Full,3.5,Gas,Automatic,243000.0,Dammam,25000.0
 Jaguar,F-Pace,2019,Saudi,Blue,Full,3.5,Gas,Automatic,27000.0,Riyadh,185000.0
 Toyota,Hilux,2016,Gulf Arabic,White,Full,1.6,Gas,Manual,120.0,Qurayyat,60000.0
-Mercedes,GLE,2018,Saudi,Black,Full,3.5,Gas,Automatic,21000.0,Jeddah,272000.0
 Lexus,RX,2015,Saudi,Another Color,Full,3.5,Gas,Automatic,49000.0,Jeddah,123000.0
 Ford,Taurus,2019,Saudi,Black,Standard,2.0,Gas,Automatic,26000.0,Jeddah,84000.0
 Hyundai,Tucson,2019,Saudi,Red,Semi Full,2.0,Gas,Automatic,21000.0,Jeddah,75000.0
@@ -2673,12 +2508,10 @@ Cadillac,Escalade,2007,Other,White,Semi Full,8.0,Gas,Automatic,166000.0,Riyadh,4
 Nissan,Sunny,2020,Saudi,Silver,Standard,1.5,Gas,Automatic,8500.0,Riyadh,33000.0
 Hyundai,Azera,2018,Saudi,White,Standard,3.0,Gas,Automatic,147000.0,Riyadh,75000.0
 Ford,Echo Sport,2020,Gulf Arabic,Silver,Standard,1.5,Gas,Automatic,2819.0,Dammam,59000.0
-Lexus,LS,2018,Gulf Arabic,White,Full,3.5,Gas,Automatic,55000.0,Dammam,298000.0
 Hyundai,Sonata,2018,Saudi,Silver,Semi Full,2.4,Gas,Automatic,55000.0,Riyadh,57000.0
 GMC,Yukon,2013,Saudi,Black,Semi Full,5.3,Gas,Automatic,289000.0,Dammam,55000.0
 Toyota,Camry,2018,Saudi,Bronze,Standard,2.5,Gas,Automatic,179000.0,Dammam,76000.0
 Ford,Victoria,2012,Saudi,White,Semi Full,5.0,Gas,Automatic,318000.0,Dammam,35000.0
-BMW,The 6,2016,Saudi,Grey,Semi Full,3.0,Gas,Automatic,39000.0,Riyadh,190000.0
 Toyota,Camry,2010,Saudi,Grey,Semi Full,2.5,Gas,Automatic,240000.0,Dammam,30000.0
 Volkswagen,Passat,2013,Saudi,Blue,Standard,2.5,Gas,Automatic,160000.0,Jeddah,35000.0
 Renault,Fluence,2015,Saudi,White,Semi Full,1.6,Gas,Automatic,132000.0,Riyadh,23000.0
@@ -2690,21 +2523,17 @@ GMC,Suburban,1997,Saudi,Silver,Standard,1.5,Gas,Automatic,20000.0,Qassim,45000.0
 Kia,Optima,2015,Saudi,Black,Standard,2.0,Gas,Automatic,72000.0,Jeddah,43000.0
 Kia,Picanto,2015,Saudi,Grey,Standard,1.0,Gas,Automatic,142000.0,Al-Medina,18500.0
 Peugeot,Boxer,2016,Saudi,White,Standard,2.8,Diesel,Manual,195000.0,Riyadh,52000.0
-Mercedes,S,2018,Saudi,Brown,Semi Full,5.0,Gas,Automatic,30000.0,Dammam,335000.0
 Kia,Sorento,2016,Gulf Arabic,White,Semi Full,3.0,Gas,Automatic,51000.0,Qassim,62000.0
-Toyota,Land Cruiser,2021,Saudi,White,Full,4.6,Gas,Automatic,6711.0,Riyadh,290000.0
 Kia,Cadenza,2011,Gulf Arabic,White,Full,3.5,Gas,Automatic,334624.0,Makkah,27500.0
 Kia,Carnival,2016,Saudi,Black,Full,3.3,Gas,Automatic,120000.0,Riyadh,70000.0
 Kia,Sportage,2016,Other,Brown,Semi Full,1.7,Diesel,Automatic,90000.0,Qassim,59000.0
 Lexus,IS,2016,Other,White,Full,3.5,Gas,Automatic,96000.0,Dammam,108000.0
 HAVAL,H6,2020,Saudi,Blue,Full,1.5,Gas,Automatic,9000.0,Riyadh,70000.0
-Land Rover,Range Rover,2015,Saudi,Another Color,Full,3.0,Gas,Automatic,71500.0,Riyadh,265000.0
 GMC,Suburban,2016,Saudi,Bronze,Full,5.3,Gas,Automatic,240000.0,Riyadh,110000.0
 Chevrolet,Tahoe,2018,Saudi,Grey,Standard,5.3,Gas,Automatic,90000.0,Dammam,128000.0
 Toyota,Rush,2019,Saudi,Another Color,Full,1.5,Gas,Automatic,40000.0,Jeddah,57000.0
 Hyundai,Elantra,2009,Saudi,White,Standard,1.0,Gas,Manual,4000.0,Riyadh,11000.0
 Toyota,Hilux,2014,Saudi,White,Standard,2.7,Gas,Manual,217000.0,Riyadh,37000.0
-Mercedes,G,2013,Saudi,Black,Full,6.0,Gas,Automatic,32800.0,Dammam,375000.0
 Toyota,Camry,2017,Saudi,Silver,Standard,2.5,Gas,Automatic,303000.0,Dammam,46000.0
 Kia,Cadenza,2017,Saudi,Black,Full,3.3,Gas,Automatic,88000.0,Riyadh,83000.0
 Honda,Accord,2019,Gulf Arabic,White,Standard,1.5,Gas,Automatic,28000.0,Qassim,88000.0
@@ -2740,6 +2569,7 @@ Peugeot,5008,2018,Saudi,Bronze,Semi Full,3.5,Gas,Automatic,34000.0,Riyadh,85000.
 Nissan,Armada,2007,Saudi,Black,Standard,5.6,Gas,Automatic,240000.0,Riyadh,30000.0
 Genesis,G80,2016,Saudi,Blue,Standard,3.8,Gas,Automatic,140000.0,Makkah,84000.0
 Hyundai,Senta fe,2016,Other,Navy,Semi Full,3.3,Diesel,Automatic,50100.0,Riyadh,69000.0
+Hyundai,Sonata,2018,Gulf Arabic,White,Full,2.4,Gas,Automatic,130000.0,Makkah,1503.0
 Changan,CS95,2020,Saudi,Black,Semi Full,2.0,Gas,Automatic,45000.0,Hafar Al-Batin,88000.0
 Chevrolet,Cruze,2013,Saudi,Brown,Standard,1.6,Gas,Automatic,181000.0,Makkah,10000.0
 Toyota,Prado,2013,Gulf Arabic,Golden,Semi Full,4.0,Gas,Automatic,270000.0,Riyadh,80000.0
@@ -2794,13 +2624,12 @@ Ford,Taurus,2017,Other,White,Semi Full,3.5,Gas,Automatic,61000.0,Dammam,73000.0
 BMW,The 3,2013,Saudi,White,Semi Full,2.0,Gas,Automatic,156000.0,Riyadh,45000.0
 Mazda,CX5,2014,Gulf Arabic,Silver,Standard,3.5,Gas,Automatic,110000.0,Riyadh,41000.0
 Toyota,Furniture,2020,Saudi,White,Semi Full,4.0,Gas,Automatic,18000.0,Dammam,128500.0
-Mercedes,E,2021,Saudi,Black,Full,2.0,Gas,Automatic,7000.0,Riyadh,290000.0
 Ford,Echo Sport,2016,Saudi,Black,Standard,1.5,Gas,Automatic,217000.0,Riyadh,25000.0
 GMC,Sierra,2006,Gulf Arabic,White,Semi Full,5.3,Gas,Automatic,283000.0,Dammam,29000.0
-BMW,The 5,2019,Saudi,Grey,Full,2.0,Gas,Automatic,40000.0,Jeddah,220000.0
 Toyota,Yaris,2020,Saudi,Brown,Full,1.5,Gas,Automatic,2100.0,Dammam,50000.0
 Chevrolet,Avalanche,2007,Other,Navy,Semi Full,6.5,Gas,Automatic,700.0,Tabouk,23000.0
 Toyota,Ciocca,2016,Saudi,White,Full,5.7,Gas,Automatic,134000.0,Riyadh,90000.0
+Hyundai,Sonata,2020,Saudi,Grey,Standard,2.0,Gas,Automatic,7000.0,Jeddah,1010.0
 Hyundai,Accent,2019,Saudi,Grey,Standard,1.4,Gas,Automatic,77000.0,Jeddah,38000.0
 Mitsubishi,Pajero,2015,Saudi,Brown,Standard,3.5,Gas,Automatic,264000.0,Khobar,38000.0
 Toyota,Camry,2019,Saudi,Brown,Standard,2.5,Gas,Automatic,47000.0,Riyadh,67000.0
@@ -2841,6 +2670,7 @@ BMW,The 7,2012,Saudi,Black,Semi Full,3.5,Gas,Automatic,197000.0,Jeddah,50000.0
 Renault,Fluence,2015,Saudi,White,Semi Full,1.6,Gas,Automatic,91000.0,Dammam,20000.0
 Hyundai,Elantra,2015,Gulf Arabic,White,Full,2.0,Gas,Automatic,140.0,Riyadh,38000.0
 Ford,Expedition,2014,Saudi,Black,Standard,5.4,Gas,Automatic,140.0,Riyadh,50000.0
+Kia,Rio,2019,Saudi,Bronze,Standard,1.4,Gas,Automatic,55500.0,Arar,884.0
 Hyundai,Sonata,2016,Gulf Arabic,Grey,Standard,2.4,Gas,Automatic,94000.0,Makkah,50000.0
 BMW,The 5,1997,Gulf Arabic,Green,Full,3.5,Gas,Automatic,300000.0,Khobar,10000.0
 Ford,Marquis,2008,Other,Silver,Full,4.6,Gas,Automatic,171000.0,Riyadh,27000.0
@@ -2848,7 +2678,6 @@ Kia,Cadenza,2020,Saudi,Brown,Semi Full,3.3,Gas,Automatic,17000.0,Yanbu,95000.0
 Nissan,Pathfinder,2002,Saudi,Grey,Semi Full,3.3,Gas,Automatic,550000.0,Al-Ahsa,10000.0
 Ford,Victoria,2011,Saudi,Black,Standard,4.6,Gas,Automatic,176000.0,Khobar,50000.0
 Hyundai,Senta fe,2019,Other,White,Full,3.5,Gas,Automatic,10000.0,Hafar Al-Batin,2357.0
-Toyota,Land Cruiser,2020,Unknown,White,Unknown,4.0,Gas,Automatic,43000.0,Riyadh,265000.0
 Toyota,Land Cruiser,1997,Gulf Arabic,White,Full,4.5,Gas,Manual,344627.0,Makkah,45000.0
 Volkswagen,Passat,2012,Saudi,Another Color,Semi Full,2.5,Gas,Automatic,216000.0,Jeddah,22000.0
 Mercedes,S,2010,Other,Grey,Semi Full,5.5,Gas,Automatic,228000.0,Al-Ahsa,63000.0
@@ -2858,16 +2687,13 @@ Chevrolet,Traverse,2011,Other,Another Color,Standard,2.5,Gas,Automatic,320000.0,
 Toyota,Camry,2008,Saudi,White,Full,2.4,Gas,Manual,360000.0,Makkah,19000.0
 Toyota,Rav4,2014,Saudi,Black,Full,2.5,Gas,Automatic,155.0,Riyadh,55000.0
 Nissan,Patrol,2009,Saudi,White,Semi Full,1.6,Gas,Automatic,400000.0,Al-Namas,50000.0
-Lexus,LX,2015,Saudi,White,Full,5.7,Gas,Automatic,248.0,Aseer,200000.0
 GMC,Yukon,2004,Saudi,Silver,Full,3.5,Gas,Automatic,470000.0,Dammam,33000.0
 Geely,Emgrand,2019,Saudi,Blue,Semi Full,1.8,Gas,Automatic,70000.0,Riyadh,35000.0
 Nissan,Altima,2014,Saudi,Brown,Semi Full,2.5,Gas,Automatic,139000.0,Riyadh,36000.0
 Toyota,Prado,2016,Saudi,White,Semi Full,6.0,Gas,Automatic,180.0,Qassim,91000.0
-Lexus,LS,2016,Other,Silver,Full,4.7,Gas,Automatic,19000.0,Dammam,235000.0
 GMC,Acadia,2017,Saudi,White,Semi Full,3.6,Gas,Automatic,298000.0,Aseer,75000.0
 Toyota,Avalon,2015,Gulf Arabic,White,Full,3.5,Gas,Automatic,100000.0,Riyadh,87000.0
 Toyota,Land Cruiser,2013,Gulf Arabic,White,Full,1.0,Gas,Automatic,495.0,Riyadh,90000.0
-Mercedes,SL,2017,Saudi,Red,Full,4.7,Gas,Automatic,81000.0,Jeddah,265000.0
 Honda,Odyssey,2020,Saudi,Another Color,Standard,3.5,Gas,Automatic,40000.0,Jeddah,100000.0
 Toyota,Avanza,2016,Saudi,Blue,Standard,1.6,Gas,Automatic,217.0,Jeddah,37500.0
 Kia,Carnival,2019,Gulf Arabic,White,Semi Full,3.6,Gas,Automatic,99000.0,Riyadh,2141.0
@@ -2879,6 +2705,7 @@ Lexus,ES,2016,Other,Grey,Full,3.5,Gas,Automatic,50000.0,Dammam,127000.0
 Hyundai,Sonata,2011,Saudi,Grey,Semi Full,1.6,Gas,Automatic,450.0,Aseer,18000.0
 Mazda,6,2019,Saudi,Black,Standard,2.5,Gas,Automatic,66000.0,Dammam,72000.0
 Toyota,Land Cruiser 70,2011,Saudi,White,Semi Full,4.0,Gas,Manual,352500.0,Hail,58000.0
+Toyota,Furniture,2012,Other,White,Semi Full,2.7,Gas,Automatic,225000.0,Riyadh,0.0
 Mercedes,C,2015,Other,White,Full,2.0,Gas,Automatic,82000.0,Dammam,109000.0
 MG,5,2021,Saudi,Black,Semi Full,1.5,Gas,Automatic,3400.0,Al-Baha,42000.0
 Toyota,Prado,2020,Saudi,White,Semi Full,4.0,Gas,Automatic,7000.0,Qassim,172000.0
@@ -2906,7 +2733,6 @@ Land Rover,Range Rover,2015,Other,Grey,Full,2.8,Gas,Automatic,102000.0,Al-Ahsa,1
 Ford,Fusion,2018,Other,Blue,Semi Full,1.5,Gas,Automatic,125000.0,Al-Ahsa,57000.0
 Mazda,6,2016,Other,Black,Semi Full,2.0,Gas,Manual,172000.0,Al-Ahsa,45000.0
 Ford,Taurus,2017,Other,Black,Standard,3.5,Gas,Automatic,118000.0,Dammam,73000.0
-Nissan,Patrol,2020,Saudi,Silver,Full,4.0,Gas,Automatic,56000.0,Dammam,225000.0
 Chevrolet,Suburban,2011,Saudi,Black,Semi Full,4.7,Gas,Automatic,462000.0,Al-Medina,40000.0
 Mitsubishi,Pajero,2016,Gulf Arabic,White,Full,3.8,Gas,Automatic,193000.0,Jeddah,58000.0
 Nissan,Datsun,2012,Saudi,White,Standard,1.0,Gas,Manual,333000.0,Makkah,18000.0
@@ -2924,7 +2750,6 @@ Hyundai,Elantra,2019,Saudi,Navy,Semi Full,2.0,Gas,Automatic,55000.0,Jeddah,60000
 Hyundai,Sonata,2017,Saudi,White,Standard,2.4,Gas,Automatic,139000.0,Jeddah,43000.0
 Kia,Optima,2015,Saudi,White,Full,2.0,Gas,Automatic,240000.0,Jeddah,33000.0
 Nissan,Datsun,2015,Saudi,White,Semi Full,2.0,Gas,Manual,130000.0,Jeddah,32000.0
-Mercedes,S,2015,Saudi,White,Full,2.8,Gas,Automatic,180000.0,Jeddah,200000.0
 Bentley,Flying Spur,2011,Saudi,Navy,Full,6.0,Gas,Automatic,183000.0,Jeddah,100000.0
 Toyota,Hilux,2016,Saudi,White,Standard,2.7,Gas,Manual,155000.0,Jeddah,75000.0
 GMC,Sierra,2016,Saudi,Black,Semi Full,5.2,Gas,Automatic,180000.0,Jeddah,72000.0
@@ -2949,7 +2774,6 @@ Nissan,Sunny,2016,Saudi,White,Standard,1.5,Gas,Automatic,200000.0,Jeddah,20000.0
 Nissan,Pathfinder,2005,Saudi,White,Standard,3.5,Gas,Automatic,300000.0,Riyadh,12000.0
 GMC,Sierra,2000,Gulf Arabic,White,Semi Full,1.5,Gas,Automatic,400000.0,Taef,10000.0
 Toyota,Prado,2015,Saudi,White,Full,1.6,Gas,Automatic,55000.0,Jubail,130000.0
-Toyota,Land Cruiser,2020,Saudi,White,Semi Full,4.5,Diesel,Automatic,10000.0,Riyadh,259000.0
 Changan,Eado,2020,Saudi,Red,Semi Full,1.6,Gas,Automatic,91000.0,Dammam,43000.0
 Ford,Taurus,2015,Other,White,Full,3.5,Gas,Automatic,121000.0,Dammam,82000.0
 Changan,Eado,2020,Saudi,White,Semi Full,1.6,Gas,Automatic,64695.0,Riyadh,42000.0
@@ -2958,13 +2782,6 @@ Hyundai,Accent,2011,Saudi,White,Standard,1.8,Gas,Automatic,285205.0,Al-Medina,14
 Jeep,Grand Cherokee,2014,Saudi,Black,Semi Full,5.7,Gas,Automatic,175000.0,Jubail,70000.0
 Honda,Civic,2017,Saudi,Silver,Standard,1.6,Gas,Automatic,86000.0,Makkah,40000.0
 Toyota,Yaris,2019,Saudi,White,Standard,1.5,Gas,Automatic,61000.0,Dammam,38000.0
-Mercedes,C,2018,Saudi,White,Full,4.0,Gas,Automatic,33000.0,Dammam,330000.0
-Land Rover,Range Rover,2016,Gulf Arabic,White,Full,5.0,Gas,Automatic,56500.0,Dammam,320000.0
-Mercedes,E,2020,Saudi,White,Full,2.0,Gas,Automatic,16000.0,Dammam,265000.0
-Mercedes,E,2018,Gulf Arabic,White,Full,3.0,Gas,Automatic,86000.0,Dammam,245000.0
-Land Rover,Discovery,2018,Saudi,Blue,Full,2.0,Gas,Automatic,500.0,Dammam,240000.0
-Mercedes,GLC,2020,Gulf Arabic,White,Full,2.0,Gas,Automatic,4000.0,Dammam,225000.0
-Lexus,IS,2020,Gulf Arabic,Grey,Full,3.0,Gas,Automatic,10000.0,Dammam,197000.0
 Land Rover,Range Rover,2014,Saudi,White,Full,3.0,Gas,Automatic,195000.0,Dammam,170000.0
 Mercedes,GL,2014,Saudi,White,Full,4.6,Gas,Automatic,139000.0,Dammam,135000.0
 BMW,The 6,2013,Saudi,Black,Full,3.0,Gas,Automatic,108000.0,Dammam,120000.0
@@ -3000,8 +2817,6 @@ Kia,K4000G,2005,Saudi,White,Semi Full,3.5,Diesel,Manual,298000.0,Yanbu,25000.0
 Hyundai,Senta fe,2013,Saudi,White,Semi Full,3.3,Gas,Automatic,16700.0,Jeddah,52000.0
 Toyota,Avalon,2021,Saudi,White,Semi Full,3.5,Gas,Automatic,6500.0,Riyadh,140000.0
 Cadillac,ATS,2018,Gulf Arabic,Black,Full,2.0,Gas,Automatic,51000.0,Riyadh,125000.0
-Land Rover,Range Rover,2017,Gulf Arabic,Black,Full,3.0,Gas,Automatic,90000.0,Riyadh,250000.0
-Mercedes,GLE,2020,Other,Black,Full,6.9,Gas,Automatic,24000.0,Riyadh,330000.0
 Toyota,Avalon,2011,Saudi,Black,Full,3.5,Gas,Automatic,150000.0,Makkah,58000.0
 Hyundai,Accent,2012,Saudi,White,Semi Full,1.6,Gas,Manual,228000.0,Jeddah,15000.0
 Lexus,IS,2008,Saudi,Bronze,Semi Full,2.0,Gas,Automatic,400000.0,Riyadh,22000.0
@@ -3042,7 +2857,6 @@ Chrysler,S300,2018,Other,Navy,Full,3.5,Gas,Automatic,66000.0,Dammam,122000.0
 Ford,Flex,2014,Saudi,Brown,Semi Full,3.5,Gas,Automatic,180000.0,Dammam,49000.0
 Ford,Taurus,2017,Other,Grey,Full,3.5,Gas,Automatic,131000.0,Dammam,73000.0
 Toyota,Yaris,2019,Saudi,White,Standard,1.5,Gas,Automatic,22000.0,Hafar Al-Batin,41500.0
-Lexus,ES,2019,Saudi,Silver,Full,2.5,Hybrid,Automatic,62000.0,Yanbu,195000.0
 Toyota,FJ,2012,Other,White,Full,4.0,Gas,Automatic,270.0,Tabouk,60000.0
 Hyundai,Elantra,2013,Other,Silver,Semi Full,1.6,Gas,Automatic,169.0,Riyadh,20000.0
 Toyota,Previa,2009,Other,Silver,Standard,1.7,Gas,Automatic,400000.0,Riyadh,15000.0
@@ -3056,9 +2870,7 @@ Toyota,Prado,2016,Saudi,White,Full,4.0,Gas,Automatic,69900.0,Dammam,128000.0
 GMC,Sierra,2020,Saudi,Red,Semi Full,5.3,Gas,Automatic,60000.0,Dammam,155000.0
 Toyota,Hilux,2016,Other,White,Full,2.7,Gas,Automatic,208.0,Hail,77000.0
 Chevrolet,Caprice,2015,Saudi,Black,Semi Full,6.0,Gas,Automatic,235000.0,Tabouk,65000.0
-BMW,The 7,2018,Saudi,Another Color,Full,3.0,Gas,Automatic,19000.0,Riyadh,225000.0
 Honda,Accord,2014,Saudi,White,Semi Full,2.4,Gas,Automatic,300.0,Riyadh,45000.0
-Ford,F150,2018,Saudi,Brown,Full,5.0,Gas,Automatic,35000.0,Riyadh,195000.0
 Mitsubishi,Pajero,2017,Saudi,White,Semi Full,3.5,Gas,Automatic,159000.0,Dammam,55000.0
 Honda,Accord,2014,Saudi,White,Semi Full,4.0,Gas,Automatic,349000.0,Riyadh,48000.0
 Chevrolet,Suburban,2015,Saudi,Another Color,Full,5.3,Gas,Automatic,70000.0,Al-Baha,160000.0
@@ -3087,6 +2899,7 @@ Hyundai,Accent,2018,Saudi,White,Standard,1.4,Gas,Automatic,79000.0,Dammam,33000.
 Mercedes,E,2016,Other,Black,Standard,3.0,Gas,Automatic,110440.0,Riyadh,98000.0
 Toyota,Avalon,2014,Saudi,White,Semi Full,3.5,Gas,Automatic,340000.0,Tabouk,43000.0
 Hyundai,Sonata,2013,Saudi,White,Full,2.6,Gas,Automatic,280.0,Riyadh,25000.0
+Hyundai,Tucson,2019,Saudi,Grey,Semi Full,2.0,Gas,Automatic,101000.0,Riyadh,1300.0
 Dodge,Charger,2016,Other,Another Color,Full,5.7,Gas,Automatic,100000.0,Dammam,109000.0
 Nissan,Sentra,2017,Saudi,White,Standard,1.6,Gas,Automatic,50700.0,Riyadh,37000.0
 Volkswagen,Touareg,2006,Other,Another Color,Semi Full,3.5,Gas,Automatic,290000.0,Jeddah,12000.0
@@ -3111,13 +2924,11 @@ Ford,Van,2013,Saudi,White,Semi Full,6.8,Gas,Automatic,40000.0,Abha,40000.0
 Chevrolet,Blazer,2007,Saudi,Black,Semi Full,6.0,Gas,Automatic,400.0,Jazan,8000.0
 Nissan,Land Cruiser Pickup,1999,Saudi,White,Standard,4.5,Gas,Manual,180000.0,Riyadh,28000.0
 Hyundai,Azera,2015,Saudi,Silver,Full,3.0,Gas,Automatic,215515.0,Riyadh,42000.0
-Bentley,Continental GT,2013,Saudi,Another Color,Unknown,3.5,Gas,Automatic,121000.0,Riyadh,280000.0
 Toyota,Land Cruiser,2013,Saudi,Bronze,Standard,4.6,Gas,Manual,350000.0,Dammam,86000.0
 Kia,Cerato,2015,Gulf Arabic,Silver,Standard,1.6,Gas,Automatic,141000.0,Dammam,25000.0
 Kia,Seltos,2021,Saudi,Red,Semi Full,1.6,Gas,Automatic,10000.0,Riyadh,75000.0
 Nissan,Sunny,2019,Saudi,Silver,Standard,1.5,Gas,Automatic,66000.0,Al-Medina,29000.0
 Toyota,Corolla,2020,Saudi,Another Color,Semi Full,1.6,Gas,Automatic,39000.0,Jeddah,69000.0
-Mercedes,G,2014,Saudi,White,Full,5.5,Gas,Automatic,125000.0,Riyadh,245000.0
 GMC,Yukon,2017,Saudi,Golden,Semi Full,5.3,Gas,Automatic,30000.0,Aseer,158000.0
 Chevrolet,Tahoe,2013,Saudi,Another Color,Semi Full,5.3,Gas,Automatic,172000.0,Jeddah,60000.0
 Kia,Cadenza,2017,Saudi,Silver,Standard,3.0,Gas,Automatic,93000.0,Riyadh,57000.0
@@ -3145,7 +2956,6 @@ Mazda,CX3,2018,Saudi,Another Color,Standard,2.0,Gas,Automatic,31000.0,Al-Medina,
 Mazda,3,2019,Saudi,White,Standard,1.6,Gas,Automatic,53000.0,Al-Medina,46500.0
 Toyota,Prado,2019,Gulf Arabic,White,Full,4.0,Gas,Automatic,82000.0,Riyadh,149500.0
 Hyundai,Accent,2018,Saudi,Black,Standard,1.4,Gas,Automatic,105000.0,Riyadh,35000.0
-Land Rover,Range Rover,2017,Saudi,White,Full,5.2,Gas,Automatic,77000.0,Al-Medina,275000.0
 Porsche,Panamera,2011,Saudi,White,Full,5.7,Gas,Automatic,108000.0,Al-Medina,99000.0
 Mercedes,S,2011,Saudi,White,Full,3.8,Gas,Automatic,203000.0,Al-Medina,98000.0
 Honda,Accord,2018,Saudi,Silver,Full,1.5,Gas,Automatic,70000.0,Al-Medina,96000.0
@@ -3195,7 +3005,6 @@ Toyota,Hilux,1995,Saudi,White,Full,2.4,Gas,Manual,300.0,Aseer,15000.0
 Ford,Fusion,2012,Other,Silver,Semi Full,2.5,Gas,Automatic,300000.0,Dammam,18000.0
 Hyundai,Azera,2016,Saudi,White,Semi Full,2.4,Gas,Automatic,36000.0,Riyadh,48000.0
 Mitsubishi,Pajero,2016,Saudi,White,Semi Full,3.5,Gas,Automatic,193000.0,Riyadh,45000.0
-Toyota,Land Cruiser,2020,Saudi,White,Full,4.0,Gas,Automatic,46800.0,Dammam,257000.0
 Ford,Marquis,1999,Other,Golden,Full,3.5,Gas,Automatic,388000.0,Najran,10000.0
 Nissan,Patrol,2015,Saudi,White,Semi Full,4.8,Gas,Automatic,247000.0,Jeddah,75000.0
 Lexus,NX,2020,Saudi,White,Full,2.0,Gas,Automatic,4100.0,Jeddah,170000.0
@@ -3204,12 +3013,12 @@ Nissan,Sunny,2019,Other,White,Semi Full,1.5,Gas,Automatic,46000.0,Jeddah,32000.0
 GMC,Yukon,2008,Saudi,Golden,Semi Full,5.3,Gas,Automatic,280000.0,Taef,42000.0
 Nissan,Navara,2016,Saudi,White,Standard,2.5,Gas,Manual,7000.0,Jeddah,65000.0
 Nissan,Patrol,2016,Saudi,White,Standard,4.8,Gas,Automatic,59000.0,Jeddah,83000.0
+Hyundai,Tucson,2020,Saudi,Silver,Semi Full,2.0,Gas,Automatic,58000.0,Makkah,1313.0
 Dodge,Charger,2014,Other,Red,Full,5.7,Gas,Automatic,300000.0,Jeddah,35000.0
 Toyota,Hilux,2016,Saudi,White,Full,2.7,Gas,Manual,190000.0,Al-Baha,65000.0
 Mitsubishi,Pajero,2017,Saudi,Another Color,Full,3.8,Gas,Automatic,28000.0,Jeddah,88000.0
 Nissan,Land Cruiser Pickup,2011,Saudi,White,Semi Full,6.0,Gas,Manual,236564.0,Taef,37000.0
 Lexus,RX,2015,Saudi,Grey,Standard,3.5,Gas,Automatic,70000.0,Jeddah,95000.0
-BMW,The 7,2019,Saudi,White,Full,3.0,Gas,Automatic,14000.0,Jeddah,247000.0
 Suzuki,Ertiga,2015,Saudi,White,Semi Full,1.8,Gas,Automatic,168000.0,Al-Medina,22000.0
 Chevrolet,Tahoe,2007,Other,Another Color,Full,5.3,Gas,Automatic,128.0,Jeddah,35000.0
 Mercedes,E,2016,Saudi,White,Full,3.0,Gas,Automatic,94000.0,Riyadh,110000.0
@@ -3224,7 +3033,6 @@ Volkswagen,Passat,2015,Other,Silver,Full,2.5,Diesel,Automatic,70000.0,Jeddah,730
 Ford,Expedition,2012,Saudi,Silver,Standard,5.4,Gas,Automatic,360000.0,Riyadh,30000.0
 Dodge,Charger,2013,Saudi,Red,Full,5.7,Gas,Automatic,144000.0,Yanbu,59000.0
 Mercedes,C,2016,Other,Navy,Full,2.2,Gas,Automatic,95000.0,Jeddah,127000.0
-BMW,The 7,2018,Saudi,White,Full,2.0,Gas,Automatic,52000.0,Riyadh,200000.0
 Toyota,Avalon,2017,Saudi,White,Standard,1.2,Gas,Automatic,200000.0,Riyadh,80000.0
 Lexus,ES,2016,Other,Bronze,Semi Full,3.5,Gas,Automatic,104000.0,Al-Ahsa,98000.0
 Chrysler,C300,2017,Other,Silver,Semi Full,3.6,Gas,Automatic,77000.0,Al-Ahsa,82000.0
@@ -3248,7 +3056,6 @@ Lexus,GS,2017,Gulf Arabic,White,Full,1.0,Gas,Automatic,69000.0,Al-Ahsa,163000.0
 Hyundai,Senta fe,2016,Saudi,White,Full,3.3,Gas,Automatic,131000.0,Al-Ahsa,60000.0
 GMC,Sierra,2002,Gulf Arabic,White,Standard,1.4,Gas,Manual,252000.0,Makkah,12500.0
 Toyota,Land Cruiser,2016,Saudi,White,Full,4.6,Gas,Automatic,228000.0,Dammam,160000.0
-Mercedes,S,2014,Saudi,Black,Unknown,4.0,Gas,Automatic,90000.0,Riyadh,220000.0
 Toyota,Hilux,2018,Saudi,White,Semi Full,2.7,Gas,Manual,31000.0,Dammam,72000.0
 Chevrolet,Caprice,2013,Saudi,Silver,Standard,6.0,Gas,Automatic,93000.0,Dammam,79000.0
 Ford,Edge,2014,Saudi,White,Full,2.5,Gas,Automatic,186000.0,Al-Ahsa,54000.0
@@ -3262,7 +3069,10 @@ Mercedes,C,2016,Saudi,Another Color,Full,2.0,Gas,Automatic,46000.0,Jeddah,142000
 Toyota,Corolla,2015,Gulf Arabic,Silver,Semi Full,2.5,Gas,Automatic,96000.0,Tabouk,40000.0
 Mercedes,E,1998,Saudi,Bronze,Full,3.2,Gas,Automatic,490000.0,Dammam,8500.0
 Geely,Azkarra,2021,Saudi,Grey,Full,1.5,Gas,Automatic,20000.0,Qassim,78000.0
+Toyota,Camry,2021,Saudi,Silver,Standard,2.5,Gas,Automatic,10000.0,Taef,1519.0
 Ford,Marquis,2010,Other,White,Full,3.0,Gas,Automatic,250.0,Tabouk,30000.0
+Kia,Optima,2018,Saudi,Black,Standard,2.0,Gas,Automatic,135000.0,Dammam,1345.0
+Toyota,Corolla,2020,Saudi,Silver,Standard,1.6,Gas,Automatic,48563.0,Hail,1002.0
 Kia,Cerato,2018,Gulf Arabic,White,Standard,1.6,Gas,Automatic,215000.0,Al-Medina,30000.0
 Kia,Cadenza,2020,Saudi,Navy,Standard,3.3,Gas,Automatic,33300.0,Riyadh,2191.0
 Toyota,Innova,2015,Saudi,White,Full,2.7,Gas,Automatic,198.0,Riyadh,48000.0
@@ -3341,7 +3151,6 @@ GMC,Sierra,2014,Saudi,Brown,Semi Full,5.3,Gas,Automatic,155000.0,Riyadh,66500.0
 Nissan,Navara,2016,Saudi,White,Standard,2.5,Gas,Manual,185000.0,Hail,43000.0
 Toyota,Camry,2007,Saudi,White,Full,1.1,Gas,Automatic,420.0,Al-Medina,30000.0
 Toyota,Innova,2016,Saudi,White,Semi Full,2.7,Gas,Automatic,224000.0,Al-Medina,62000.0
-Mercedes,S,2020,Gulf Arabic,Black,Full,3.0,Gas,Automatic,53000.0,Dammam,365000.0
 Toyota,Innova,2015,Saudi,White,Full,2.7,Gas,Automatic,170000.0,Makkah,50000.0
 Toyota,Corolla,2013,Saudi,White,Semi Full,1.6,Gas,Automatic,190000.0,Jeddah,21000.0
 Ford,Explorer,2016,Saudi,Navy,Standard,3.5,Gas,Automatic,87300.0,Riyadh,105000.0
@@ -3350,7 +3159,6 @@ Ford,Expedition,2013,Saudi,Black,Standard,5.4,Gas,Automatic,270000.0,Riyadh,4950
 Nissan,Gloria,1999,Saudi,White,Full,3.0,Gas,Automatic,147500.0,Riyadh,27500.0
 BMW,The 5,2009,Saudi,Black,Full,2.3,Gas,Automatic,216500.0,Riyadh,24000.0
 Mercury,Grand Marquis,2008,Other,Navy,Full,4.0,Gas,Automatic,362000.0,Jeddah,19000.0
-Mercedes,S,2015,Other,Black,Full,3.0,Gas,Automatic,300000.0,Riyadh,188000.0
 Chevrolet,Suburban,1997,Other,Oily,Semi Full,6.0,Gas,Automatic,292764.0,Al-Medina,4000.0
 Toyota,FJ,2008,Saudi,Bronze,Full,4.0,Gas,Automatic,300000.0,Riyadh,50000.0
 Toyota,Furniture,2015,Saudi,White,Semi Full,4.0,Gas,Automatic,103000.0,Dammam,86000.0
@@ -3372,7 +3180,6 @@ Hyundai,Accent,2018,Saudi,White,Standard,1.4,Gas,Automatic,100000.0,Riyadh,33000
 Mercedes,SEL,1990,Other,Grey,Full,4.0,Gas,Automatic,89000.0,Dammam,75000.0
 Mazda,3,2018,Saudi,Brown,Standard,2.0,Gas,Automatic,100000.0,Riyadh,53000.0
 Toyota,Avalon,2011,Saudi,White,Full,3.5,Gas,Automatic,359000.0,Riyadh,60000.0
-Lexus,LX,2018,Saudi,Navy,Full,5.7,Gas,Automatic,98000.0,Riyadh,365000.0
 Toyota,Prado,2018,Gulf Arabic,White,Standard,4.0,Gas,Automatic,90000.0,Jeddah,138000.0
 Mitsubishi,Pajero,2015,Saudi,Brown,Semi Full,3.5,Gas,Automatic,99000.0,Al-Ahsa,55000.0
 Toyota,Camry,2017,Saudi,Another Color,Standard,2.5,Gas,Automatic,84000.0,Qassim,45000.0
@@ -3392,6 +3199,7 @@ Chevrolet,Kaptiva,2012,Saudi,Black,Semi Full,1.9,Gas,Automatic,50000.0,Al-Medina
 Jeep,Compass,2016,Saudi,White,Full,2.4,Gas,Automatic,247885.0,Jazan,38999.0
 Toyota,Prado,2006,Saudi,Silver,Semi Full,2.5,Gas,Manual,2800000.0,Makkah,35000.0
 Toyota,Camry,2015,Saudi,White,Standard,1.5,Gas,Automatic,180.0,Arar,28000.0
+Kia,Optima,2019,Saudi,Brown,Standard,2.0,Gas,Automatic,91000.0,Qassim,1440.0
 Toyota,Land Cruiser,2016,Gulf Arabic,White,Full,5.7,Gas,Manual,95000.0,Hail,160000.0
 Nissan,Armada,2012,Saudi,Blue,Full,3.5,Gas,Automatic,138000.0,Jeddah,60000.0
 Audi,A3,2016,Saudi,Navy,Full,1.4,Gas,Automatic,59000.0,Jeddah,70000.0
@@ -3402,32 +3210,25 @@ Kia,Sportage,2017,Saudi,Golden,Standard,2.0,Gas,Automatic,75000.0,Al-Ahsa,50000.
 Toyota,Cressida,1991,Other,White,Full,2.4,Gas,Manual,100.0,Riyadh,5000.0
 Ford,Expedition,2007,Saudi,Blue,Semi Full,3.0,Gas,Automatic,300.0,Aseer,18000.0
 Hyundai,Elantra,2006,Other,Golden,Standard,1.0,Gas,Manual,2500.0,Jeddah,9500.0
-BMW,The 7,2020,Gulf Arabic,White,Full,2.0,Gas,Automatic,4500.0,Dammam,325000.0
 Aston Martin,DB9,2010,Saudi,Bronze,Full,6.0,Gas,Automatic,71000.0,Dammam,180000.0
 Maserati,Quattroporte,2014,Gulf Arabic,White,Full,3.8,Gas,Automatic,115000.0,Dammam,125000.0
 Porsche,Cayman,2008,Saudi,Blue,Full,2.0,Gas,Automatic,66000.0,Dammam,70000.0
-Maserati,Levante,2020,Saudi,Blue,Full,3.0,Gas,Automatic,500.0,Dammam,370000.0
-Audi,A8,2019,Saudi,Navy,Full,3.0,Gas,Automatic,41000.0,Dammam,325000.0
-Audi,A8,2018,Gulf Arabic,Black,Full,3.0,Gas,Automatic,68800.0,Dammam,315000.0
 Mercedes,C,2019,Saudi,Silver,Semi Full,2.0,Gas,Automatic,44000.0,Dammam,185000.0
 Mercedes,C,2018,Saudi,Grey,Full,3.0,Gas,Automatic,44000.0,Dammam,180000.0
 Suzuki,Jimny,2020,Saudi,White,Full,1.5,Gas,Automatic,12000.0,Dammam,175000.0
 Mercedes,C,2015,Saudi,Red,Full,2.0,Gas,Automatic,125000.0,Dammam,119000.0
 Ford,Taurus,2010,Other,Silver,Semi Full,3.5,Gas,Automatic,318000.0,Riyadh,23000.0
-Maserati,Levante,2020,Saudi,Blue,Full,3.0,Gas,Automatic,3000.0,Dammam,385000.0
 Toyota,Camry,2017,Other,Silver,Full,2.5,Gas,Automatic,88348.0,Qassim,70000.0
 Toyota,Furniture,2015,Saudi,Grey,Semi Full,2.7,Gas,Automatic,114900.0,Jeddah,55000.0
-Bentley,Flying Spur,2009,Saudi,White,Full,6.0,Gas,Automatic,49000.0,Makkah,220000.0
 Chevrolet,Cruze,2013,Saudi,Grey,Semi Full,1.8,Gas,Automatic,197000.0,Dammam,14500.0
 Chevrolet,Tahoe,2020,Saudi,Grey,Standard,5.3,Gas,Automatic,30000.0,Dammam,155000.0
-BMW,The 7,2018,Saudi,White,Semi Full,3.6,Gas,Automatic,36000.0,Riyadh,230000.0
 Jeep,Grand Cherokee,2013,Saudi,Grey,Full,5.7,Gas,Automatic,77000.0,Dammam,77000.0
 Toyota,Camry,2016,Gulf Arabic,White,Standard,2.5,Gas,Automatic,73000.0,Qassim,61000.0
 Jaguar,F-Pace,2017,Other,White,Semi Full,2.0,Diesel,Automatic,199.0,Riyadh,155000.0
 Toyota,Furniture,2017,Saudi,Silver,Semi Full,4.0,Gas,Automatic,83000.0,Al-Medina,110000.0
 GMC,Suburban,2000,Saudi,Another Color,Semi Full,6.0,Gas,Automatic,128000.0,Aseer,80000.0
-Mercedes,E,2017,Gulf Arabic,Oily,Full,2.0,Gas,Automatic,31000.0,Riyadh,226000.0
 Hyundai,Accent,2019,Saudi,Silver,Standard,1.4,Gas,Automatic,72000.0,Dammam,40000.0
+Great Wall,Wingle,2020,Saudi,Another Color,Full,2.0,Diesel,Manual,73000.0,Jeddah,1197.0
 Chevrolet,Impala,2016,Saudi,Black,Full,3.6,Gas,Automatic,162000.0,Dammam,80000.0
 Toyota,Camry,2019,Saudi,Brown,Full,3.5,Gas,Automatic,77000.0,Khobar,90000.0
 Ford,Mustang,2015,Other,Black,Standard,5.0,Gas,Manual,119000.0,Dammam,85000.0
@@ -3438,7 +3239,6 @@ Volkswagen,Jetta,2017,Saudi,White,Full,2.5,Gas,Automatic,82000.0,Riyadh,54000.0
 Ford,Taurus,2015,Other,White,Full,3.0,Gas,Automatic,217000.0,Riyadh,49000.0
 Nissan,Altima,2018,Gulf Arabic,White,Semi Full,2.5,Gas,Automatic,78592.0,Qassim,64000.0
 Toyota,Prado,2020,Saudi,White,Semi Full,4.0,Gas,Automatic,17000.0,Dammam,173000.0
-Mercedes,S,2014,Gulf Arabic,Blue,Full,5.0,Gas,Automatic,124000.0,Dammam,215000.0
 Chevrolet,Spark,2017,Saudi,White,Semi Full,1.4,Gas,Automatic,108.0,Dammam,20000.0
 Nissan,Sylvian Bus,1998,Saudi,White,Standard,3.5,Gas,Manual,200000.0,Dammam,14000.0
 Toyota,Camry,2001,Saudi,Silver,Standard,1.4,Gas,Manual,439000.0,Dammam,12000.0
@@ -3446,24 +3246,19 @@ GMC,Yukon,2002,Other,Black,Semi Full,5.3,Gas,Automatic,300000.0,Jeddah,10000.0
 Hyundai,Sonata,2019,Saudi,Silver,Standard,2.4,Gas,Automatic,110875.0,Riyadh,57000.0
 Renault,Dokker,2018,Saudi,White,Standard,1.6,Gas,Manual,88000.0,Riyadh,30000.0
 Toyota,Prado,2018,Gulf Arabic,White,Semi Full,4.0,Gas,Automatic,92000.0,Dammam,130000.0
-Toyota,Land Cruiser,2021,Saudi,White,Semi Full,4.5,Diesel,Automatic,15000.0,Dammam,262000.0
 Ford,Fusion,2012,Saudi,White,Standard,2.5,Gas,Automatic,219000.0,Jazan,14500.0
-Lexus,LX,2014,Saudi,Grey,Full,5.7,Gas,Automatic,150000.0,Dammam,190000.0
 Ford,Mustang,2001,Other,Another Color,Full,3.8,Gas,Automatic,163000.0,Jubail,12000.0
 Toyota,Land Cruiser Pickup,2018,Saudi,Another Color,Full,4.0,Gas,Manual,28000.0,Dammam,147000.0
 Toyota,Hilux,2016,Gulf Arabic,White,Full,2.7,Gas,Manual,172000.0,Dammam,77000.0
-Toyota,Land Cruiser,2019,Saudi,White,Full,4.6,Gas,Automatic,63000.0,Dammam,252000.0
 GMC,Sierra,2015,Saudi,Silver,Standard,5.3,Gas,Automatic,86000.0,Dammam,98000.0
-Toyota,Land Cruiser,2019,Saudi,White,Full,4.6,Gas,Automatic,53000.0,Dammam,255000.0
 GMC,Sierra,2015,Saudi,Silver,Standard,5.3,Gas,Automatic,77000.0,Dammam,105000.0
 Toyota,FJ,2014,Saudi,Another Color,Semi Full,4.0,Gas,Automatic,199000.0,Dammam,95000.0
 HAVAL,H6,2020,Saudi,Silver,Standard,2.0,Gas,Automatic,20000.0,Dammam,57000.0
-GMC,Sierra,2021,Saudi,Grey,Full,5.3,Gas,Automatic,2000.0,Dammam,187000.0
 Nissan,X-Terra,2013,Saudi,White,Full,4.0,Gas,Automatic,95000.0,Qassim,61000.0
 Toyota,Land Cruiser,2019,Gulf Arabic,White,Full,4.6,Gas,Manual,74000.0,Dammam,180000.0
 Dodge,Charger,2019,Saudi,Blue,Semi Full,3.6,Gas,Automatic,56000.0,Al-Medina,108000.0
 Mazda,CX9,2020,Saudi,Silver,Standard,2.5,Gas,Automatic,31200.0,Dammam,110000.0
-Mercedes,S,2020,Gulf Arabic,Black,Full,3.0,Gas,Automatic,46000.0,Dammam,365000.0
+Kia,Optima,2019,Saudi,Grey,Semi Full,2.4,Gas,Automatic,54000.0,Aseer,1493.0
 Toyota,Previa,2017,Gulf Arabic,White,Standard,2.4,Gas,Automatic,139000.0,Riyadh,69000.0
 Toyota,Land Cruiser,2014,Gulf Arabic,Another Color,Semi Full,4.6,Gas,Automatic,106000.0,Riyadh,129000.0
 Lexus,LX,2004,Other,Another Color,Full,4.7,Gas,Automatic,274000.0,Riyadh,65000.0
@@ -3517,19 +3312,17 @@ Toyota,Rav4,2017,Saudi,Grey,Semi Full,2.4,Gas,Automatic,190000.0,Jeddah,60000.0
 Hyundai,Accent,2015,Saudi,White,Standard,1.4,Gas,Automatic,176000.0,Dammam,24000.0
 Toyota,Furniture,2015,Saudi,White,Semi Full,4.0,Gas,Automatic,205000.0,Riyadh,61000.0
 Kia,Carnival,2014,Other,Blue,Standard,6.0,Gas,Automatic,259066.0,Riyadh,40000.0
-Mercedes,E,2017,Other,Black,Full,3.5,Gas,Automatic,21000.0,Dammam,275000.0
 Ford,Expedition,2015,Saudi,Black,Semi Full,3.5,Gas,Automatic,225000.0,Riyadh,80000.0
 Toyota,Camry,2020,Saudi,White,Semi Full,2.5,Hybrid,Automatic,53800.0,Hafar Al-Batin,1700.0
+Mazda,CX5,2021,Saudi,Grey,Standard,2.5,Gas,Automatic,5500.0,Khobar,1262.0
 Nissan,Sunny,2018,Saudi,White,Standard,1.5,Gas,Automatic,99000.0,Dammam,26000.0
 Jeep,Grand Cherokee,2012,Other,Navy,Full,8.0,Gas,Automatic,210000.0,Riyadh,47000.0
 Chevrolet,Tahoe,2017,Saudi,Silver,Semi Full,5.3,Gas,Automatic,153000.0,Dammam,125000.0
 Toyota,Rush,2020,Saudi,White,Semi Full,1.5,Gas,Automatic,19000.0,Aseer,61000.0
 Kia,Cerato,2018,Saudi,Silver,Standard,1.6,Gas,Automatic,57000.0,Dammam,39500.0
 Jeep,Grand Cherokee,2015,Saudi,Another Color,Full,5.7,Gas,Automatic,196.0,Makkah,83000.0
-Mercedes,S,2021,Saudi,Grey,Full,4.0,Gas,Automatic,49000.0,Jeddah,375000.0
 Nissan,X-Trail,2016,Saudi,Black,Standard,2.5,Gas,Automatic,115000.0,Riyadh,50000.0
 Hyundai,Tucson,2011,Saudi,White,Semi Full,2.0,Gas,Automatic,190000.0,Jeddah,25000.0
-Dodge,Charger,2016,Saudi,Navy,Full,6.2,Gas,Automatic,99000.0,Riyadh,215000.0
 Dodge,Charger,2019,Saudi,Another Color,Semi Full,3.6,Gas,Automatic,51000.0,Jubail,2069.0
 Kia,Opirus,2006,Other,Another Color,Semi Full,3.5,Gas,Automatic,25500.0,Riyadh,14000.0
 Toyota,Yaris,2011,Saudi,Another Color,Standard,1.5,Gas,Manual,330000.0,Dammam,15000.0
@@ -3556,7 +3349,6 @@ Hyundai,Accent,2013,Saudi,White,Standard,1.4,Gas,Automatic,85000.0,Al-Medina,160
 Mazda,CX9,2011,Saudi,Oily,Full,3.7,Gas,Automatic,315000.0,Al-Medina,33000.0
 BMW,The 5,2016,Saudi,Black,Full,2.0,Gas,Automatic,250000.0,Riyadh,59000.0
 Toyota,Corolla,2018,Saudi,White,Standard,2.0,Gas,Automatic,245000.0,Khobar,41000.0
-Lexus,LX,2017,Gulf Arabic,Navy,Full,5.7,Gas,Automatic,80897.0,Riyadh,350000.0
 Lexus,GX,2015,Saudi,Golden,Full,4.6,Gas,Automatic,170000.0,Dammam,135000.0
 Nissan,Datsun,2011,Saudi,White,Semi Full,1.6,Gas,Manual,390.0,Qassim,23500.0
 Chevrolet,Tahoe,2015,Saudi,Golden,Standard,5.3,Gas,Automatic,179.0,Riyadh,102000.0
@@ -3579,9 +3371,7 @@ Toyota,FJ,2010,Saudi,White,Semi Full,4.0,Gas,Automatic,300700.0,Riyadh,60000.0
 BMW,X,2004,Saudi,Blue,Full,3.0,Gas,Automatic,150.0,Jeddah,16000.0
 Hyundai,H1,2014,Saudi,Grey,Full,2.5,Gas,Automatic,185.0,Al-Medina,39000.0
 Kia,Rio,2019,Saudi,Blue,Full,1.4,Gas,Automatic,48000.0,Riyadh,38000.0
-Lexus,ES,2019,Saudi,White,Full,2.0,Gas,Automatic,47000.0,Jeddah,190000.0
 Toyota,Ciocca,2016,Saudi,Silver,Semi Full,5.7,Gas,Automatic,117000.0,Najran,140000.0
-Lexus,GS,2018,Gulf Arabic,White,Full,5.0,Gas,Automatic,95000.0,Riyadh,250000.0
 Hyundai,Sonata,2019,Gulf Arabic,White,Semi Full,2.4,Gas,Automatic,28000.0,Riyadh,64000.0
 Toyota,Yaris,2016,Other,Silver,Standard,1.5,Gas,Automatic,223000.0,Jubail,25000.0
 Genesis,Prestige,2015,Gulf Arabic,White,Semi Full,3.8,Gas,Automatic,85343.0,Tabouk,81000.0
@@ -3605,7 +3395,6 @@ Toyota,Hilux,1991,Gulf Arabic,White,Standard,2.4,Gas,Manual,9999.0,Riyadh,16000.
 Toyota,Land Cruiser,2013,Gulf Arabic,White,Full,4.6,Gas,Automatic,186.0,Tabouk,138000.0
 Hyundai,Sonata,2016,Saudi,White,Full,2.4,Gas,Automatic,155.0,Riyadh,48000.0
 Toyota,Land Cruiser,2007,Saudi,White,Full,4.8,Gas,Automatic,514.0,Riyadh,60000.0
-Lexus,LX,2014,Gulf Arabic,Golden,Semi Full,2.4,Gas,Automatic,168000.0,Aseer,190000.0
 GMC,Suburban,2006,Saudi,Silver,Full,2.0,Gas,Automatic,86000.0,Riyadh,50000.0
 Nissan,Sentra,2019,Saudi,Silver,Full,1.6,Gas,Automatic,71000.0,Riyadh,43500.0
 GAC,GS3,2021,Gulf Arabic,White,Semi Full,1.3,Gas,Automatic,9000.0,Riyadh,46000.0
@@ -3679,7 +3468,6 @@ MG,6,2019,Saudi,Red,Full,2.0,Gas,Automatic,107.0,Jeddah,50000.0
 Mercedes,C,2017,Other,Grey,Full,2.0,Gas,Automatic,20000.0,Jeddah,180000.0
 Audi,A7,2017,Saudi,Red,Full,2.0,Gas,Automatic,127000.0,Makkah,135000.0
 Hyundai,Accent,2020,Saudi,White,Full,1.6,Gas,Automatic,34000.0,Jeddah,56000.0
-Lexus,ES,2021,Saudi,Black,Full,3.5,Gas,Automatic,25000.0,Makkah,230000.0
 Toyota,Land Cruiser,2013,Saudi,White,Full,4.6,Gas,Automatic,280.0,Najran,100000.0
 GMC,Yukon,2017,Saudi,Golden,Standard,5.3,Gas,Automatic,175000.0,Riyadh,120000.0
 Jeep,Grand Cherokee,2017,Saudi,Brown,Full,3.6,Gas,Automatic,124.0,Riyadh,100000.0
@@ -3741,7 +3529,6 @@ BMW,X,2020,Gulf Arabic,White,Semi Full,2.0,Gas,Automatic,22000.0,Dammam,130000.0
 Kia,Sportage,2019,Saudi,Golden,Standard,1.6,Gas,Automatic,75000.0,Al-Ahsa,60000.0
 GMC,Yukon,2009,Saudi,White,Semi Full,5.3,Gas,Automatic,200000.0,Taef,40000.0
 Chevrolet,Silverado,2014,Saudi,White,Semi Full,4.3,Gas,Automatic,164000.0,Abha,80000.0
-Lexus,LX,2015,Saudi,Golden,Semi Full,5.7,Gas,Automatic,100000.0,Taef,195000.0
 Nissan,Altima,2015,Gulf Arabic,Golden,Semi Full,2.5,Gas,Automatic,13000.0,Qassim,51000.0
 Hyundai,Accent,2015,Saudi,White,Standard,1.4,Gas,Automatic,105000.0,Dammam,24000.0
 Mazda,CX9,2016,Saudi,Black,Full,3.7,Gas,Automatic,229000.0,Al-Ahsa,63000.0
@@ -3752,7 +3539,6 @@ Hyundai,Accent,2020,Saudi,Navy,Full,1.6,Gas,Automatic,10400.0,Dammam,53000.0
 Honda,Accord,2009,Saudi,White,Full,2.4,Gas,Automatic,159000.0,Dammam,36000.0
 Nissan,Altima,2009,Saudi,Silver,Full,3.5,Gas,Manual,200.0,Jeddah,20000.0
 Toyota,Furniture,2021,Saudi,Grey,Standard,2.7,Gas,Automatic,3000.0,Makkah,100000.0
-Nissan,Patrol,2021,Saudi,Silver,Full,4.0,Gas,Automatic,1800.0,Riyadh,265000.0
 Ford,Taurus,2014,Saudi,Brown,Standard,3.5,Gas,Automatic,211886.0,Al-Ahsa,42000.0
 Toyota,Land Cruiser,2012,Saudi,White,Full,1.0,Gas,Automatic,405000.0,Riyadh,97000.0
 Nissan,Datsun,2016,Saudi,White,Full,2.4,Gas,Manual,125000.0,Riyadh,47000.0
@@ -3771,7 +3557,6 @@ Hyundai,Elantra,2015,Saudi,White,Full,2.0,Gas,Automatic,250000.0,Al-Ahsa,32000.0
 Toyota,Corolla,2015,Saudi,White,Standard,1.6,Gas,Automatic,177.0,Arar,35500.0
 Ford,Expedition,2016,Saudi,White,Full,3.6,Gas,Automatic,265000.0,Dammam,115000.0
 GMC,Yukon,2015,Other,Golden,Semi Full,5.3,Gas,Automatic,292000.0,Aseer,75000.0
-Land Rover,Range Rover,2017,Saudi,White,Full,3.0,Gas,Automatic,72500.0,Al-Medina,295000.0
 Nissan,Patrol,1997,Saudi,Silver,Full,4.2,Gas,Automatic,200000.0,Qassim,17000.0
 Geely,EC8,2013,Saudi,Brown,Standard,3.5,Gas,Manual,180000.0,Makkah,12000.0
 Lexus,LX,2005,Other,White,Full,4.8,Gas,Automatic,225000.0,Abha,45000.0
@@ -3785,19 +3570,18 @@ Mazda,6,2009,Saudi,Golden,Semi Full,3.7,Gas,Automatic,299000.0,Al-Baha,15000.0
 Honda,Accord,2016,Saudi,White,Standard,3.5,Gas,Automatic,61000.0,Dammam,69000.0
 Hyundai,Accent,2018,Saudi,White,Standard,1.4,Gas,Automatic,31000.0,Dammam,35000.0
 Toyota,Camry,2013,Saudi,White,Full,2.5,Gas,Automatic,185000.0,Riyadh,42000.0
-Mercedes,S,2016,Saudi,White,Full,3.0,Gas,Automatic,14000.0,Al-Ahsa,270000.0
 GMC,Yukon,1995,Gulf Arabic,Green,Semi Full,3.5,Gas,Automatic,275000.0,Al-Ahsa,18000.0
 Toyota,Prado,2015,Gulf Arabic,White,Semi Full,2.7,Gas,Automatic,160000.0,Dammam,98000.0
 Nissan,Altima,2015,Gulf Arabic,White,Standard,2.5,Gas,Automatic,90000.0,Riyadh,28000.0
 Hyundai,Tucson,2016,Saudi,Blue,Semi Full,2.0,Gas,Automatic,200000.0,Riyadh,39000.0
 Renault,Logan,2014,Saudi,Silver,Semi Full,1.6,Gas,Manual,210.0,Riyadh,10000.0
-Mercedes,S,2016,Saudi,Silver,Semi Full,4.0,Gas,Automatic,35000.0,Riyadh,220000.0
 Toyota,Land Cruiser Pickup,2021,Saudi,Another Color,Semi Full,4.0,Gas,Manual,7000.0,Aseer,125000.0
 Renault,Dokker,2020,Saudi,White,Standard,1.6,Gas,Manual,72000.0,Riyadh,29000.0
 Kia,Sportage,2014,Other,Blue,Standard,1.2,Gas,Automatic,150000.0,Aseer,33000.0
 Lincoln,Town Car,2005,Saudi,Bronze,Semi Full,3.5,Gas,Automatic,286.0,Jeddah,14000.0
 Ford,Vego,2016,Saudi,Grey,Standard,1.5,Gas,Automatic,58478.0,Jubail,20000.0
 Toyota,FJ,2015,Saudi,Blue,Full,4.0,Gas,Automatic,228000.0,Jeddah,90000.0
+MG,RX5,2019,Saudi,Brown,Full,3.1,Gas,Automatic,49000.0,Riyadh,1325.0
 Hyundai,H1,2016,Saudi,Another Color,Semi Full,1.4,Gas,Automatic,127000.0,Taef,1959.0
 Chevrolet,Tahoe,2010,Saudi,Grey,Semi Full,8.0,Gas,Automatic,434758.0,Riyadh,40000.0
 Toyota,Land Cruiser Pickup,2016,Gulf Arabic,White,Full,4.0,Gas,Manual,315.0,Dammam,85000.0
@@ -3819,7 +3603,6 @@ Toyota,Camry,2008,Saudi,Another Color,Semi Full,1.7,Gas,Automatic,280000.0,Jedda
 Toyota,Furniture,2015,Saudi,White,Full,4.0,Gas,Automatic,26000.0,Dammam,52000.0
 Toyota,Furniture,2011,Saudi,Black,Standard,2.7,Gas,Automatic,304000.0,Jeddah,32000.0
 Toyota,Camry,2017,Saudi,Golden,Standard,2.5,Gas,Automatic,55000.0,Dammam,56000.0
-Toyota,Land Cruiser,2021,Gulf Arabic,White,Full,4.6,Gas,Automatic,10000.0,Dammam,290000.0
 Chevrolet,Tahoe,2014,Saudi,Brown,Semi Full,5.3,Gas,Automatic,315000.0,Dammam,52000.0
 Toyota,Hilux,2012,Saudi,White,Standard,2.7,Gas,Manual,394000.0,Qassim,40000.0
 Mercedes,CLS,2007,Saudi,Black,Full,6.3,Gas,Automatic,178000.0,Dammam,33000.0
@@ -3833,7 +3616,6 @@ Mercedes,C,2016,Gulf Arabic,Red,Full,2.0,Gas,Automatic,129000.0,Dammam,134000.0
 Nissan,Datsun,2015,Saudi,White,Full,2.4,Gas,Manual,28000.0,Aseer,48000.0
 Mercedes,S,2012,Saudi,Another Color,Full,3.0,Gas,Automatic,105.0,Riyadh,98000.0
 Chevrolet,Abeka,2008,Saudi,Golden,Full,1.8,Gas,Automatic,260.0,Taef,14000.0
-Dodge,Durango,2019,Saudi,Another Color,Full,8.0,Gas,Automatic,13906.0,Riyadh,210000.0
 Chevrolet,Malibu,2014,Saudi,Grey,Full,2.4,Gas,Automatic,280000.0,Riyadh,35000.0
 Toyota,Hiace,2014,Saudi,White,Semi Full,2.0,Gas,Manual,188000.0,Riyadh,44000.0
 Kia,Sorento,2016,Saudi,White,Standard,3.3,Gas,Automatic,111018.0,Dammam,50000.0
@@ -3849,8 +3631,6 @@ INFINITI,Q,2016,Saudi,Black,Standard,3.7,Gas,Automatic,13000.0,Dammam,95000.0
 Mitsubishi,Pajero,2017,Gulf Arabic,White,Full,3.8,Gas,Automatic,48000.0,Jeddah,85000.0
 Toyota,Camry,2010,Saudi,Brown,Standard,2.4,Gas,Automatic,255.0,Jeddah,33500.0
 Honda,Accord,2017,Other,Black,Standard,2.4,Gas,Automatic,141000.0,Hail,55000.0
-Porsche,Other,2020,Saudi,Grey,Full,5.0,Hybrid,Automatic,18000.0,Khobar,375000.0
-Mercedes,S,2017,Other,White,Unknown,3.0,Gas,Automatic,26000.0,Riyadh,245000.0
 Chevrolet,Suburban,2015,Saudi,Another Color,Standard,5.3,Gas,Automatic,164000.0,Dammam,110000.0
 Fiat,500,2016,Saudi,Grey,Full,1.5,Gas,Automatic,155000.0,Riyadh,45000.0
 Honda,Accord,2019,Gulf Arabic,Silver,Full,1.5,Gas,Automatic,81000.0,Dammam,95000.0
@@ -3861,7 +3641,6 @@ Toyota,Hilux,2015,Saudi,White,Full,2.7,Gas,Manual,328000.0,Qassim,66000.0
 Toyota,Yaris,2015,Saudi,White,Standard,1.3,Gas,Automatic,200000.0,Jeddah,25000.0
 Mercedes,E,2016,Gulf Arabic,White,Full,2.1,Gas,Automatic,43000.0,Jeddah,125000.0
 Suzuki,Dzire,2020,Gulf Arabic,Bronze,Full,1.2,Gas,Automatic,8500.0,Riyadh,33000.0
-Mercedes,S,2016,Other,Navy,Full,3.0,Gas,Automatic,56000.0,Dammam,240000.0
 Chevrolet,Caprice,2010,Saudi,White,Standard,3.5,Gas,Automatic,250000.0,Dammam,20000.0
 Chevrolet,Aveo,2008,Saudi,Blue,Semi Full,3.5,Gas,Manual,30000.0,Jeddah,4500.0
 Chevrolet,Caprice,2013,Other,Silver,Standard,6.0,Gas,Automatic,215.0,Abha,42000.0
@@ -3910,6 +3689,7 @@ Ford,Victoria,2011,Saudi,Golden,Full,4.6,Gas,Automatic,128.0,Najran,48000.0
 Ford,Explorer,2003,Other,White,Standard,4.0,Gas,Automatic,360000.0,Khobar,8000.0
 Hyundai,Elantra,2017,Saudi,Silver,Standard,2.0,Gas,Automatic,86000.0,Hail,34000.0
 Toyota,Camry,2003,Saudi,Green,Standard,2.4,Gas,Manual,600000.0,Jubail,17000.0
+Hyundai,Kona,2020,Saudi,Silver,Unknown,2.0,Gas,Automatic,6400.0,Al-Medina,1156.0
 Kia,Cerato,2016,Gulf Arabic,White,Standard,1.6,Gas,Automatic,118000.0,Riyadh,34000.0
 Ford,F150,2017,Saudi,Red,Semi Full,5.0,Gas,Automatic,53000.0,Dammam,140000.0
 Mazda,3,2015,Other,White,Standard,1.6,Gas,Automatic,74000.0,Jeddah,27000.0
@@ -3926,7 +3706,6 @@ Classic,Mini Cooper,1972,Other,Another Color,Full,1.3,Gas,Manual,1000.0,Dammam,4
 Hyundai,Azera,2019,Saudi,Black,Standard,3.3,Gas,Automatic,91000.0,Riyadh,77000.0
 Toyota,Avalon,2021,Saudi,White,Full,3.5,Gas,Automatic,100.0,Arar,185000.0
 Mazda,CX9,2015,Saudi,Brown,Full,1.9,Gas,Automatic,274000.0,Riyadh,66000.0
-Lincoln,Continental GT,2020,Saudi,Grey,Semi Full,3.7,Gas,Automatic,3500.0,Dammam,250000.0
 Toyota,Furniture,2010,Gulf Arabic,Green,Semi Full,4.0,Gas,Manual,200000.0,Makkah,36000.0
 Hyundai,H1,2018,Saudi,Silver,Full,2.4,Gas,Automatic,74000.0,Dammam,77000.0
 Toyota,Yaris,2019,Saudi,White,Standard,1.5,Gas,Automatic,112000.0,Dammam,39500.0
@@ -3956,7 +3735,6 @@ Ford,Mustang,2019,Other,Red,Full,2.3,Gas,Automatic,86000.0,Jeddah,125000.0
 Victory Auto,Van R,2017,Saudi,Golden,Full,1.2,Gas,Manual,1500.0,Hafar Al-Batin,31000.0
 Kia,Optima,2015,Saudi,Red,Standard,2.4,Gas,Automatic,100000.0,Riyadh,37000.0
 Toyota,Land Cruiser,2011,Saudi,White,Full,4.6,Gas,Automatic,79000.0,Riyadh,145000.0
-Lexus,LS,2018,Gulf Arabic,Grey,Semi Full,3.5,Gas,Automatic,23000.0,Al-Ahsa,265000.0
 Toyota,FJ,2008,Saudi,White,Semi Full,4.0,Gas,Automatic,512000.0,Riyadh,40000.0
 Toyota,Toyota 86,2015,Saudi,White,Full,3.5,Diesel,Manual,298000.0,Riyadh,79000.0
 Toyota,Hiace,2015,Gulf Arabic,White,Semi Full,2.7,Gas,Manual,23000.0,Riyadh,49000.0
@@ -3974,7 +3752,6 @@ Ford,Taurus,2017,Saudi,Silver,Standard,3.5,Gas,Automatic,61000.0,Dammam,63000.0
 Kia,Optima,2014,Saudi,Silver,Full,2.4,Gas,Automatic,200.0,Al-Medina,50000.0
 Hyundai,H1,2017,Saudi,Grey,Full,9.0,Gas,Automatic,145.0,Al-Medina,58000.0
 Mazda,323,2002,Saudi,Bronze,Standard,3.5,Gas,Manual,361056.0,Jeddah,7000.0
-BMW,The 7,2019,Gulf Arabic,White,Unknown,2.0,Gas,Automatic,6000.0,Riyadh,335000.0
 Toyota,Corolla,2013,Saudi,White,Standard,1.6,Gas,Automatic,334000.0,Qassim,36500.0
 Toyota,Camry,2016,Gulf Arabic,White,Standard,2.5,Gas,Automatic,116987.0,Qassim,58000.0
 Ford,Expedition,2013,Saudi,Grey,Standard,5.4,Gas,Automatic,147000.0,Dammam,50000.0
@@ -4017,7 +3794,6 @@ Honda,Accord,2016,Gulf Arabic,Black,Semi Full,3.5,Gas,Automatic,68000.0,Riyadh,6
 Mazda,6,2017,Gulf Arabic,White,Standard,2.5,Gas,Automatic,70000.0,Riyadh,53000.0
 Kia,Cerato,2016,Saudi,White,Standard,1.6,Gas,Automatic,47000.0,Riyadh,29000.0
 Lexus,ES,2017,Gulf Arabic,Black,Full,3.5,Gas,Automatic,100000.0,Riyadh,105000.0
-Toyota,Land Cruiser,2019,Gulf Arabic,White,Full,4.0,Gas,Automatic,62000.0,Riyadh,195000.0
 Mazda,BT-50,2015,Saudi,White,Standard,3.5,Gas,Automatic,105000.0,Riyadh,27000.0
 Mazda,6,2012,Saudi,White,Standard,3.5,Gas,Automatic,129000.0,Riyadh,19000.0
 Lexus,ES,2018,Gulf Arabic,Golden,Semi Full,3.5,Gas,Automatic,28000.0,Riyadh,122000.0
@@ -4048,7 +3824,6 @@ Hyundai,Elantra,2018,Saudi,Silver,Standard,1.6,Gas,Automatic,57000.0,Riyadh,4400
 Mazda,3,2016,Gulf Arabic,Grey,Standard,2.0,Gas,Automatic,165000.0,Dammam,45000.0
 Toyota,Corolla,2018,Saudi,White,Semi Full,1.6,Gas,Automatic,43000.0,Riyadh,54500.0
 Toyota,Hilux,2018,Saudi,White,Standard,2.7,Gas,Manual,59000.0,Jeddah,66000.0
-Toyota,Land Cruiser,2021,Saudi,White,Full,4.6,Gas,Automatic,20000.0,Dammam,296000.0
 Nissan,Datsun,2016,Saudi,White,Semi Full,2.4,Gas,Manual,87300.0,Dammam,53500.0
 Mitsubishi,Pajero,2018,Gulf Arabic,Black,Full,3.8,Gas,Automatic,5000.0,Dammam,109000.0
 Hyundai,Azera,2019,Saudi,White,Semi Full,3.5,Gas,Automatic,44271.0,Dammam,95000.0
@@ -4057,7 +3832,6 @@ Hyundai,Sonata,2013,Other,White,Full,1.6,Gas,Automatic,181000.0,Aseer,27000.0
 Chevrolet,Caprice,2013,Saudi,Silver,Standard,6.0,Gas,Automatic,111000.0,Dammam,79000.0
 Toyota,Furniture,2019,Saudi,White,Semi Full,2.4,Diesel,Automatic,25000.0,Riyadh,125000.0
 Other,Other,2021,Other,Yellow,Semi Full,1.2,Gas,Manual,3000.0,Jeddah,5500.0
-Land Rover,Range Rover,2018,Saudi,Black,Full,3.8,Gas,Automatic,44000.0,Jeddah,365000.0
 Toyota,Avanza,2018,Saudi,White,Semi Full,1.5,Gas,Automatic,41000.0,Riyadh,45000.0
 Chevrolet,Caprice,2013,Saudi,Silver,Standard,6.0,Gas,Automatic,114000.0,Dammam,79000.0
 Kia,Optima,2015,Saudi,Another Color,Semi Full,2.4,Gas,Automatic,220000.0,Hafar Al-Batin,42000.0
@@ -4066,14 +3840,12 @@ Toyota,Land Cruiser,2020,Saudi,White,Standard,4.0,Gas,Automatic,29277.0,Riyadh,1
 Geely,X7,2017,Saudi,Black,Full,2.4,Gas,Automatic,65000.0,Riyadh,45000.0
 Volkswagen,Tiguan,2019,Saudi,Grey,Full,2.0,Gas,Automatic,60000.0,Riyadh,114000.0
 Lexus,LX,2015,Gulf Arabic,Black,Full,5.7,Gas,Automatic,151000.0,Riyadh,156500.0
-Toyota,Land Cruiser,2018,Gulf Arabic,Black,Full,5.7,Gas,Automatic,42000.0,Riyadh,241000.0
 Chevrolet,Tahoe,2016,Saudi,Another Color,Semi Full,5.3,Gas,Automatic,168000.0,Riyadh,114500.0
 Foton,Suvana,2017,Gulf Arabic,Silver,Full,2.7,Gas,Automatic,11000.0,Riyadh,43000.0
 Volkswagen,Beetle,2015,Other,Black,Semi Full,1.8,Gas,Automatic,89000.0,Jeddah,54000.0
 Dodge,Charger,2019,Saudi,Green,Full,3.6,Gas,Automatic,48000.0,Dammam,85000.0
 Nissan,X-Trail,2016,Saudi,White,Semi Full,2.5,Gas,Automatic,142000.0,Aseer,46000.0
 Cadillac,ATS,2016,Saudi,Black,Full,2.5,Gas,Automatic,88000.0,Al-Medina,70000.0
-Land Rover,Range Rover,2016,Saudi,White,Full,4.0,Gas,Automatic,139000.0,Dammam,288000.0
 Nissan,Pathfinder,2006,Other,Brown,Semi Full,4.0,Gas,Automatic,300000.0,Riyadh,15000.0
 Hyundai,Sonata,2016,Saudi,White,Semi Full,2.4,Gas,Automatic,183700.0,Jeddah,45000.0
 Toyota,Innova,2020,Saudi,Silver,Standard,2.7,Gas,Automatic,750.0,Al-Medina,83000.0
@@ -4102,7 +3874,6 @@ Mercedes,ML,2013,Saudi,Brown,Full,3.5,Gas,Automatic,97000.0,Al-Medina,99000.0
 Hyundai,Accent,2018,Saudi,Silver,Standard,1.4,Gas,Automatic,97300.0,Dammam,31000.0
 GMC,Yukon,2009,Saudi,Black,Standard,5.3,Gas,Automatic,523000.0,Al-Ahsa,45000.0
 Toyota,Avalon,2015,Saudi,White,Semi Full,3.5,Gas,Automatic,167.0,Riyadh,51000.0
-Lexus,RC,2019,Other,White,Full,3.6,Gas,Automatic,42000.0,Dammam,215000.0
 Chevrolet,Tahoe,2013,Saudi,Silver,Semi Full,5.2,Gas,Automatic,201866.0,Riyadh,57000.0
 Hyundai,Sonata,2017,Saudi,White,Standard,2.4,Gas,Automatic,155000.0,Riyadh,54000.0
 Hyundai,Sonata,2016,Other,White,Full,1.6,Diesel,Automatic,78220.0,Qassim,62000.0
@@ -4179,13 +3950,13 @@ Chrysler,300,2007,Saudi,Another Color,Full,5.7,Gas,Automatic,240000.0,Dammam,170
 Mercedes,S,2007,Other,Bronze,Full,4.0,Gas,Automatic,315000.0,Dammam,42000.0
 Ford,Edge,2011,Saudi,White,Full,3.5,Gas,Automatic,231000.0,Riyadh,35000.0
 Chevrolet,Malibu,2013,Saudi,Another Color,Semi Full,2.5,Gas,Automatic,250000.0,Dammam,30000.0
-Lexus,LS,2015,Other,White,Semi Full,4.6,Gas,Automatic,51000.0,Riyadh,200000.0
 Tata,Bus,2010,Saudi,White,Standard,3.5,Diesel,Manual,363000.0,Dammam,45000.0
 Ford,Fusion,2012,Saudi,Silver,Semi Full,2.5,Gas,Automatic,240000.0,Jeddah,19500.0
 Toyota,Hilux,2015,Gulf Arabic,White,Full,2.7,Gas,Manual,105400.0,Dammam,62000.0
 Ford,Taurus,2017,Saudi,White,Standard,3.5,Gas,Automatic,135000.0,Dammam,65000.0
 Toyota,Innova,2015,Saudi,White,Standard,2.7,Gas,Automatic,250000.0,Makkah,38500.0
 GMC,Yukon,2010,Gulf Arabic,Golden,Semi Full,6.2,Gas,Automatic,335000.0,Riyadh,32000.0
+Renault,Megane,2021,Saudi,Black,Standard,3.5,Gas,Automatic,25640.0,Riyadh,1236.0
 Mitsubishi,Pajero,2016,Gulf Arabic,White,Full,3.8,Gas,Automatic,200.0,Al-Medina,60000.0
 Nissan,Pathfinder,2005,Saudi,White,Semi Full,3.5,Gas,Automatic,308.0,Dammam,13000.0
 Toyota,Land Cruiser,2013,Gulf Arabic,Golden,Full,1.0,Gas,Manual,378000.0,Hail,75000.0
@@ -4255,6 +4026,7 @@ Ford,Taurus,2013,Unknown,White,Unknown,3.5,Gas,Automatic,300000.0,Dammam,40000.0
 Toyota,Camry,2010,Unknown,Silver,Unknown,2.4,Gas,Automatic,400000.0,Riyadh,22000.0
 Toyota,Camry,2020,Unknown,White,Full,2.5,Gas,Automatic,10616.0,Al-Medina,104500.0
 Nissan,Maxima,2004,Saudi,Silver,Full,3.0,Gas,Automatic,230000.0,Riyadh,15000.0
+Mazda,6,2018,Saudi,Silver,Full,2.5,Gas,Automatic,76000.0,Makkah,1640.0
 Mitsubishi,Pajero,2016,Gulf Arabic,White,Semi Full,6.0,Gas,Automatic,200000.0,Qassim,53000.0
 Hyundai,Elantra,2017,Saudi,Brown,Standard,2.0,Gas,Automatic,135000.0,Riyadh,35000.0
 Hyundai,Azera,2011,Other,Grey,Semi Full,3.5,Gas,Automatic,447.0,Riyadh,21000.0
@@ -4309,10 +4081,8 @@ Hyundai,Accent,2019,Saudi,White,Standard,1.4,Gas,Automatic,57000.0,Dammam,35000.
 Changan,CS75,2020,Saudi,Grey,Full,1.8,Gas,Automatic,46000.0,Al-Ahsa,62000.0
 Hyundai,Tucson,2019,Saudi,Silver,Semi Full,1.6,Gas,Automatic,42000.0,Riyadh,75000.0
 Dodge,Challenger,2015,Saudi,Silver,Semi Full,3.6,Gas,Automatic,260.0,Jeddah,55000.0
-Toyota,Land Cruiser,2021,Gulf Arabic,White,Full,4.6,Gas,Automatic,9000.0,Al-Medina,350000.0
 Toyota,FJ,2020,Gulf Arabic,White,Full,6.0,Gas,Automatic,50000.0,Dammam,140000.0
 Honda,Accord,2016,Saudi,White,Full,3.5,Gas,Automatic,117000.0,Riyadh,80000.0
-Lexus,LS,2018,Gulf Arabic,Silver,Full,3.5,Gas,Automatic,32000.0,Riyadh,290000.0
 Mitsubishi,Pajero,2017,Saudi,White,Full,3.5,Gas,Automatic,81000.0,Dammam,72000.0
 Hyundai,Accent,2018,Saudi,White,Standard,1.4,Gas,Automatic,36200.0,Riyadh,36500.0
 Hyundai,Accent,2015,Saudi,Grey,Standard,1.2,Gas,Automatic,150.0,Riyadh,20000.0
@@ -4322,7 +4092,6 @@ Toyota,Hilux,2017,Gulf Arabic,White,Semi Full,2.7,Gas,Manual,189000.0,Dammam,780
 Toyota,Hiace,2016,Saudi,White,Unknown,2.7,Gas,Manual,180000.0,Abha,72000.0
 Toyota,Corolla,2014,Gulf Arabic,White,Full,1.6,Gas,Automatic,197.0,Al-Ahsa,29000.0
 GMC,Sierra,2013,Gulf Arabic,Silver,Standard,5.3,Gas,Automatic,248000.0,Dammam,63000.0
-Lexus,LX,2014,Saudi,White,Full,5.0,Gas,Automatic,100000.0,Taef,320000.0
 Chevrolet,Tahoe,2014,Saudi,Black,Semi Full,2.0,Gas,Automatic,255000.0,Riyadh,53000.0
 Chevrolet,Silverado,2012,Saudi,Red,Semi Full,6.0,Gas,Automatic,180000.0,Riyadh,50000.0
 Mercedes,E,2016,Saudi,Black,Full,3.0,Gas,Automatic,64000.0,Riyadh,120000.0
@@ -4338,7 +4107,6 @@ Ford,Taurus,2018,Unknown,Black,Standard,3.5,Gas,Automatic,88000.0,Al-Baha,78000.
 Toyota,Corolla,2018,Saudi,Silver,Standard,1.6,Gas,Automatic,142000.0,Dammam,48000.0
 Ford,Expedition,2007,Other,Red,Full,3.0,Gas,Automatic,423000.0,Al-Medina,29000.0
 Audi,A6,2018,Saudi,Silver,Semi Full,3.0,Gas,Automatic,92000.0,Al-Medina,88000.0
-BMW,The 7,2021,Gulf Arabic,Another Color,Full,2.0,Gas,Automatic,1500.0,Al-Ahsa,384900.0
 Toyota,Furniture,2017,Saudi,White,Full,4.0,Gas,Automatic,30000.0,Riyadh,118000.0
 Hyundai,Elantra,2017,Saudi,White,Semi Full,2.0,Gas,Automatic,237356.0,Riyadh,42000.0
 Hyundai,Sonata,2017,Saudi,White,Semi Full,2.4,Gas,Automatic,194814.0,Riyadh,55000.0
@@ -4356,7 +4124,6 @@ Toyota,Innova,2008,Saudi,Golden,Standard,1.8,Gas,Automatic,90000.0,Hafar Al-Bati
 Chevrolet,Silverado,2014,Saudi,Silver,Full,8.0,Gas,Automatic,48000.0,Al-Medina,100000.0
 Volkswagen,Passat,2010,Saudi,Silver,Full,3.5,Gas,Automatic,143000.0,Dammam,21000.0
 Ford,Van,2013,Other,White,Standard,3.6,Gas,Automatic,120.0,Jeddah,40000.0
-Land Rover,Range Rover,2016,Saudi,Black,Standard,4.0,Gas,Automatic,106000.0,Riyadh,237000.0
 Toyota,Yaris,2019,Saudi,White,Semi Full,1.6,Gas,Automatic,18000.0,Riyadh,36000.0
 Toyota,Corolla,2015,Saudi,Silver,Standard,1.6,Gas,Automatic,160000.0,Jeddah,27500.0
 Ford,Explorer,2009,Other,Black,Full,4.0,Gas,Automatic,211000.0,Riyadh,16000.0
@@ -4399,6 +4166,7 @@ Honda,Odyssey,2016,Saudi,Red,Full,6.0,Gas,Automatic,189000.0,Riyadh,57000.0
 Hyundai,Elantra,2007,Saudi,Grey,Standard,1.6,Gas,Manual,191700.0,Taef,13000.0
 Toyota,Corolla,2018,Saudi,White,Standard,1.6,Gas,Automatic,39000.0,Riyadh,45000.0
 Toyota,Hilux,2018,Saudi,White,Full,2.7,Gas,Automatic,63000.0,Jeddah,110000.0
+Toyota,Camry,2020,Saudi,Brown,Semi Full,2.5,Gas,Automatic,38000.0,Riyadh,1364.0
 Ford,Marquis,2011,Other,Brown,Semi Full,8.0,Gas,Automatic,400000.0,Makkah,25000.0
 Hyundai,Senta fe,2016,Other,Another Color,Standard,2.0,Diesel,Automatic,193000.0,Dammam,61000.0
 Toyota,Land Cruiser Pickup,2021,Gulf Arabic,Brown,Full,4.0,Gas,Manual,1519.0,Riyadh,175000.0
@@ -4408,7 +4176,6 @@ Changan,CS75,2017,Saudi,White,Full,3.5,Gas,Automatic,107000.0,Riyadh,37000.0
 Honda,Pilot,2005,Other,Blue,Semi Full,6.0,Gas,Automatic,4130.0,Dammam,15000.0
 GMC,Sierra,2016,Saudi,Brown,Full,5.3,Gas,Automatic,161.0,Jeddah,80000.0
 Kia,Optima,2016,Saudi,Red,Semi Full,2.4,Gas,Automatic,190000.0,Riyadh,42000.0
-Toyota,Land Cruiser,2019,Saudi,White,Semi Full,4.6,Gas,Automatic,41000.0,Riyadh,190000.0
 Ford,Mustang,2017,Saudi,Black,Full,5.0,Gas,Automatic,130000.0,Riyadh,130000.0
 Jeep,Compass,2016,Saudi,Brown,Standard,2.4,Gas,Automatic,96213.0,Riyadh,38500.0
 Toyota,Camry,2016,Gulf Arabic,White,Semi Full,2.5,Gas,Automatic,111.0,Riyadh,49000.0
@@ -4426,6 +4193,7 @@ Lexus,GS,2014,Saudi,Another Color,Full,3.5,Gas,Automatic,124000.0,Riyadh,136000.
 BMW,The 5,2020,Gulf Arabic,Black,Semi Full,1.9,Gas,Automatic,7800.0,Dammam,177000.0
 GMC,Sierra,2011,Saudi,White,Standard,6.0,Gas,Automatic,233000.0,Dammam,36000.0
 Toyota,Land Cruiser,2001,Saudi,White,Full,4.8,Gas,Automatic,152000.0,Qassim,95000.0
+Renault,Duster,2017,Saudi,Navy,Full,2.0,Gas,Automatic,106000.0,Al-Ahsa,1128.0
 Honda,Other,2005,Saudi,Red,Semi Full,4.0,Gas,Manual,100.0,Riyadh,20000.0
 Porsche,Cayenne S,2012,Saudi,Black,Full,4.8,Gas,Automatic,189000.0,Riyadh,85000.0
 Hyundai,Elantra,2016,Other,White,Full,1.6,Diesel,Automatic,74000.0,Jeddah,50000.0
@@ -4434,6 +4202,7 @@ Ford,Expedition,2009,Saudi,Black,Semi Full,3.5,Gas,Automatic,18500.0,Taef,35000.
 Ford,Explorer,2013,Other,Blue,Standard,3.5,Gas,Automatic,218000.0,Makkah,48000.0
 Dodge,Ram,2011,Saudi,White,Semi Full,5.7,Gas,Automatic,190000.0,Riyadh,40000.0
 Kia,Cerato,2012,Other,White,Standard,1.6,Gas,Automatic,312287.0,Riyadh,17000.0
+Ford,Edge,2014,Saudi,Red,Full,3.6,Gas,Automatic,99000.0,Jeddah,1500.0
 Toyota,Prado,2016,Saudi,White,Semi Full,4.0,Gas,Automatic,167860.0,Hafar Al-Batin,108000.0
 Chevrolet,Tahoe,2010,Saudi,White,Full,2.7,Gas,Automatic,260000.0,Riyadh,65000.0
 Ford,Flex,2015,Saudi,Black,Standard,3.6,Gas,Automatic,290000.0,Riyadh,30000.0
@@ -4452,7 +4221,6 @@ Mitsubishi,Pajero,2015,Saudi,Another Color,Standard,3.5,Gas,Automatic,98000.0,Qa
 Kia,Cerato,2014,Saudi,Red,Semi Full,1.6,Gas,Automatic,223.0,Tabouk,24000.0
 Nissan,Altima,2013,Saudi,White,Semi Full,2.5,Gas,Automatic,134000.0,Jeddah,35000.0
 GMC,Sierra,2016,Saudi,Silver,Full,5.3,Gas,Automatic,144000.0,Aseer,95000.0
-Toyota,Land Cruiser,2020,Gulf Arabic,Grey,Full,4.6,Gas,Automatic,19800.0,Dammam,265000.0
 Ford,Taurus,2010,Other,Another Color,Semi Full,3.5,Gas,Automatic,380.0,Al-Baha,28000.0
 Chevrolet,Caprice,2013,Other,White,Standard,6.0,Gas,Automatic,280000.0,Makkah,44000.0
 Jaguar,XF,2009,Saudi,Another Color,Semi Full,6.0,Gas,Automatic,50000.0,Riyadh,35000.0
@@ -4485,7 +4253,6 @@ GMC,Terrain,2016,Saudi,White,Standard,2.4,Gas,Automatic,151000.0,Jazan,45000.0
 Toyota,Corolla,2011,Saudi,Grey,Semi Full,1.4,Gas,Manual,490.0,Al-Medina,18000.0
 Peugeot,301,2014,Saudi,Another Color,Standard,1.6,Gas,Automatic,159.0,Tabouk,12000.0
 Kia,Sportage,2020,Saudi,Orange,Semi Full,1.6,Gas,Automatic,7600.0,Jeddah,2656.0
-Mercedes,S,2017,Saudi,Grey,Full,6.0,Gas,Automatic,36000.0,Riyadh,310000.0
 Toyota,Corolla,2018,Saudi,Silver,Standard,1.6,Gas,Automatic,28000.0,Riyadh,54000.0
 Toyota,Furniture,2019,Saudi,White,Full,4.0,Gas,Automatic,135000.0,Riyadh,115005.0
 Toyota,Rav4,2018,Other,White,Full,2.5,Gas,Automatic,61000.0,Riyadh,83000.0
@@ -4503,7 +4270,7 @@ Chevrolet,Suburban,1999,Saudi,Green,Standard,9.0,Gas,Automatic,2500.0,Hail,6500.
 Isuzu,D-MAX,2020,Saudi,White,Full,3.0,Diesel,Automatic,40000.0,Riyadh,120500.0
 Hyundai,Tucson,2017,Saudi,Another Color,Semi Full,2.0,Gas,Automatic,152.0,Dammam,62000.0
 Hyundai,Azera,2020,Other,Grey,Semi Full,3.5,Gas,Automatic,37000.0,Tabouk,1846.0
-Nissan,Patrol,2020,Saudi,Grey,Full,4.0,Gas,Automatic,89000.0,Riyadh,210000.0
+Toyota,Corolla,2018,Saudi,White,Standard,1.6,Gas,Automatic,221000.0,Jubail,1300.0
 Mitsubishi,Pajero,2017,Saudi,White,Full,3.5,Gas,Automatic,136000.0,Dammam,67000.0
 GMC,Sierra,2015,Saudi,Silver,Full,5.3,Gas,Automatic,272.0,Tabouk,70000.0
 Fiat,500,2020,Saudi,White,Full,1.4,Gas,Automatic,11500.0,Riyadh,85000.0
@@ -4523,14 +4290,11 @@ Nissan,VTC,2000,Saudi,White,Semi Full,4.8,Gas,Manual,490000.0,Dammam,30000.0
 Mercedes,CLS,2007,Saudi,Grey,Full,6.3,Gas,Automatic,340000.0,Dammam,21000.0
 Audi,A8,2007,Saudi,White,Full,3.2,Gas,Automatic,180000.0,Dammam,19000.0
 Toyota,Prado,2016,Saudi,White,Semi Full,4.0,Gas,Automatic,201000.0,Riyadh,107000.0
-Toyota,Land Cruiser,2021,Saudi,White,Full,4.6,Gas,Automatic,8000.0,Dammam,295000.0
-Toyota,Land Cruiser,2019,Saudi,White,Full,4.6,Gas,Automatic,38000.0,Dammam,255000.0
 Lexus,LS,2015,Saudi,White,Full,4.6,Gas,Automatic,132000.0,Dammam,165000.0
 GMC,Sierra,2018,Saudi,Silver,Standard,5.3,Gas,Automatic,152000.0,Dammam,124000.0
 Chevrolet,Tahoe,2016,Saudi,Brown,Standard,5.3,Gas,Automatic,223000.0,Dammam,110000.0
 Mitsubishi,Pajero,2017,Saudi,White,Full,3.5,Gas,Automatic,111000.0,Dammam,68000.0
 Honda,Odyssey,2015,Saudi,White,Standard,3.5,Gas,Automatic,153000.0,Dammam,60000.0
-Mercedes,C,2020,Saudi,White,Full,2.0,Gas,Automatic,10000.0,Jeddah,190000.0
 Toyota,Land Cruiser,1999,Other,Silver,Semi Full,1.1,Gas,Manual,175000.0,Riyadh,57000.0
 Audi,A4,2013,Gulf Arabic,Another Color,Full,2.0,Gas,Automatic,250000.0,Riyadh,45000.0
 Ford,Expedition,2013,Saudi,White,Standard,5.4,Gas,Automatic,78000.0,Dammam,64000.0
@@ -4538,7 +4302,6 @@ Toyota,Camry,2017,Saudi,White,Full,1.4,Gas,Automatic,13400.0,Riyadh,65000.0
 Audi,A6,2013,Saudi,Black,Semi Full,3.0,Gas,Automatic,75000.0,Riyadh,70000.0
 Jeep,Cherokee,1998,Saudi,White,Standard,4.0,Gas,Automatic,270000.0,Yanbu,16000.0
 Chevrolet,Tahoe,2012,Saudi,Black,Full,5.3,Gas,Automatic,281.0,Riyadh,65000.0
-Volvo,FH,2015,Saudi,White,Full,3.5,Diesel,Manual,300000.0,Jazan,245000.0
 Toyota,Prado,2019,Gulf Arabic,White,Full,4.0,Gas,Automatic,19054.0,Riyadh,162500.0
 Porsche,Cayenne S,2013,Saudi,White,Full,4.8,Gas,Automatic,219000.0,Riyadh,100000.0
 Hyundai,Accent,2017,Saudi,White,Standard,1.4,Gas,Automatic,108000.0,Riyadh,29000.0
@@ -4556,7 +4319,6 @@ Ford,Victoria,2011,Saudi,Another Color,Standard,4.6,Gas,Automatic,270.0,Dammam,3
 Hyundai,Elantra,2018,Saudi,Silver,Full,2.0,Gas,Automatic,97588.0,Jeddah,55000.0
 Mazda,6,2016,Saudi,Red,Full,2.5,Gas,Automatic,117000.0,Hafar Al-Batin,72000.0
 Chevrolet,Tahoe,2017,Saudi,Black,Semi Full,8.0,Gas,Automatic,220.0,Arar,118000.0
-Nissan,Patrol,2020,Saudi,Grey,Full,1.4,Gas,Automatic,89000.0,Riyadh,210000.0
 Mercedes,S,2012,Gulf Arabic,Navy,Full,3.3,Gas,Automatic,85000.0,Al-Medina,110000.0
 Dodge,Charger,2012,Saudi,Yellow,Full,6.4,Gas,Automatic,167000.0,Al-Medina,85000.0
 Toyota,Furniture,2018,Saudi,White,Semi Full,2.7,Gas,Automatic,224000.0,Dammam,85000.0
@@ -4605,13 +4367,10 @@ Toyota,Hilux,2014,Saudi,White,Full,2.7,Gas,Manual,98000.0,Najran,70000.0
 Mercedes,GL,2015,Saudi,Black,Full,5.0,Gas,Automatic,32000.0,Makkah,183000.0
 Mazda,CX9,2015,Saudi,Black,Full,2.5,Gas,Automatic,234000.0,Taef,57000.0
 Toyota,Land Cruiser 70,2019,Saudi,White,Full,1.7,Gas,Manual,26000.0,Aseer,130000.0
-Lexus,ES,2020,Saudi,Another Color,Full,3.5,Gas,Automatic,29000.0,Jeddah,230000.0
 Toyota,Prado,2016,Saudi,White,Standard,4.0,Gas,Automatic,74000.0,Jeddah,120000.0
 Toyota,Camry,2010,Saudi,Green,Full,2.4,Gas,Manual,390000.0,Dammam,20000.0
 Toyota,Prado,2015,Saudi,Grey,Semi Full,4.0,Gas,Automatic,70000.0,Tabouk,110000.0
 Hyundai,Tucson,2018,Other,Silver,Semi Full,2.0,Gas,Automatic,100000.0,Jeddah,60000.0
-Chevrolet,Tahoe,2019,Saudi,White,Full,5.3,Gas,Automatic,62000.0,Jeddah,195000.0
-BMW,The M,2020,Saudi,Black,Full,6.0,Gas,Automatic,13000.0,Riyadh,385000.0
 Ford,Expedition,2016,Saudi,Black,Semi Full,3.5,Gas,Automatic,160000.0,Riyadh,85000.0
 Land Rover,Range Rover,2007,Saudi,White,Full,8.9,Gas,Automatic,148.0,Riyadh,38000.0
 Renault,Duster,2019,Saudi,Orange,Full,1.6,Gas,Automatic,27000.0,Dammam,54000.0
@@ -4642,7 +4401,6 @@ Dodge,Charger,2015,Saudi,Red,Standard,3.6,Gas,Automatic,54300.0,Riyadh,63000.0
 Genesis,G80,2013,Saudi,Black,Full,3.8,Gas,Automatic,124.0,Jeddah,55000.0
 Toyota,Hilux,2017,Saudi,White,Semi Full,2.7,Gas,Manual,210000.0,Hail,64000.0
 Chevrolet,Caprice Classic,2008,Saudi,White,Standard,3.5,Gas,Automatic,300000.0,Jeddah,14500.0
-Toyota,Land Cruiser,2016,Saudi,White,Semi Full,5.7,Gas,Automatic,120000.0,Riyadh,205000.0
 Hyundai,Sonata,2016,Saudi,White,Semi Full,2.4,Gas,Automatic,305000.0,Riyadh,45000.0
 Hyundai,Sonata,2013,Saudi,White,Semi Full,2.4,Gas,Automatic,215000.0,Riyadh,28000.0
 Lexus,IS,2005,Saudi,Silver,Full,3.5,Gas,Automatic,400000.0,Jeddah,50000.0
@@ -4662,10 +4420,9 @@ Honda,Pilot,2012,Saudi,White,Unknown,3.5,Gas,Automatic,266700.0,Jeddah,30000.0
 MG,6,2014,Gulf Arabic,Grey,Full,1.8,Gas,Automatic,79000.0,Riyadh,23000.0
 Kia,Cerato,2016,Saudi,White,Semi Full,1.6,Gas,Automatic,12100.0,Qassim,30000.0
 Mercedes,E,2017,Saudi,Navy,Full,2.0,Gas,Automatic,147.0,Riyadh,142000.0
+Toyota,Camry,2019,Saudi,White,Standard,2.5,Hybrid,Automatic,62000.0,Jeddah,1595.0
 Fiat,500,2017,Gulf Arabic,White,Full,1.4,Gas,Automatic,74000.0,Dammam,48000.0
 Toyota,Camry,2016,Saudi,White,Standard,2.5,Gas,Automatic,17000.0,Riyadh,35000.0
-Land Rover,Range Rover,2018,Other,Grey,Full,3.8,Gas,Automatic,50000.0,Riyadh,290000.0
-Mercedes,GLE,2020,Saudi,Navy,Full,3.0,Gas,Automatic,13000.0,Dammam,375000.0
 MG,GS,2020,Saudi,White,Semi Full,2.0,Gas,Automatic,11000.0,Riyadh,51000.0
 Land Rover,Range Rover,2011,Saudi,White,Full,3.5,Gas,Automatic,196000.0,Jeddah,55000.0
 MG,RX8,2020,Saudi,Brown,Full,2.0,Gas,Automatic,23000.0,Al-Baha,98000.0
@@ -4686,7 +4443,6 @@ Honda,Accord,2017,Gulf Arabic,Golden,Semi Full,2.5,Gas,Automatic,62847.0,Qassim,
 Toyota,Furniture,2020,Saudi,Silver,Full,4.0,Gas,Automatic,20000.0,Riyadh,130000.0
 Ford,Echo Sport,2020,Gulf Arabic,White,Standard,1.5,Gas,Automatic,4434.0,Dammam,59000.0
 Nissan,Datsun,2013,Gulf Arabic,White,Standard,1.7,Gas,Manual,273778.0,Al-Ahsa,32000.0
-Toyota,Land Cruiser,2020,Saudi,White,Standard,4.0,Gas,Automatic,560.0,Riyadh,190000.0
 Genesis,Prestige,2015,Saudi,Black,Full,3.8,Gas,Automatic,180000.0,Makkah,47500.0
 Toyota,Land Cruiser,2004,Saudi,White,Standard,4.0,Gas,Manual,425000.0,Jazan,35000.0
 INFINITI,FX,2009,Saudi,White,Full,3.5,Gas,Automatic,250000.0,Jeddah,35000.0
@@ -4707,7 +4463,6 @@ Kia,Cadenza,2018,Gulf Arabic,White,Semi Full,3.3,Gas,Automatic,81000.0,Dammam,70
 Lexus,ES,2015,Gulf Arabic,Black,Full,3.5,Gas,Automatic,158792.0,Taef,78000.0
 Dodge,Durango,2012,Saudi,White,Full,6.0,Gas,Automatic,288000.0,Al-Medina,43000.0
 Chevrolet,Silverado,2014,Gulf Arabic,White,Semi Full,4.3,Gas,Automatic,233.0,Dammam,75000.0
-Toyota,Land Cruiser,2017,Gulf Arabic,White,Full,5.7,Gas,Automatic,120000.0,Jeddah,225000.0
 Ford,Expedition,2012,Saudi,White,Standard,5.4,Gas,Automatic,182000.0,Dammam,42500.0
 Toyota,Furniture,2013,Saudi,White,Standard,2.7,Gas,Automatic,180000.0,Riyadh,45000.0
 Cadillac,Escalade,2015,Saudi,Black,Full,6.2,Gas,Automatic,88000.0,Jeddah,160000.0
@@ -4796,6 +4551,7 @@ Hyundai,Accent,2019,Saudi,White,Standard,1.4,Gas,Automatic,96000.0,Riyadh,33500.
 BMW,X,2011,Other,Brown,Full,5.0,Gas,Automatic,290.0,Riyadh,48000.0
 Dodge,Charger,2018,Saudi,Grey,Full,5.7,Gas,Automatic,160000.0,Aseer,2700.0
 Ford,Taurus,2017,Saudi,White,Semi Full,2.5,Gas,Automatic,116000.0,Qassim,75000.0
+Kia,Cerato,2020,Saudi,Grey,Standard,1.6,Gas,Automatic,31700.0,Makkah,1500.0
 Toyota,Yaris,2014,Saudi,Red,Full,1.5,Gas,Automatic,375000.0,Riyadh,24000.0
 Nissan,Datsun,2016,Gulf Arabic,White,Full,2.4,Gas,Manual,188.0,Hail,33000.0
 Cadillac,Escalade,2004,Saudi,White,Full,6.0,Gas,Automatic,300000.0,Riyadh,30000.0
@@ -4812,8 +4568,6 @@ Lexus,ES,2016,Other,White,Full,1.5,Gas,Automatic,100000.0,Aseer,128000.0
 Ford,Fusion,2015,Saudi,Grey,Semi Full,2.4,Gas,Automatic,178000.0,Hail,30000.0
 Toyota,Hilux,2019,Gulf Arabic,White,Full,2.7,Gas,Automatic,32595.0,Riyadh,105000.0
 HAVAL,H6,2020,Saudi,Black,Full,2.0,Gas,Automatic,16000.0,Riyadh,79000.0
-Lexus,ES,2020,Saudi,White,Full,2.5,Gas,Automatic,33000.0,Riyadh,210000.0
-Toyota,Land Cruiser,2019,Saudi,White,Full,4.6,Diesel,Automatic,110000.0,Qassim,250000.0
 MG,RX5,2020,Saudi,Red,Full,2.0,Gas,Automatic,4500.0,Abha,65000.0
 Chevrolet,Malibu,2018,Saudi,White,Standard,2.0,Gas,Automatic,135000.0,Qassim,46500.0
 Hyundai,Sonata,2011,Saudi,Black,Semi Full,1.6,Gas,Automatic,29000.0,Riyadh,23000.0
@@ -4822,6 +4576,7 @@ Toyota,Ciocca,2015,Saudi,White,Full,8.0,Gas,Automatic,285000.0,Aseer,155000.0
 Ford,Expedition,2012,Saudi,Black,Full,4.8,Gas,Manual,304.0,Al-Ahsa,38000.0
 Toyota,Camry,1995,Saudi,White,Full,3.5,Gas,Manual,300.0,Al-Ahsa,12000.0
 Porsche,Cayenne Turbo GTS,2013,Saudi,Black,Full,9.0,Gas,Automatic,148000.0,Riyadh,115000.0
+Toyota,Corolla,2020,Saudi,Silver,Semi Full,1.6,Gas,Automatic,14000.0,Riyadh,1013.0
 Hyundai,Azera,2015,Saudi,Black,Semi Full,3.0,Gas,Automatic,222306.0,Riyadh,38000.0
 Ford,Mustang,2010,Saudi,Red,Semi Full,4.0,Gas,Manual,169000.0,Riyadh,50000.0
 Hyundai,Tucson,2018,Saudi,Bronze,Semi Full,1.6,Gas,Automatic,27900.0,Riyadh,72000.0
@@ -4845,7 +4600,6 @@ Hyundai,Accent,2019,Saudi,Grey,Standard,1.4,Gas,Automatic,107000.0,Riyadh,35000.
 Chevrolet,Tahoe,2011,Saudi,Red,Semi Full,5.3,Gas,Automatic,188000.0,Riyadh,53000.0
 HAVAL,H6,2020,Saudi,Grey,Full,2.0,Gas,Automatic,16000.0,Riyadh,72000.0
 Honda,Accord,2007,Saudi,White,Full,3.0,Gas,Automatic,470000.0,Makkah,15000.0
-Mercedes,S,2014,Gulf Arabic,Black,Full,4.0,Gas,Automatic,49000.0,Riyadh,250000.0
 GMC,Sierra,2017,Saudi,Red,Full,5.3,Gas,Automatic,160000.0,Riyadh,100000.0
 Dodge,Durango,2019,Saudi,Black,Full,3.6,Gas,Automatic,95000.0,Riyadh,2820.0
 GMC,Envoy,2003,Other,Black,Full,3.5,Gas,Automatic,100000.0,Dammam,6000.0
@@ -4891,7 +4645,7 @@ Ford,Edge,2013,Saudi,Silver,Standard,3.5,Gas,Automatic,208000.0,Makkah,39000.0
 Mazda,CX3,2020,Gulf Arabic,Grey,Semi Full,2.0,Gas,Automatic,5000.0,Riyadh,55000.0
 Mitsubishi,ASX,2020,Saudi,White,Unknown,3.5,Gas,Automatic,22000.0,Riyadh,67000.0
 Toyota,Camry,2014,Saudi,White,Unknown,2.5,Gas,Automatic,542966.0,Wadi Dawasir,22000.0
-BMW,The 7,2019,Saudi,Black,Full,2.5,Gas,Automatic,41000.0,Jeddah,235000.0
+Hyundai,Sonata,2020,Saudi,White,Semi Full,2.5,Gas,Automatic,14000.0,Taef,1430.0
 Toyota,Ciocca,2010,Saudi,Grey,Semi Full,5.7,Gas,Automatic,270000.0,Jubail,65000.0
 Chevrolet,Tahoe,2008,Other,Black,Full,5.7,Gas,Automatic,280000.0,Dammam,50000.0
 Cadillac,Eldorado,1968,Other,Golden,Full,3.5,Gas,Automatic,91000.0,Riyadh,130000.0
@@ -4908,6 +4662,7 @@ Toyota,Hilux,2017,Saudi,White,Full,2.7,Gas,Automatic,102000.0,Al-Ahsa,90000.0
 Nissan,Patrol,2017,Saudi,Grey,Full,4.0,Gas,Automatic,115000.0,Riyadh,117000.0
 Toyota,Land Cruiser 70,2006,Saudi,Bronze,Standard,4.5,Gas,Manual,239.0,Aseer,70000.0
 Toyota,FJ,2016,Gulf Arabic,White,Full,4.9,Gas,Automatic,115.0,Riyadh,110000.0
+Genesis,G80,2018,Other,Grey,Semi Full,3.8,Gas,Automatic,170000.0,Riyadh,500.0
 Mazda,CX5,2019,Saudi,Navy,Full,2.5,Gas,Automatic,33000.0,Riyadh,102000.0
 Nissan,Sunny,2011,Saudi,White,Standard,1.6,Gas,Manual,311000.0,Riyadh,10000.0
 Chevrolet,Suburban,2002,Other,Bronze,Standard,5.3,Gas,Automatic,333.0,Riyadh,13000.0
@@ -4929,7 +4684,6 @@ Toyota,Land Cruiser,2008,Saudi,Another Color,Full,8.0,Gas,Automatic,295000.0,Hai
 Chevrolet,Malibu,2015,Saudi,Red,Semi Full,2.5,Gas,Automatic,218000.0,Makkah,20000.0
 Honda,Crosstour,2010,Saudi,Silver,Full,3.5,Gas,Automatic,135000.0,Dammam,43000.0
 Toyota,Yaris,2017,Saudi,Brown,Standard,1.3,Gas,Automatic,201000.0,Dammam,35000.0
-Toyota,Land Cruiser,2017,Saudi,White,Full,5.7,Gas,Automatic,50000.0,Dammam,245000.0
 Fiat,500,2017,Gulf Arabic,White,Full,1.6,Gas,Automatic,112000.0,Riyadh,45000.0
 Hyundai,Sonata,2018,Saudi,White,Standard,2.4,Gas,Automatic,69000.0,Riyadh,55000.0
 Hyundai,Sonata,2011,Saudi,Silver,Semi Full,2.4,Gas,Automatic,186000.0,Jeddah,25000.0
@@ -4947,6 +4701,7 @@ Lincoln,Navigator,2011,Saudi,Black,Full,5.4,Gas,Automatic,200000.0,Aseer,60000.0
 Ford,Expedition,2003,Saudi,Another Color,Semi Full,5.4,Gas,Automatic,400000.0,Al-Medina,5000.0
 Kia,Cerato,2013,Saudi,Black,Standard,3.5,Gas,Automatic,147.0,Dammam,18000.0
 Hyundai,Palisade,2020,Other,White,Semi Full,3.5,Diesel,Automatic,9000.0,Riyadh,145000.0
+Hyundai,Sonata,2019,Saudi,Red,Semi Full,2.5,Gas,Automatic,120.0,Khobar,1550.0
 Nissan,Navara,2013,Saudi,White,Semi Full,2.7,Gas,Automatic,189.0,Riyadh,35000.0
 Hyundai,Sonata,2016,Saudi,Brown,Semi Full,2.4,Gas,Automatic,210000.0,Riyadh,35000.0
 Hyundai,Accent,2018,Saudi,White,Standard,1.4,Gas,Automatic,105500.0,Dammam,32000.0
@@ -4968,6 +4723,7 @@ Nissan,Datsun,2014,Other,White,Full,2.0,Gas,Manual,240000.0,Riyadh,30000.0
 Suzuki,Celerio,2011,Other,Another Color,Semi Full,3.5,Gas,Manual,59000.0,Taef,15000.0
 Ford,Edge,2014,Saudi,White,Semi Full,3.8,Gas,Automatic,140000.0,Jeddah,50000.0
 Nissan,Datsun,2008,Other,White,Standard,2.4,Gas,Manual,180.0,Makkah,30000.0
+Toyota,Land Cruiser 70,2016,Saudi,White,Full,4.0,Gas,Manual,190.0,Jazan,1414.0
 Kia,Rio,2016,Saudi,Red,Standard,1.6,Gas,Automatic,80000.0,Makkah,25000.0
 Ford,Expedition,2014,Saudi,Black,Semi Full,5.4,Gas,Automatic,184000.0,Jubail,52000.0
 Kia,Cadenza,2016,Saudi,White,Standard,3.5,Gas,Automatic,130000.0,Riyadh,56000.0
@@ -4976,9 +4732,9 @@ Toyota,Yaris,2011,Saudi,Green,Standard,1.3,Gas,Automatic,300500.0,Abha,14000.0
 Toyota,Prado,2018,Gulf Arabic,White,Semi Full,4.0,Gas,Automatic,125000.0,Khobar,128000.0
 Nissan,Sunny,2009,Saudi,Golden,Standard,1.0,Gas,Automatic,377000.0,Riyadh,11000.0
 Kia,Cerato,2015,Saudi,Navy,Full,2.0,Gas,Automatic,104000.0,Al-Ahsa,28000.0
-Mercedes,S,2017,Saudi,White,Full,3.0,Gas,Automatic,53000.0,Jeddah,290000.0
 Nissan,Armada,2009,Gulf Arabic,White,Full,3.2,Gas,Automatic,275475.0,Riyadh,25000.0
 Mercedes,S,2013,Saudi,Brown,Full,8.0,Gas,Automatic,160000.0,Jeddah,110000.0
+Hyundai,Sonata,2020,Saudi,White,Full,2.5,Gas,Automatic,17000.0,Jeddah,1430.0
 Hyundai,H1,2018,Saudi,White,Semi Full,2.4,Gas,Automatic,100.0,Aseer,70000.0
 Toyota,Prado,1999,Saudi,Oily,Full,2.8,Gas,Manual,230.0,Aseer,18000.0
 Ford,Mustang,2010,Other,Grey,Full,4.6,Gas,Manual,170.0,Dammam,42000.0
@@ -5021,11 +4777,10 @@ Toyota,Camry,2007,Saudi,White,Full,1.1,Gas,Automatic,420000.0,Al-Medina,25000.0
 Honda,Accord,2016,Gulf Arabic,Golden,Standard,2.4,Gas,Automatic,130000.0,Qassim,61000.0
 Hyundai,Sonata,2016,Saudi,Silver,Semi Full,2.4,Gas,Automatic,260.0,Dammam,40000.0
 Hyundai,Creta,2018,Saudi,Red,Full,1.6,Gas,Automatic,11800.0,Besha,56000.0
-Volvo,XC90,2018,Saudi,Black,Full,3.5,Hybrid,Automatic,26000.0,Dammam,210000.0
 Mitsubishi,Pajero,2016,Saudi,White,Standard,3.5,Gas,Automatic,137000.0,Riyadh,55000.0
+Toyota,Yaris,2019,Saudi,White,Standard,1.6,Gas,Automatic,85000.0,Najran,950.0
 Chevrolet,Caprice,2006,Saudi,Grey,Standard,3.6,Gas,Automatic,380000.0,Riyadh,5000.0
 GMC,Suburban,2006,Saudi,Silver,Standard,6.0,Gas,Automatic,266.0,Yanbu,30000.0
-Lexus,LX,2014,Saudi,Golden,Full,5.7,Gas,Automatic,73000.0,Riyadh,220000.0
 Toyota,Land Cruiser 70,2020,Saudi,White,Full,3.5,Gas,Manual,45000.0,Taef,2450.0
 Hyundai,Accent,2020,Saudi,Another Color,Standard,1.5,Gas,Automatic,12000.0,Riyadh,42000.0
 Ford,Marquis,2003,Other,Grey,Full,1.0,Gas,Automatic,300.0,Al-Medina,9000.0
@@ -5065,7 +4820,6 @@ Toyota,Hilux,2019,Saudi,White,Full,2.7,Gas,Manual,28000.0,Aseer,72500.0
 Hyundai,Elantra,2018,Saudi,Grey,Semi Full,1.7,Gas,Automatic,680.0,Riyadh,40000.0
 Toyota,Land Cruiser,2002,Saudi,Silver,Standard,1.1,Gas,Manual,325605.0,Jeddah,30000.0
 Lincoln,The LS,2002,Saudi,Navy,Full,3.5,Gas,Automatic,71000.0,Dammam,28000.0
-Mercedes,E,2019,Saudi,White,Full,4.0,Gas,Automatic,80000.0,Jeddah,190000.0
 Toyota,Hilux,1997,Saudi,White,Standard,3.5,Gas,Manual,30000.0,Al-Medina,13000.0
 Ford,Expedition,2012,Saudi,Grey,Semi Full,3.6,Gas,Automatic,170000.0,Riyadh,45000.0
 Nissan,Patrol,2004,Saudi,White,Semi Full,4.8,Gas,Manual,350000.0,Al-Ahsa,25000.0
@@ -5108,7 +4862,6 @@ Chevrolet,Malibu,2013,Saudi,Red,Semi Full,2.4,Gas,Automatic,233000.0,Abha,20000.
 Chevrolet,Optra,2009,Other,Another Color,Semi Full,1.4,Gas,Manual,20000000.0,Riyadh,9000.0
 GMC,Yukon,2001,Saudi,Another Color,Full,3.5,Gas,Automatic,28000.0,Aseer,15000.0
 Hyundai,Azera,2021,Saudi,Blue,Full,3.5,Gas,Automatic,25000.0,Makkah,2690.0
-Toyota,Land Cruiser,2019,Saudi,White,Full,4.6,Gas,Automatic,177900.0,Riyadh,220000.0
 Hyundai,Sonata,2013,Saudi,Silver,Semi Full,2.4,Gas,Automatic,348.0,Dammam,22000.0
 Hyundai,Sonata,2016,Saudi,White,Standard,2.4,Gas,Automatic,191000.0,Riyadh,45000.0
 Toyota,Yaris,2016,Saudi,Grey,Semi Full,1.3,Gas,Automatic,120000.0,Riyadh,20000.0
@@ -5137,6 +4890,7 @@ Toyota,Corolla,2013,Saudi,White,Standard,2.0,Gas,Automatic,183000.0,Qassim,30000
 Ford,Taurus,2015,Saudi,Another Color,Semi Full,3.5,Gas,Automatic,262000.0,Riyadh,55000.0
 Toyota,Corolla,2020,Saudi,Silver,Semi Full,1.6,Gas,Automatic,11000.0,Riyadh,63000.0
 Toyota,Avanza,2016,Saudi,White,Semi Full,1.5,Gas,Automatic,130000.0,Al-Ahsa,35000.0
+Chevrolet,Malibu,2021,Saudi,Black,Standard,1.5,Gas,Automatic,24000.0,Arar,1200.0
 Hyundai,Elantra,2018,Saudi,White,Standard,2.0,Gas,Automatic,170000.0,Al-Jouf,43000.0
 Lexus,RX,2017,Gulf Arabic,Black,Full,3.5,Gas,Automatic,117000.0,Jeddah,180000.0
 Isuzu,D-MAX,2013,Saudi,White,Standard,3.5,Diesel,Manual,137000.0,Riyadh,55000.0
@@ -5144,11 +4898,7 @@ Genesis,G80,2017,Saudi,Grey,Semi Full,3.8,Gas,Automatic,240000.0,Jeddah,80000.0
 Toyota,Camry,2014,Saudi,White,Standard,2.5,Gas,Automatic,166400.0,Makkah,35500.0
 Ford,Victoria,2011,Other,Blue,Semi Full,4.6,Gas,Automatic,150000.0,Makkah,38000.0
 Hyundai,i10,2013,Saudi,White,Semi Full,3.5,Gas,Automatic,200000.0,Hail,10000.0
-BMW,The M,2015,Saudi,Black,Full,3.0,Gas,Automatic,20000.0,Jeddah,220000.0
-Mercedes,C,2018,Saudi,Silver,Full,2.1,Gas,Automatic,10000.0,Jeddah,200000.0
-Mercedes,S,2015,Saudi,Another Color,Semi Full,4.0,Gas,Automatic,157000.0,Jeddah,215000.0
 Jeep,Grand Cherokee,2013,Gulf Arabic,Black,Full,6.4,Gas,Automatic,136000.0,Tabouk,85000.0
-Mercedes,S,2015,Other,Black,Full,1.6,Gas,Automatic,90000.0,Riyadh,225000.0
 Ford,Taurus,2016,Other,White,Full,3.5,Gas,Automatic,200000.0,Riyadh,57000.0
 Toyota,Camry,2016,Saudi,White,Full,2.5,Gas,Automatic,300000.0,Al-Ahsa,50000.0
 HAVAL,H6,2021,Other,Another Color,Full,2.0,Gas,Automatic,1100.0,Riyadh,83000.0
@@ -5159,7 +4909,6 @@ Chevrolet,Tahoe,2013,Saudi,Brown,Semi Full,5.3,Gas,Automatic,200000.0,Riyadh,550
 GMC,Sierra,2015,Saudi,Black,Full,5.3,Gas,Automatic,196.0,Khobar,75000.0
 Toyota,Yaris,2017,Saudi,White,Semi Full,1.3,Gas,Automatic,179.0,Qassim,35000.0
 Toyota,Land Cruiser Pickup,1983,Saudi,Bronze,Standard,1.5,Gas,Manual,2580.0,Aseer,15000.0
-Toyota,Land Cruiser,2019,Other,White,Full,5.7,Gas,Automatic,12400.0,Riyadh,265000.0
 Kia,Cadenza,2018,Gulf Arabic,Brown,Semi Full,3.3,Gas,Automatic,69000.0,Dammam,71000.0
 Hyundai,Azera,2021,Saudi,White,Standard,3.5,Gas,Automatic,11000.0,Sakaka,120000.0
 Ford,Expedition,2003,Other,Oily,Full,5.4,Gas,Automatic,364800.0,Makkah,11000.0
@@ -5173,6 +4922,7 @@ Hyundai,Accent,2019,Saudi,White,Standard,1.4,Gas,Automatic,33000.0,Al-Medina,400
 Chevrolet,Impala,2019,Gulf Arabic,Grey,Standard,3.6,Gas,Automatic,100200.0,Riyadh,75000.0
 Hyundai,Accent,2019,Saudi,White,Standard,1.4,Gas,Automatic,62400.0,Dammam,40000.0
 GMC,Yukon,2013,Saudi,Brown,Standard,5.3,Gas,Automatic,107000.0,Dammam,75000.0
+Hyundai,Elantra,2021,Saudi,Grey,Semi Full,2.0,Gas,Automatic,7500.0,Makkah,1368.0
 Nissan,Datsun,2015,Saudi,White,Full,4.2,Gas,Manual,19000.0,Riyadh,35000.0
 Cadillac,XT5,2017,Saudi,Silver,Full,3.6,Gas,Automatic,183000.0,Riyadh,108000.0
 Toyota,Hilux,2017,Saudi,White,Semi Full,2.7,Gas,Manual,124000.0,Jeddah,64000.0
@@ -5204,20 +4954,16 @@ Ford,Taurus,2019,Saudi,Silver,Standard,2.0,Gas,Automatic,54000.0,Riyadh,80000.0
 Changan,CS75,2020,Saudi,Grey,Full,1.8,Gas,Automatic,44000.0,Riyadh,58000.0
 Genesis,G80,2019,Saudi,White,Full,3.0,Gas,Automatic,52000.0,Riyadh,130000.0
 Toyota,Corolla,2015,Saudi,White,Standard,1.6,Gas,Automatic,312000.0,Khobar,32000.0
-Mercedes,CLS,2019,Saudi,Red,Semi Full,3.5,Gas,Automatic,25000.0,Al-Ahsa,300000.0
 Mercedes,S,2014,Other,Grey,Full,4.0,Gas,Automatic,179000.0,Riyadh,169000.0
 GMC,Yukon,2005,Saudi,Another Color,Semi Full,5.7,Gas,Automatic,160.0,Taef,45000.0
 Chevrolet,Impala,2018,Saudi,Black,Semi Full,3.6,Gas,Automatic,35000.0,Taef,85000.0
 Hyundai,Tuscani,2015,Saudi,White,Standard,2.0,Gas,Automatic,130.0,Jeddah,40000.0
 Geely,EC7,2014,Other,White,Standard,1.8,Gas,Manual,74000.0,Jazan,13000.0
-Toyota,Land Cruiser,2018,Saudi,Black,Full,5.7,Gas,Automatic,82000.0,Riyadh,220000.0
 Hyundai,Sonata,2012,Saudi,White,Semi Full,2.4,Gas,Automatic,300.0,Jeddah,21000.0
 GMC,Acadia,2011,Saudi,Black,Semi Full,3.6,Gas,Automatic,253000.0,Dammam,20000.0
 Mazda,6,2019,Saudi,White,Full,2.5,Gas,Automatic,50000.0,Jeddah,90000.0
 Toyota,Corolla,2018,Saudi,Brown,Semi Full,1.6,Gas,Automatic,119.0,Jeddah,36000.0
-Mercedes,GLC,2020,Gulf Arabic,White,Semi Full,2.0,Gas,Automatic,7000.0,Riyadh,275000.0
 Hyundai,Tucson,2013,Saudi,White,Semi Full,2.0,Gas,Automatic,213000.0,Makkah,28000.0
-Toyota,Land Cruiser,2020,Gulf Arabic,White,Full,4.6,Gas,Automatic,19400.0,Dammam,215000.0
 Toyota,Furniture,2015,Saudi,White,Standard,1.7,Gas,Automatic,147000.0,Jeddah,65000.0
 MG,GS,2016,Saudi,Another Color,Full,1.5,Gas,Automatic,139000.0,Dammam,42000.0
 Toyota,Camry,2013,Saudi,White,Full,2.5,Gas,Automatic,410000.0,Hafar Al-Batin,40000.0
@@ -5237,12 +4983,12 @@ Toyota,Camry,2018,Saudi,Silver,Full,2.5,Gas,Automatic,150000.0,Jazan,95000.0
 Mitsubishi,Lancer,2016,Saudi,Red,Standard,1.6,Gas,Automatic,18000.0,Jeddah,39000.0
 Kia,Sportage,2018,Saudi,White,Semi Full,2.0,Gas,Automatic,128000.0,Dammam,60000.0
 Hyundai,Elantra,2015,Other,Blue,Standard,2.0,Gas,Automatic,300.0,Riyadh,25000.0
-Jeep,Wrangler,2020,Gulf Arabic,Black,Semi Full,3.6,Gas,Automatic,4000.0,Dammam,190000.0
 Hyundai,Sonata,2020,Saudi,Grey,Standard,2.5,Gas,Automatic,100.0,Jeddah,72910.0
 Hyundai,Sonata,2020,Saudi,Red,Standard,2.5,Gas,Automatic,100.0,Jeddah,72910.0
 Hyundai,Sonata,2020,Saudi,Silver,Standard,2.5,Gas,Automatic,100.0,Jeddah,72910.0
 Audi,Q5,2012,Saudi,Grey,Full,3.5,Gas,Automatic,339.0,Jeddah,31000.0
 Mercedes,SEL,1986,Saudi,Silver,Full,3.0,Gas,Automatic,500000.0,Tabouk,5500.0
+Toyota,Yaris,2018,Saudi,White,Standard,1.5,Gas,Automatic,100000.0,Riyadh,850.0
 Chevrolet,Malibu,2015,Saudi,Navy,Full,2.5,Gas,Automatic,121000.0,Riyadh,17000.0
 Ford,Marquis,2008,Other,Blue,Full,9.0,Gas,Automatic,115.0,Riyadh,17000.0
 Hyundai,Azera,2021,Saudi,Bronze,Standard,3.5,Gas,Automatic,9000.0,Riyadh,122000.0
@@ -5259,6 +5005,7 @@ Peugeot,307,2007,Saudi,Black,Standard,1.6,Gas,Manual,75500.0,Riyadh,11000.0
 Toyota,Camry,2002,Gulf Arabic,Silver,Semi Full,4.0,Gas,Automatic,20000.0,Qassim,15000.0
 MG,ZS,2021,Saudi,Blue,Standard,1.5,Gas,Automatic,600.0,Dammam,51000.0
 Ford,Expedition,2014,Saudi,Black,Semi Full,5.4,Gas,Automatic,108000.0,Jazan,60000.0
+Hyundai,Elantra,2019,Saudi,Grey,Standard,2.0,Gas,Automatic,89000.0,Jeddah,993.0
 GMC,Sierra,2008,Saudi,White,Standard,3.5,Gas,Automatic,194.0,Dammam,39500.0
 Chevrolet,Caprice,2013,Saudi,Black,Standard,6.0,Gas,Automatic,190000.0,Riyadh,39000.0
 Toyota,Camry,2019,Gulf Arabic,White,Standard,2.5,Gas,Automatic,34727.0,Qassim,83000.0
@@ -5267,7 +5014,7 @@ Land Rover,Range Rover,2004,Saudi,Navy,Full,5.3,Gas,Automatic,300000.0,Makkah,22
 Toyota,Hilux,2015,Saudi,White,Full,2.7,Gas,Manual,276.0,Aseer,57000.0
 Dodge,Charger,2010,Saudi,White,Standard,5.7,Gas,Automatic,240000.0,Riyadh,25000.0
 Toyota,Land Cruiser,1997,Saudi,Silver,Full,4.5,Gas,Manual,708000.0,Tabouk,25000.0
-Other,Other,1980,Other,Yellow,Standard,3.5,Diesel,Manual,2500.0,Qassim,220000.0
+Toyota,Yaris,2018,Saudi,White,Full,1.5,Gas,Automatic,169000.0,Najran,1046.0
 GMC,Yukon,2009,Saudi,Red,Full,6.2,Gas,Automatic,20000.0,Riyadh,56000.0
 BMW,X,2010,Saudi,Black,Semi Full,3.5,Gas,Automatic,200.0,Jeddah,61000.0
 Kia,Sorento,2015,Saudi,Black,Full,3.8,Gas,Automatic,167160.0,Jubail,43000.0
@@ -5346,10 +5093,10 @@ Hyundai,Accent,2017,Saudi,White,Standard,1.6,Gas,Automatic,137000.0,Dammam,29000
 Toyota,Corolla,2018,Saudi,Silver,Standard,1.6,Gas,Automatic,73000.0,Dammam,45000.0
 Toyota,Corolla,2018,Saudi,Silver,Standard,1.6,Gas,Automatic,40000.0,Dammam,45000.0
 Kia,Picanto,2015,Other,Another Color,Standard,1.0,Gas,Automatic,85000.0,Dammam,18000.0
-Ford,Expedition,2021,Saudi,Another Color,Semi Full,1.6,Gas,Automatic,2500.0,Aseer,207000.0
 Kia,Rio,2011,Saudi,Black,Standard,1.6,Gas,Manual,218000.0,Jubail,11500.0
 Jeep,Wrangler,2019,Saudi,Another Color,Semi Full,3.6,Gas,Automatic,26000.0,Riyadh,148000.0
 Toyota,Cressida,1993,Saudi,White,Semi Full,4.0,Gas,Manual,492000.0,Riyadh,11000.0
+Hyundai,Elantra,2018,Saudi,White,Standard,2.0,Gas,Automatic,22640.0,Najran,1158.0
 Isuzu,Dyna,2003,Saudi,White,Standard,8.5,Diesel,Manual,330.0,Riyadh,40000.0
 Toyota,Land Cruiser,2011,Saudi,White,Full,4.6,Gas,Automatic,434.0,Aseer,85000.0
 Mercedes,Viano,2015,Saudi,Blue,Full,3.5,Gas,Automatic,119000.0,Al-Medina,99000.0
@@ -5358,7 +5105,6 @@ Nissan,Patrol,1978,Saudi,White,Standard,3.5,Gas,Manual,30000.0,Abha,28000.0
 Toyota,Corolla,2015,Saudi,White,Standard,1.6,Gas,Automatic,36000.0,Dammam,45000.0
 Toyota,Corolla,2020,Saudi,Another Color,Standard,1.6,Gas,Automatic,16000.0,Jeddah,62000.0
 GMC,Yukon,2014,Saudi,Another Color,Semi Full,5.3,Gas,Automatic,300.0,Jeddah,65000.0
-BMW,The 7,2018,Saudi,Navy,Semi Full,6.8,Gas,Automatic,18000.0,Riyadh,230000.0
 Hyundai,Sonata,2018,Saudi,White,Semi Full,2.4,Gas,Automatic,72000.0,Aseer,65000.0
 Chevrolet,Malibu,2014,Saudi,Black,Full,2.6,Gas,Automatic,138.0,Makkah,27000.0
 BMW,The 7,2009,Saudi,Black,Full,1.0,Gas,Automatic,327000.0,Jeddah,48000.0
@@ -5419,9 +5165,9 @@ Hyundai,Sonata,2019,Saudi,White,Standard,2.4,Gas,Automatic,49000.0,Riyadh,65000.
 Ford,Taurus,2018,Saudi,Blue,Standard,3.5,Gas,Automatic,91769.0,Riyadh,68000.0
 Lexus,GS,2013,Saudi,Bronze,Semi Full,3.5,Gas,Automatic,287000.0,Riyadh,85000.0
 Hyundai,Accent,2019,Saudi,White,Standard,1.4,Gas,Automatic,58000.0,Riyadh,35000.0
+Hyundai,Elantra,2018,Saudi,Grey,Semi Full,1.6,Gas,Automatic,200.0,Jubail,1300.0
 Lexus,ES,2013,Saudi,Black,Full,3.6,Gas,Automatic,137000.0,Tabouk,90000.0
 Ford,Flex,2012,Saudi,Black,Semi Full,6.0,Gas,Automatic,255000.0,Riyadh,24000.0
-Mercedes,GLB,2020,Other,Grey,Full,3.5,Gas,Automatic,7900.0,Riyadh,250000.0
 Toyota,Corolla,2012,Other,Blue,Standard,1.6,Gas,Automatic,2755.0,Makkah,25000.0
 Toyota,Hilux,2015,Saudi,White,Full,2.7,Gas,Manual,157000.0,Abha,60000.0
 Chevrolet,Silverado,2016,Saudi,White,Full,5.3,Gas,Automatic,96000.0,Aseer,95000.0
@@ -5430,9 +5176,9 @@ Hyundai,H1,2016,Saudi,Grey,Semi Full,2.4,Gas,Automatic,201000.0,Jeddah,35000.0
 Kia,Cerato,2015,Saudi,White,Standard,1.6,Gas,Automatic,120000.0,Arar,25000.0
 Mercedes,ML,2013,Saudi,Black,Semi Full,3.3,Gas,Automatic,165000.0,Riyadh,90000.0
 Toyota,Hilux,2016,Other,White,Full,2.7,Gas,Manual,110000.0,Jeddah,55000.0
+Toyota,Corolla,2020,Saudi,White,Semi Full,1.1,Gas,Automatic,26000.0,Makkah,1086.0
 Cadillac,XT5,2017,Saudi,White,Standard,3.6,Gas,Automatic,24000.0,Riyadh,130000.0
 Lexus,RX,2017,Other,Grey,Full,3.5,Gas,Automatic,54000.0,Jeddah,179000.0
-Porsche,Cayenne,2019,Saudi,Grey,Full,3.5,Gas,Automatic,36000.0,Riyadh,360000.0
 Land Rover,Range Rover,2006,Saudi,White,Full,4.0,Gas,Automatic,300000.0,Tabouk,25000.0
 Chevrolet,Optra,2010,Gulf Arabic,Silver,Full,3.5,Gas,Automatic,206000.0,Jeddah,8000.0
 Chevrolet,Tahoe,2012,Saudi,Bronze,Semi Full,4.8,Gas,Automatic,100000.0,Hail,75000.0
@@ -5446,6 +5192,7 @@ Ford,Edge,2012,Saudi,Brown,Full,3.5,Gas,Automatic,395000.0,Qassim,35000.0
 Land Rover,Range Rover,2010,Saudi,White,Full,5.0,Gas,Automatic,188000.0,Al-Medina,62000.0
 Toyota,Rav4,2011,Saudi,Another Color,Semi Full,1.4,Gas,Manual,135000.0,Riyadh,25000.0
 Honda,Accord,2008,Saudi,White,Standard,2.4,Gas,Automatic,17700.0,Jeddah,28000.0
+Nissan,X-Trail,2020,Saudi,Silver,Semi Full,2.5,Gas,Automatic,23000.0,Makkah,1473.0
 Kia,Sorento,2013,Saudi,Silver,Full,3.3,Gas,Automatic,293000.0,Al-Jouf,35000.0
 Chevrolet,Van Express,2008,Other,Silver,Standard,3.5,Gas,Automatic,179000.0,Riyadh,42000.0
 Toyota,Avalon,2016,Saudi,White,Semi Full,3.5,Gas,Automatic,86000.0,Jeddah,87000.0
@@ -5472,6 +5219,7 @@ Toyota,Camry,2017,Saudi,Silver,Standard,2.5,Gas,Automatic,314000.0,Dammam,46000.
 Hummer,H3,2006,Other,Blue,Full,3.5,Gas,Automatic,236000.0,Riyadh,22000.0
 Hyundai,Sonata,2020,Saudi,White,Semi Full,2.5,Gas,Automatic,46000.0,Tabouk,85000.0
 Toyota,Corolla,2015,Other,Another Color,Semi Full,1.6,Gas,Automatic,309000.0,Khobar,32000.0
+GMC,Yukon,2019,Saudi,Grey,Full,5.3,Gas,Automatic,50000.0,Jubail,1.0
 Mitsubishi,Pajero,2011,Saudi,Navy,Semi Full,6.0,Gas,Automatic,140000.0,Jubail,38000.0
 Mitsubishi,Lancer,2009,Other,Grey,Standard,1.6,Gas,Automatic,222835.0,Riyadh,11500.0
 Ford,Edge,2013,Saudi,Black,Standard,6.0,Gas,Automatic,277000.0,Najran,30000.0
