@@ -1,135 +1,16 @@
-# 🧭 TDSP Project Summary — Used Car Price Prediction (Syarah.com)
+# Used Cars Price Prediction – Saudi Arabia
 
-> **Framework:** Microsoft Team Data Science Process (TDSP)  
-> **Goal:** Memprediksi harga wajar mobil bekas di Arab Saudi berdasarkan data historis listing Syarah.com  
-> **Approach:** Iteratif & agile — dari business understanding hingga stakeholder validation.
+## Executive Summary
 
----
+Proyek ini bertujuan untuk membangun **model machine learning** yang mampu memprediksi **harga wajar mobil bekas di Arab Saudi** berdasarkan karakteristik kendaraan yang tercantum pada platform jual beli daring. Permasalahan utama yang diangkat adalah ketidakpastian dalam penentuan harga mobil bekas, yang dapat merugikan penjual, pembeli, maupun platform marketplace akibat harga yang terlalu tinggi atau terlalu rendah dibandingkan kondisi pasar.
 
-## 🧩 TDSP Lifecycle Overview
+Pendekatan proyek mengikuti kerangka **Team Data Science Process (TDSP)**, dimulai dari pemahaman masalah bisnis, eksplorasi dan pemrosesan data, pengembangan model, hingga kesiapan deployment. Dataset diperoleh dari Kaggle dan merepresentasikan listing mobil bekas dengan kombinasi fitur numerik dan kategorikal, seperti merek, tipe, tahun produksi, ukuran mesin, jarak tempuh, jenis transmisi, wilayah penjualan, serta harga kendaraan. Pada tahap awal dilakukan analisis kualitas data untuk mengidentifikasi missing values, inkonsistensi tipe data, duplikasi, dan outlier yang berpotensi memengaruhi performa model.
 
-| Step | Deskripsi Singkat |
-|------|--------------------|
-| **1. Business Understanding** | Mendefinisikan tujuan bisnis dan metrik keberhasilan. |
-| **2. Data Acquisition & Understanding** | Mengumpulkan dan mengeksplorasi data mentah. |
-| **3. Data Preparation & Feature Engineering** | Membersihkan dan membentuk fitur untuk modeling. |
-| **4. Modeling** | Membangun dan mengevaluasi beberapa model prediktif. |
-| **5. Deployment** | Menyimpan dan menyiapkan model untuk digunakan di sistem nyata. |
-| **6. Customer Acceptance** | Memvalidasi hasil model dengan stakeholder bisnis. |
+Pada tahap modeling, beberapa algoritma regresi dikembangkan dan dievaluasi menggunakan pipeline yang konsisten untuk preprocessing dan pelatihan model. Evaluasi performa difokuskan pada metrik yang relevan secara bisnis, terutama **Mean Absolute Error (MAE)** dan **Mean Absolute Percentage Error (MAPE)**, karena keduanya mudah diinterpretasikan oleh stakeholder non-teknis dan secara langsung merepresentasikan selisih harga prediksi terhadap harga aktual. Model terbaik dipilih berdasarkan keseimbangan antara akurasi, stabilitas performa pada data uji, dan kompleksitas model.
 
----
+Model final kemudian disiapkan untuk tahap deployment dengan memastikan konsistensi struktur input dan preprocessing antara fase training dan inferensi. Pada tahap Customer / Stakeholder Acceptance, model divalidasi dari sisi nilai bisnis dengan mereferensikan performa yang telah dicapai pada fase modeling. Model dinilai mampu memberikan estimasi harga yang cukup akurat untuk digunakan sebagai **alat bantu pengambilan keputusan**, baik bagi penjual, pembeli, maupun platform marketplace.
 
-## 1️⃣ Business Understanding
-
-- **Tujuan:** Memberikan estimasi harga wajar mobil bekas untuk membantu keputusan jual/beli.  
-- **Pertanyaan utama:**  
-  - Faktor apa yang paling memengaruhi harga mobil?  
-  - Seberapa akurat prediksi dibanding harga pasar?  
-- **Metrik sukses:** MAE ≤ 10% median harga, MAPE ≤ 20%.  
-
----
-
-## 2️⃣ Data Acquisition & Understanding
-
-- **Sumber data:** Listing mobil bekas dari [Syarah.com](https://syarah.com).  
-- **Fitur utama:** Merk, model, tahun, region, mileage, engine size, harga, dan lainnya.  
-- **Langkah utama:**  
-  - Load dataset `UsedCarsSA_Unclean_EN.csv`.  
-  - Data dictionary dan statistik deskriptif.  
-  - Pemeriksaan nilai unik per kolom.  
-- **Outcome:** Pemahaman kualitas data dan identifikasi fitur penting (`Year`, `Mileage`, `Engine_Size`, dll).
-
----
-
-## 3️⃣ Data Preparation & Feature Engineering
-
-- **Pembersihan data:**  
-  - Imputasi `Engine_Size` (modus per `(Type, Year)`), `Gear_Type` (modus global).  
-  - Hapus kolom non-informatif: `Link`, `Condition`, `Negotiable`.  
-  - Filter outlier harga (1–99% kuantil).  
-- **Fitur tambahan:**  
-  - `Car_Age = 2025 - Year`.  
-- **Outcome:** Dataset bersih `UsedCarsSA_Clean.csv` siap modeling.
-
----
-
-## 4️⃣ Modeling
-
-- **Setup:**  
-  - Target: `Price`  
-  - Train/test: 80/20 split  
-- **Preprocessing pipeline:**  
-  - Numerik → imputasi median + scaling  
-  - Kategorikal → imputasi modus + one-hot encoding  
-- **Model yang diuji:**  
-  - Linear Regression (baseline)  
-  - Random Forest  
-  - Gradient Boosting  
-  - XGBoost  
-- **Evaluasi:** MAE, MAPE, RMSE, R²  
-- **Hasil:**  
-  - Model tree-based (Random Forest / XGBoost) memberikan performa terbaik.
-
----
-
-## 5️⃣ Deployment
-
-- **Langkah:**  
-  - Melatih model terbaik dan menyimpannya: `used_car_price_model_rf.joblib`.  
-  - Menyediakan fungsi `predict_price(record)` untuk inferensi cepat.  
-- **Integrasi:**  
-  - API (FastAPI/Flask) → prediksi real-time.  
-  - Batch scoring → analisis berkala.  
-  - Output → rekomendasi harga dan rentang harga wajar di UI.
-
----
-
-## 6️⃣ Customer / Stakeholder Acceptance
-
-- **Validasi metrik:** MAE, MAPE, RMSE, R² dihitung ulang di data uji.  
-- **Analisis error:**  
-  - `error_df` berisi harga aktual vs prediksi, Absolute Error, APE.  
-  - Analisis per `Type` dan `Region` untuk deteksi segmen rawan error.  
-- **Kesimpulan:**  
-  - Model cukup stabil untuk segmen umum.  
-  - Error tinggi pada segmen langka → kandidat iterasi berikutnya.  
-- **Dokumentasi hand-off:**  
-  - File model, notebook TDSP, dan panduan retraining.
-
----
-
-## ⚙️ Agile & TDSP Alignment
-
-- **Iteratif:** hasil evaluasi dapat memicu perbaikan dari tahap mana pun.  
-- **Kolaboratif:** stakeholder dilibatkan di awal & akhir proyek.  
-- **Adaptif:** mudah menyesuaikan perubahan kebutuhan bisnis.
-
----
-
-## ⚠️ Limitasi & Rekomendasi
-
-**Limitasi:**
-- Tidak mempertimbangkan kondisi visual mobil (tidak ada data gambar/teks).
-- Error tinggi pada segmen dengan data sedikit.
-- Harga pasar bisa berubah cepat (perlu retraining berkala).
-
-**Next Steps:**
-- Tambah fitur deskriptif (NLP / inspeksi).  
-- Lakukan hyperparameter tuning lanjut (GridSearch, Optuna).  
-- Bangun monitoring pipeline untuk deteksi data drift.  
-- Gunakan feedback pengguna untuk iterasi model berikutnya.
-
----
-
-## ✅ Kesimpulan Akhir
-
-Proyek ini menunjukkan implementasi **TDSP end-to-end** untuk problem nyata:  
-membangun, mengevaluasi, dan mendeliver model prediksi harga mobil bekas.
-
-Model ini:
-- **Siap di-deploy** dan digunakan untuk estimasi harga otomatis.  
-- **Dapat ditingkatkan** seiring pertambahan data dan kebutuhan bisnis baru.  
-- **Memberikan blueprint TDSP** bagi proyek data science berikutnya.
+Secara keseluruhan, proyek ini menghasilkan solusi prediktif yang **reproducible**, **berorientasi bisnis**, dan **siap dikembangkan lebih lanjut**, misalnya melalui integrasi ke dashboard analitik atau API. Proyek ini menunjukkan penerapan end-to-end data science workflow yang tidak hanya berfokus pada akurasi model, tetapi juga pada relevansi bisnis dan kesiapan implementasi di dunia nyata.
 
 ---
 
