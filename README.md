@@ -14,5 +14,5 @@ Secara keseluruhan, proyek ini menghasilkan solusi prediktif yang **reproducible
 
 ---
 
-Terima kasih kepada teman-teman saya: Kirana, Adrian, dan Satrio yang telah membuat proyek ini sangat bermanfaat untuk tujuan pembelajaran saya dalam regresi ML! Anda dapat merujuk ke sumber aslinya di sini: https://github.com/PurwadhikaDev/BetaGroup\_JC\_DS\_FT\_BSD\_26\_FinalProject
+Terima kasih kepada teman-teman saya: Kirana, Adrian, dan Satrio yang telah membuat proyek ini sangat bermanfaat untuk tujuan pembelajaran saya dalam regresi ML! Anda dapat merujuk ke sumber aslinya di sini: https://github.com/PurwadhikaDev/BetaGroup_JC_DS_FT_BSD_26_FinalProject
 
