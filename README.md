@@ -2,23 +2,24 @@
 
 ---
 
-arabian-cars-1/
-  Dataset/
-    UsedCarsSA_Unclean_Ar.xlsx
-    UsedCarsSA_Unclean_EN.csv
-    UsedCarsSA_Clean.csv
-    UsedCarsSA_Clean_EN.csv
-  Environment/
-    environment.yml
-  Model/
-    xgb_tuned_mae11198_20251218.joblib
-  Notebook/
-    01_Business Understanding.ipynb
-    02_Data Acquisition And Understanding.ipynb
-    03_Modeling.ipynb
-    04_Deployment.ipynb
-    05_Customer or Stakeholder Acceptance.ipynb
-  README.md
+| Path                                                   | Type   | Description                             |
+| ------------------------------------------------------ | ------ | --------------------------------------- |
+| `Dataset/`                                             | Folder | Dataset mobil bekas Arab Saudi          |
+| `Dataset/UsedCarsSA_Unclean_Ar.xlsx`                   | File   | Dataset mentah (Bahasa Arab)            |
+| `Dataset/UsedCarsSA_Unclean_EN.csv`                    | File   | Dataset mentah (terjemahan Inggris)     |
+| `Dataset/UsedCarsSA_Clean.csv`                         | File   | Dataset bersih untuk modeling           |
+| `Dataset/UsedCarsSA_Clean_EN.csv`                      | File   | Dataset bersih (English version)        |
+| `Environment/`                                         | Folder | Environment & dependency management     |
+| `Environment/environment.yml`                          | File   | Conda/Mamba environment (reproducible)  |
+| `Model/`                                               | Folder | Artefak model machine learning          |
+| `Model/xgb_tuned_mae11198_20251218.joblib`             | File   | Model XGBoost terbaik hasil tuning      |
+| `Notebook/`                                            | Folder | Notebook end-to-end workflow            |
+| `Notebook/01_Business Understanding.ipynb`             | File   | Business problem & objectives           |
+| `Notebook/02_Data Acquisition And Understanding.ipynb` | File   | EDA, data understanding                 |
+| `Notebook/03_Modeling.ipynb`                           | File   | Modeling, evaluation, tuning            |
+| `Notebook/04_Deployment.ipynb`                         | File   | Inference & deployment preparation      |
+| `Notebook/05_Customer or Stakeholder Acceptance.ipynb` | File   | Acceptance, limitation & recommendation |
+| `README.md`                                            | File   | Dokumentasi utama proyek                |
 
 ---
 Proyek ini bertujuan membangun **model machine learning regresi** untuk memprediksi **harga wajar mobil bekas di Arab Saudi** menggunakan dataset *Saudi Arabia Used Cars* (±8.000 data) dari Kaggle. Model dirancang untuk membantu **penjual, pembeli, dan platform** dalam pengambilan keputusan harga yang objektif, dengan fitur utama seperti merek, tipe, tahun produksi, ukuran mesin, jarak tempuh, region, dan opsi kendaraan. Keberhasilan model diukur menggunakan **MAE dan MAPE**, dengan target akurasi yang relevan secara bisnis.
