@@ -3,28 +3,22 @@
 ---
 
 arabian-cars-1/
-|
-+-- Dataset/
-|   +-- UsedCarsSA_Unclean_Ar.xlsx
-|   +-- UsedCarsSA_Unclean_EN.csv
-|   +-- UsedCarsSA_Clean.csv
-|   +-- UsedCarsSA_Clean_EN.csv
-|
-+-- Environment/
-|   +-- environment.yml
-|
-+-- Model/
-|   +-- xgb_tuned_mae11198_20251218.joblib
-|
-+-- Notebook/
-|   +-- 01_Business Understanding.ipynb
-|   +-- 02_Data Acquisition And Understanding.ipynb
-|   +-- 03_Modeling.ipynb
-|   +-- 04_Deployment.ipynb
-|   +-- 05_Customer or Stakeholder Acceptance.ipynb
-|
-+-- README.md
-
+  Dataset/
+    UsedCarsSA_Unclean_Ar.xlsx
+    UsedCarsSA_Unclean_EN.csv
+    UsedCarsSA_Clean.csv
+    UsedCarsSA_Clean_EN.csv
+  Environment/
+    environment.yml
+  Model/
+    xgb_tuned_mae11198_20251218.joblib
+  Notebook/
+    01_Business Understanding.ipynb
+    02_Data Acquisition And Understanding.ipynb
+    03_Modeling.ipynb
+    04_Deployment.ipynb
+    05_Customer or Stakeholder Acceptance.ipynb
+  README.md
 
 ---
 Proyek ini bertujuan membangun **model machine learning regresi** untuk memprediksi **harga wajar mobil bekas di Arab Saudi** menggunakan dataset *Saudi Arabia Used Cars* (±8.000 data) dari Kaggle. Model dirancang untuk membantu **penjual, pembeli, dan platform** dalam pengambilan keputusan harga yang objektif, dengan fitur utama seperti merek, tipe, tahun produksi, ukuran mesin, jarak tempuh, region, dan opsi kendaraan. Keberhasilan model diukur menggunakan **MAE dan MAPE**, dengan target akurasi yang relevan secara bisnis.
