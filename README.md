@@ -1,15 +1,16 @@
 # Used Cars Price Prediction – Saudi Arabia
+
 ---
 arabian-cars-1/
 │
 ├── Dataset/
-│   ├── UsedCarsSA_Unclean_Ar.xlsx        # Dataset mentah (Bahasa Arab)
-│   ├── UsedCarsSA_Unclean_EN.csv         # Dataset mentah (terjemahan Inggris)
-│   ├── UsedCarsSA_Clean.csv              # Dataset bersih (versi final)
-│   └── UsedCarsSA_Clean_EN.csv           # Dataset bersih (English version)
+│   ├── UsedCarsSA_Unclean_Ar.xlsx      # Dataset mentah (Bahasa Arab)
+│   ├── UsedCarsSA_Unclean_EN.csv       # Dataset mentah (terjemahan Inggris)
+│   ├── UsedCarsSA_Clean.csv            # Dataset bersih (versi final)
+│   └── UsedCarsSA_Clean_EN.csv         # Dataset bersih (English version)
 │
 ├── Environment/
-│   └── environment.yml                   # Environment Conda/Mamba untuk reproduktibilitas
+│   └── environment.yml                 # Environment Conda/Mamba (reproducibility)
 │
 ├── Model/
 │   └── xgb_tuned_mae11198_20251218.joblib
@@ -22,8 +23,8 @@ arabian-cars-1/
 │   ├── 04_Deployment.ipynb
 │   └── 05_Customer or Stakeholder Acceptance.ipynb
 │
-├── README.md                             # Dokumentasi utama proyek
-├── lst.txt                               # Catatan/utility tambahan (opsional)
+├── README.md                           # Dokumentasi utama proyek
+
 ---
 Proyek ini bertujuan membangun **model machine learning regresi** untuk memprediksi **harga wajar mobil bekas di Arab Saudi** menggunakan dataset *Saudi Arabia Used Cars* (±8.000 data) dari Kaggle. Model dirancang untuk membantu **penjual, pembeli, dan platform** dalam pengambilan keputusan harga yang objektif, dengan fitur utama seperti merek, tipe, tahun produksi, ukuran mesin, jarak tempuh, region, dan opsi kendaraan. Keberhasilan model diukur menggunakan **MAE dan MAPE**, dengan target akurasi yang relevan secara bisnis.
 
