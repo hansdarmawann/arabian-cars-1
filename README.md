@@ -12,7 +12,7 @@
 | `Environment/`                                         | Folder | Environment & dependency management     |
 | `Environment/environment.yml`                          | File   | Conda/Mamba environment (reproducible)  |
 | `Model/`                                               | Folder | Artefak model machine learning          |
-| `Model/xgb_tuned_mae11198_20251218.joblib`             | File   | Model XGBoost terbaik hasil tuning      |
+| `Model/xgb_tuned_mae11198_20251222.joblib`             | File   | Model XGBoost terbaik hasil tuning      |
 | `Notebook/`                                            | Folder | Notebook end-to-end workflow            |
 | `Notebook/01_Business Understanding.ipynb`             | File   | Business problem & objectives           |
 | `Notebook/02_Data Acquisition And Understanding.ipynb` | File   | EDA, data understanding                 |
