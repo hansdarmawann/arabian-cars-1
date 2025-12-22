@@ -4,21 +4,21 @@
 
 | Path                                                   | Type   | Description                             |
 | ------------------------------------------------------ | ------ | --------------------------------------- |
-| `Dataset/`                                             | Folder | Dataset mobil bekas Arab Saudi          |
-| `Dataset/UsedCarsSA_Unclean_Ar.xlsx`                   | File   | Dataset mentah (Bahasa Arab)            |
-| `Dataset/UsedCarsSA_Unclean_EN.csv`                    | File   | Dataset mentah (terjemahan Inggris)     |
-| `Dataset/UsedCarsSA_Clean.csv`                         | File   | Dataset bersih untuk modeling           |
-| `Dataset/UsedCarsSA_Clean_EN.csv`                      | File   | Dataset bersih (English version)        |
-| `Environment/`                                         | Folder | Environment & dependency management     |
-| `Environment/environment.yml`                          | File   | Conda/Mamba environment (reproducible)  |
-| `Model/`                                               | Folder | Artefak model machine learning          |
-| `Model/xgb_tuned_mae11198_20251222.joblib`             | File   | Model XGBoost terbaik hasil tuning      |
-| `Notebook/`                                            | Folder | Notebook end-to-end workflow            |
-| `Notebook/01_Business Understanding.ipynb`             | File   | Business problem & objectives           |
-| `Notebook/02_Data Acquisition And Understanding.ipynb` | File   | EDA, data understanding                 |
-| `Notebook/03_Modeling.ipynb`                           | File   | Modeling, evaluation, tuning            |
-| `Notebook/04_Deployment.ipynb`                         | File   | Inference & deployment preparation      |
-| `Notebook/05_Customer or Stakeholder Acceptance.ipynb` | File   | Acceptance, limitation & recommendation |
+| `Datasets/`                                             | Folder | Dataset mobil bekas Arab Saudi          |
+| `Datasets/UsedCarsSA_Unclean_Ar.xlsx`                   | File   | Dataset mentah (Bahasa Arab)            |
+| `Datasets/UsedCarsSA_Unclean_EN.csv`                    | File   | Dataset mentah (terjemahan Inggris)     |
+| `Datasets/UsedCarsSA_Clean.csv`                         | File   | Dataset bersih untuk modeling           |
+| `Datasets/UsedCarsSA_Clean_EN.csv`                      | File   | Dataset bersih (English version)        |
+| `Environments/`                                         | Folder | Environment & dependency management     |
+| `Environments/environment.yml`                          | File   | Conda/Mamba environment (reproducible)  |
+| `Models/`                                               | Folder | Artefak model machine learning          |
+| `Models/xgb_tuned_mae11198_20251222.joblib`             | File   | Model XGBoost terbaik hasil tuning      |
+| `Notebooks/`                                            | Folder | Notebook end-to-end workflow            |
+| `Notebooks/01_Business Understanding.ipynb`             | File   | Business problem & objectives           |
+| `Notebooks/02_Data Acquisition And Understanding.ipynb` | File   | EDA, data understanding                 |
+| `Notebooks/03_Modeling.ipynb`                           | File   | Modeling, evaluation, tuning            |
+| `Notebooks/04_Deployment.ipynb`                         | File   | Inference & deployment preparation      |
+| `Notebooks/05_Customer or Stakeholder Acceptance.ipynb` | File   | Acceptance, limitation & recommendation |
 | `README.md`                                            | File   | Dokumentasi utama proyek                |
 
 ---
