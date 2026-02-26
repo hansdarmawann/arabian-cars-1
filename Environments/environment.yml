@@ -1,4 +1,4 @@
-name: arabian-cars-1
+name: arc-1
 channels:
   - conda-forge
   - defaults
@@ -267,4 +267,4 @@ dependencies:
       - numba==0.63.1
       - shap==0.50.0
       - slicer==0.0.8
-prefix: C:\Users\U1\miniconda3\envs\arabian-cars-1
+prefix: C:\Users\U1\miniconda3\envs\arc-1

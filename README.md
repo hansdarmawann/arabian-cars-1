@@ -1,35 +1,37 @@
 # Used Cars Price Prediction – Saudi Arabia
+
 by Hans Darmawan
 
 ---
 
-| Path                                                   | Type   | Description                             |
-| ------------------------------------------------------ | ------ | --------------------------------------- |
-| `Datasets/`                                             | Folder | Dataset mobil bekas Arab Saudi          |
-| `Datasets/UsedCarsSA_Unclean_Ar.xlsx`                   | File   | Dataset mentah (Bahasa Arab)            |
-| `Datasets/UsedCarsSA_Unclean_EN.csv`                    | File   | Dataset mentah (terjemahan Inggris)     |
-| `Datasets/UsedCarsSA_Clean.csv`                         | File   | Dataset bersih untuk modeling           |
-| `Datasets/UsedCarsSA_Clean_EN.csv`                      | File   | Dataset bersih (English version)        |
-| `Environments/`                                         | Folder | Environment & dependency management     |
-| `Environments/environment.yml`                          | File   | Conda/Mamba environment (reproducible)  |
-| `Models/`                                               | Folder | Artefak model machine learning          |
-| `Models/xgb_tuned_mae11198_20251222.joblib`             | File   | Model XGBoost terbaik hasil tuning      |
-| `Notebooks/`                                            | Folder | Notebook end-to-end workflow            |
-| `Notebooks/01_Business Understanding.ipynb`             | File   | Business problem & objectives           |
-| `Notebooks/02_Data Acquisition And Understanding.ipynb` | File   | EDA, data understanding                 |
-| `Notebooks/03_Modeling.ipynb`                           | File   | Modeling, evaluation, tuning            |
-| `Notebooks/04_Deployment.ipynb`                         | File   | Inference & deployment preparation      |
-| `Notebooks/05_Customer or Stakeholder Acceptance.ipynb` | File   | Acceptance, limitation & recommendation |
-| `README.md`                                            | File   | Dokumentasi utama proyek                |
-
----
-Proyek ini bertujuan membangun **model machine learning regresi** untuk memprediksi **harga wajar mobil bekas di Arab Saudi** menggunakan dataset *Saudi Arabia Used Cars* (±8.000 data) dari Kaggle. Model dirancang untuk membantu **penjual, pembeli, dan platform** dalam pengambilan keputusan harga yang objektif, dengan fitur utama seperti merek, tipe, tahun produksi, ukuran mesin, jarak tempuh, region, dan opsi kendaraan. Keberhasilan model diukur menggunakan **MAE**, dengan target akurasi yang relevan secara bisnis.
-
-Data diproses melalui tahapan **EDA, pembersihan, imputasi, penanganan outlier (IQR), konversi tipe data, dan feature engineering** seperti *Car_Age* dan *Mileage_per_Year*. Proses modeling dilakukan secara end-to-end menggunakan **pipeline preprocessing** untuk mencegah data leakage, dengan evaluasi beberapa algoritma regresi. **XGBoost** terpilih sebagai model terbaik setelah **cross-validation dan hyperparameter tuning**, menghasilkan performa paling stabil dan akurat. **SHAP analysis** menunjukkan bahwa *Engine_Size, Year, Mileage,* dan *Car_Age* merupakan faktor dominan penentu harga.
-
-Model akhir diimplementasikan dalam bentuk **pipeline terintegrasi** yang siap digunakan secara operasional, mampu menerima input kendaraan baru dan menghasilkan estimasi **harga wajar pasar** secara konsisten. Artefak model disimpan dan dapat digunakan untuk integrasi sistem maupun deployment lebih lanjut.
+| Path                                                    | Type   | Description                               |
+| ------------------------------------------------------- | ------ | ----------------------------------------- |
+| `Datasets/`                                             | Folder | Saudi Arabia used car dataset             |
+| `Datasets/UsedCarsSA_Unclean_Ar.xlsx`                   | File   | Raw dataset (Arabic)                      |
+| `Datasets/UsedCarsSA_Unclean_EN.csv`                    | File   | Raw dataset (English translation)         |
+| `Datasets/UsedCarsSA_Clean.csv`                         | File   | Clean dataset for modeling                |
+| `Datasets/UsedCarsSA_Clean_EN.csv`                      | File   | Clean dataset (English version)           |
+| `Environments/`                                         | Folder | Environment & dependency management       |
+| `Environments/environment.yml`                          | File   | Conda/Mamba environment (reproducible)    |
+| `Models/`                                               | Folder | Machine learning model artifacts          |
+| `Models/xgb_tuned_mae11198_20251222.joblib`             | File   | Best XGBoost model from tuning            |
+| `Notebooks/`                                            | Folder | End-to-end workflow notebooks             |
+| `Notebooks/01_Business Understanding.ipynb`             | File   | Business problem & objectives             |
+| `Notebooks/02_Data Acquisition And Understanding.ipynb` | File   | EDA & data understanding                  |
+| `Notebooks/03_Modeling.ipynb`                           | File   | Modeling, evaluation, tuning              |
+| `Notebooks/04_Deployment.ipynb`                         | File   | Inference & deployment preparation        |
+| `Notebooks/05_Customer or Stakeholder Acceptance.ipynb` | File   | Acceptance, limitations & recommendations |
+| `README.md`                                             | File   | Main project documentation                |
 
 ---
 
-Terima kasih kepada teman-teman saya: Kirana, Adrian, dan Satrio yang telah membuat proyek ini sangat bermanfaat untuk tujuan pembelajaran saya dalam regresi ML! Anda dapat merujuk ke sumber aslinya di sini: https://github.com/PurwadhikaDev/BetaGroup_JC_DS_FT_BSD_26_FinalProject
+This project aims to build a **machine learning regression model** to predict the **fair price of used cars in Saudi Arabia** using the *Saudi Arabia Used Cars* dataset (±8,000 records) from Kaggle. The model is designed to help **sellers, buyers, and platforms** make objective pricing decisions, using key features such as brand, type, production year, engine size, mileage, region, and vehicle options. Model success is measured using **MAE**, with an accuracy target that is meaningful from a business perspective.
 
+The data was processed through **EDA, cleaning, imputation, outlier handling (IQR), data type conversion, and feature engineering** such as *Car_Age* and *Mileage_per_Year*. The modeling process was performed end-to-end using a **preprocessing pipeline** to prevent data leakage, with evaluation across multiple regression algorithms. **XGBoost** was selected as the best model after **cross-validation and hyperparameter tuning**, delivering the most stable and accurate performance. **SHAP analysis** indicates that *Engine_Size, Year, Mileage,* and *Car_Age* are the dominant factors influencing price.
+
+The final model is implemented as an **integrated pipeline** ready for operational use, capable of receiving new vehicle inputs and consistently producing **fair market price estimates**. The model artifact is saved and can be used for system integration or further deployment.
+
+---
+
+Special thanks to my friends Kirana, Adrian, and Satrio for making this project highly valuable for my learning journey in ML regression! You can refer to the original source here:
+https://github.com/PurwadhikaDev/BetaGroup_JC_DS_FT_BSD_26_FinalProject
